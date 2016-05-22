@@ -1,0 +1,53 @@
+﻿اللہ|UNK تعالی|NN کے|P حسن|NN و|CC جمال|NN کا|P کوئی|Q اندازہ|NN نہیں|NEG لگا|VB سکتا|AA ۔|SM
+وہ|PP حسین|ADJ و|CC جمیل|PN ہے|VB ہماری|G سوچ|NN سے|SE بڑھ|VB کر|KER ،|PM اور|CC ہماری|G عقل|NN سے|SE بڑھ|VB کر|KER اور|CC حسن|NN و|CC جمال|PN کو|P پسند|NN فرماتا|VB ہے|TA ۔|SM
+قدرت|NN کی|P تخلیق|NN کردہ|ADJ اس|PD کائنات|NN میں|P ہم|PP بہت|ADV سے|SE حسین|ADJ مناظر|NN کا|P نظارہ|NN کرتے|VB ہیں|TA ۔|SM
+جن|REP کو|P دیکھ|VB ہمارا|G ایمان|NN مضبوط|ADJ اور|CC پختہ|ADJ ہوجاتا|VB ہے|TA ۔|SM
+قدرت|NN کے|P یہ|PP حسین|ADJ مناظر|NN اللہ|PN تعالی|NN کے|P ہونے|VB کی|P واضح|ADJ دلیل|NN ہیں|TA ۔|SM
+پرندے|NN اللہ|PN تعالی|NN کی|P حسین|ADJ تخلیق|NN ہیں|VB جو|REP ہمارے|G ارد|NN گرد|NN کے|P ماحول|NN میں|P بسیرا|VB کرتے|VB ہیں|TA ۔|SM
+اور|CC مکانوں|NN درختوں|NN پر|P اپنے|GR گھونسلے|NN بناتے|VB ہیں|TA او|PN ر|PN بہت|ADV دلکش|ADJ اورخوبصورت|NN انداز|NN میں|P ہم|PP ان|PP کو|P دانہ|NN چنتے|VB ہوئے|VB اور|CC حرکت|NN کرتے|VB ہوئے|AA دیکھ|VB کر|KER خود|RP کو|P محظوظ|ADJ کرتے|VB ہیں|TA ۔|SM
+پرندوں|NN کی|P ہر|Q جگہ|NN موجودگی|NN اور|CC رنگا|VB رنگی|NN ،|PM ہوشیاری|NN اور|CC ان|PP کی|P شوخی|NN انداز|NN ہم|PP سب|Q کے|P اندر|NN ان|PP کی|P مقبولیت|NN کے|P لئے|NN کافی|ADJ ہیں|TA ۔|SM
+یہاں|AP ہر|Q آدمی|NN پرندوں|NN سے|SE محبت|NN کرتا|VB ہے|TA ۔|SM
+دنیا|NN میں|P پرندوں|NN کی|P کوئی|Q 9703|UNK قسمیں|NN پائے|VB جاتے|AA ہیں|TA ۔|SM
+اورپرندے|SC عام|ADJ طور|NN پر|P ہر|Q جگہ|NN پائے|VB جاتے|AA ہیں|TA ،|PM سمندر|NN ہو|VB یا|CC جنگل|NN ،|PM پہاڑ|NN ہوں|VB یا|CC ریگستان|NN ہر|Q جگہ|NN کسی|KD نہ|NEG کسی|KD قسم|NN کے|P پرندے|NN پائے|VB جاتے|AA ہیں|TA ۔|SM
+تاہم|SC پرندوں|NN کی|P دنیا|NN میںصحیح|UNK تعداد|NN کا|P اندازہ|NN لگانا|VB بہت|ADV مشکل|ADJ ہے|VB کیونکہ|SC موسموں|NN کی|P تبدیلی|NN کے|P ساتھ|NN ساتھ|NN ان|PP کی|P تعداد|NN بڑھتی|VB اور|CC گھٹتی|VB رہتی|VB ہے|TA ۔|SM
+لیکن|SC سائنسدانوں|NN کا|P خیال|NN ہے|TA کہ|SC ہمارے|G اجرام|NN فلکی|NN کے|P اندر|NN ایک|CA وقت|NN میں|P 100000اور200000کی|UNK تعداد|NN میں|P بالغ|ADJ یا|CC کم|ADJ عمر|NN پرندے|NN ہوتے|VB ہیں|TA ۔|SM
+موسموں|NN میں|P تبدیلی|NN کے|P ساتھ|NN ہی|I پرندے|NN نقل|NN مکانی|NN کرنا|VB شروع|NN کرتے|VB ہیں|TA ۔|SM
+گرم|ADJ علاقوں|NN سے|SE ٹھنڈے|ADJ علاقوں|NN کی|P طرف|NN اپنا|GR سفر|NN شروع|NN کرتے|VB ہیں|TA ۔|SM
+چترال|NN میں|P موسم|NN بہار|NN کے|P شروع|NN ہوتے|VB ہی|I مختلف|ADJ پرندے|NN نمودار|NN ہوتے|VB ہیں|TA ۔|SM
+مارچ|PN سے|SE شروع|NN ہوکر|TA جون|PN تک|P چترال|NN کی|P خوبصورتی|NN اپنے|GR عروج|NN پر|P پہنچ|VB جاتی|AA ہے|TA اور|CC اس|PD دوران|NN یہاں|AP طرح|NN طرح|NN کے|P پرندے|NN دوسری|ADJ جگہوں|NN سے|SE نقل|NN مکانی|NN کرکے|NN آتے|VB ہیں|VB جو|REP یہاں|AP کے|P طبعی|ADJ حسن|NN کو|P دوبالا|VB کر|VB دیتے|AA ہیں|TA ۔|SM
+مارچ|PN سے|SE یہاں|AP پہاڑوں|NN پر|P سے|SE برف|NN پگھلنا|VB شروع|NN ہوتا|VB ہے|TA ۔|SM
+پہاڑوں|NN پر|P سے|SE برف|NN پگھلتے|VB ہی|I پرندوں|NN کے|P ساتھ|NN ساتھ|NN یہاں|AP جنگلی|ADJ بکریاں|NN بھی|I نمودار|VB ہوتی|VB ہیں|VB جو|REP یہاں|AP کے|P جنگلات|NN کےحسن|PN کو|P چار|CA چاند|NN لگا|VB دیتے|AA ہیں|TA ۔|SM
+یہاں|AP کے|P پہاڑوں|NN پر|P کستوری|NN ہرن|NN ،|PM آئی|VB بیکس|NN (|PN کوہ|NN ایلپس|PN کا|P بکرا|NN )|PN ،|PM ریچھ|NN ،|PM اور|CC شکار|NN ہونے|VB والے|WALA پرندوں|NN میں|P تیتر|NN ،|PM چکور|NN ،|PM فاختہ|NN ،|PM شامل|ADJ ہیں|TA اور|CC آبی|ADJ جانوروں|NN میں|P بطخیں|NN ،|PM بگلے|NN ،|PM اور|CC دوسرے|ADJ آبی|ADJ پرندے|NN شامل|ADJ ہیں|TA ۔|SM
+اس|PD موسم|NN میں|P بے|PN رحم|NN اور|CC بے|PN دل|NN شکاری|NN حضرات|NN کی|P بے|PN رحمی|NN بھی|I اپنے|GR انتہا|NN کو|P پہنچ|VB جاتی|AA ہے|TA ۔|SM
+ان|PP ننھے|ADJ مننھے|UNK پرندوں|NN کو|P یہ|PD لوگ|NN اپنی|GR بندوقوں|NN کی|P گولیوں|NN کا|P نشانہ|NN بناتے|VB ہیں|TA ۔|SM
+پہاڑی|NN جانوروں|NN کے|P شکار|NN کے|P لئے|NN بھیس|NN بدل|VB کریہ|NN لوگ|NN نماز|NN فجر|PN سے|SE پہلے|NN شکار|NN گاہ|NN کی|P طرف|NN نکل|VB جاتے|AA ہیں|TA ۔|SM
+جب|AP لوگ|NN اللہ|PN تعالی|NN کا|P شکر|NN بجا|VB لانے|VB کے|P لئے|NN اپنی|GR اپنی|GR عبادت|NN گاہوں|NN کو|P جا|AA رہے|AA ہوتے|VB ہیں|TA ۔|SM
+جہاں|AP یہ|PP جانور|NN اپنی|GR خوراک|NN کی|P تلاش|NN میں|P آتے|VB ہیں|TA ان|PD جگہوں|NN پر|P شکاری|NN حضرات|NN خندقیں|NN کھود|VB کر|KER رکھتے|VB ہیں|TA ،|PM اور|CC ان|PP کے|P آنے|VB کا|P وقت|NN بھی|I ان|PP کو|P معلوم|ADJ ہوتا|VB ہے|TA ۔|SM
+چہروں|NN پر|P جانوروں|NN کا|P ماسک|NN پہن|VB لیتے|AA ہیں|TA ،|PM جس|REP کی|P وجہ|NN سے|SE جانور|NN اپنے|GR بچائو|NN کی|P بھی|I کوشش|NN نہیں|NEG کرتے|VB ہیں|TA ۔|SM
+اور|CC آسانی|NN سے|SE شکار|NN ہو|VB جاتے|AA ہیں|TA ۔|SM
+آبی|ADJ جانوروں|NN کے|P شکار|NN کے|P لئے|NN مصنوعی|ADJ تالاب|NN بنائے|VB جاتے|AA ہیں|TA ۔|SM
+جس|REP کے|P ارد|NN گرد|NN مضبوط|ADJ بندھ|VB بندھا|VB ہوتاہے|VB ،|PM اور|CC مضبوط|ADJ دیوار|NN ہوتی|VB ہے|TA ۔|SM
+عام|ADJ طور|NN پر|P یہ|PP جانور|NN صبح|NN اور|CC شام|NN کے|P وقت|NN سفر|NN کرتے|VB ہیں|TA ،|PM راستے|NN میں|P آئے|VB ان|PP تالابوں|NN میں|P ،|PM جیسے|A کہ|SC ان|PP کی|P فطر|NN ت|NN میں|P تیرنے|VB کا|P شوق|NN ہوتا|VB ہے|TA ،|PM اپنے|GR شوق|NN کوپورا|VB کرنے|VB کے|P لئے|NN ان|PP تالابوں|NN میں|P آتے|VB ہیں|TA ۔|SM
+اور|CC یوں|AP شکاری|NN پہلے|NN سے|SE وہاں|AP موجود|ADJ ہوتا|VB ہے|TA اس|PP پر|P فائر|PN کھول|VB دیتاہے|AA ۔|SM
+یوں|AP یہ|PD لوگ|NN اپنے|GR شوق|NN اور|CC بھوک|NN کو|P کم|ADJ کرنے|VB کے|P لئے|NN قدرت|NN کے|P ان|PP حسین|ADJ نظاروں|NN کا|P خاتمہ|NN کردیتے|VB ہیں|TA ۔|SM
+دیکھا|VB جائے|AA تو|I زمانہ|NN قدیم|ADJ جس|REP وقت|NN منظم|ADJ کھیتی|ADJ باڑی|NN اور|CC مال|NN مویشی|NN پالنے|VB کا|P رواج|NN نہیں|NEG تھا|VB یا|CC یوں|AP کہیں|AKP کہ|SC لوگ|NN اس|PD فن|NN سے|SE نا|ADV آشنا|VB تھے|TA ۔|SM
+جبکہ|SC اب|AP اس|PD دور|NN میں|P انسان|NN کو|P اپنی|GR بھوک|NN مٹانے|VB کے|P لئے|NN ہزاروں|Q نعمتیں|NN دستیاب|ADJ ہوں|TA ،|PM اور|CC وقت|NN گزارنے|VB اور|CC درجنوں|CA دورے|NN ذرائع|NN ہوں|TA وہاں|AP ان|PD جانوروں|NN کا|P قتل|NN عام|ADJ اور|CC نسل|NN کشی|NN قدرت|NN سے|SE بغاوت|NN کے|P مترادف|ADJ ہے|TA ۔|SM
+ان|PP قانوں|NN شکن|NN لوگوں|NN کے|P سامنے|NN حکومت|NN کا|P قانون|NN بھی|I بے|PN بس|PN نظر|NN آتا|VB ہے|TA ۔|SM
+اور|CC اس|PP سے|SE بڑھ|VB یہ|PP کہ|SC حکومت|NN ان|PP کو|P تحفظ|NN دینے|VB کے|P لئے|NN ان|PP کو|P اسلحہ|NN لائسنس|NN جاری|ADJ کرتی|VB ہے|VB جس|REP کے|P بل|NN بوتے|VB وہ|PP کھلے|ADJ عام|ADJ شکار|NN کرتے|VB ہیں|TA ۔|SM
+اور|CC وہ|PP جن|REP کے|P پاس|NN لائسنس|NN نہیں|NEG ہے|TA ان|PP کو|P بھی|I کوئی|Q روکنے|VB والا|WALA نہیں|NEG ۔|SM
+حکومت|NN نے|P جو|REP رکھوالی|NN کرنے|VB والے|WALA مقرر|ADJ کیا|VB ہے|TA وہ|PP تو|I خود|RP شکار|NN کے|P مشتاق|PN ہوتے|VB ہیں|TA ۔|SM
+وہ|PP بلا|ADV کسی|KD کو|P کیا|VB روکیں|VB گے|TA ۔|SM
+اپریل|PN سے|SE لیکر|VB مئی|PN کے|P مہینے|NN تک|P فاختوں|UNK کی|P پرواز|NN ہی|I ان|PD لوگوں|NN کو|P گوارا|ADJ نہیں|NEG ۔|SM
+ہوا|VB میں|P پرواز|NN کرتے|VB ہی|I اڑا|VB دیتے|AA ہیں|TA ۔|SM
+صبح|NN صادق|NN سے|SE فائرنگ|NN کی|P آوازیں|NN آتی|VB ہیں|TA ایسا|PP محسوس|ADJ ہوتا|VB ہے|TA جیسے|A کہ|SC دو|CA دشمنوں|NN کے|P درمیان|NN جنگ|NN چھڑ|VB گئی|AA ۔|SM
+میری|G ارباب|ADJ اختیار|NN سے|SE درخواست|NN ہے|TA کہ|SC قدرت|NN کے|P ان|PP حسین|ADJ نمونوں|NN کو|P ختم|ADJ ہونے|VB سے|SE بچائیں|VB ،|PM اور|CC ان|PD ظالموں|NN کو|P باز|NN رکھنے|VB کے|P لئے|NN سخت|ADJ سے|SE سخت|ADJ اقدامات|NN کریں|VB ۔|SM
+اورقانونی|SC اور|CC غیر|ADJ قانونی|ADJ شکار|NN کرنے|VB والوں|WALA کے|P لئے|NN سزا|NN مقرر|ADJ کریں|VB ۔|SM
+اور|CC واقعی|ADV میں|P ان|PP لوگو|VB ں|VB کو|P سزائیں|NN دیں|AA تاکہ|SC ہمارے|G ماحول|NN کی|P حسن|NN برقرار|ADJ رہے|AA ۔|SM
+اور|CC لوگوں|NN میںشعور|NN اجاگر|VB کیا|VB جائے|AA کہ|SC جانوروں|NN کو|P مار|VB نا|ADV صرف|ADV گناہ|NN ہی|I نہیں|NEG ،|PM اللہ|PN تعالی|NN کی|P قدرت|NN کے|P ساتھ|NN جنگ|NN ہی|I نہیں|NEG بلکہ|SC اپنے|GR ماحول|NN کو|P اپنے|GR ہی|I ہاتھوں|NN تباہ|ADJ کرنا|VB ہے|TA ۔|SM
+اللہ|PN تعالی|NN نے|P ہر|Q چیز|NN انسان|NN کی|P خاطر|NN پیدا|NN کی|VB ہے|TA ۔|SM
+کچھ|Q کو|P انسان|NN خوراک|NN کے|P طور|NN پر|P استعما|PN ل|PN کرتا|VB ہے|TA ،|PM اور|CC کسی|KD سے|SE باربرداری|NN کا|P کام|NN لیتاہے|AA ۔|SM
+گوشت|NN حاصل|ADJ کرنے|VB کے|P لئے|NN گائے|VB ،|PM بیل|PN ،|PM بکریاں|NN ،|PM بھیڑ|NN ،|PM مرغیاں|NN اور|CC دوسرے|ADJ پالتوں|NN جانور|NN شامل|ADJ ہیں|TA ۔|SM
+جن|REP کے|P ساتھ|NN ہم|PP محنت|NN کرتے|VB ہیں|TA ،|PM وہ|PP ہمارے|G لئے|NN حلال|NN ہیں|TA ۔|SM
+اور|CC بہت|ADV سے|SE ایسے|PP جانور|NN ہیں|VB جو|REP ہمارے|G ماحول|NN کو|P خوبصورت|ADJ بناتے|VB ہیں|TA ،|PM اور|CC ہمیں|PP ان|PP سے|SE دوسرے|ADJ بہت|ADV سے|SE فوائد|NN حاصل|ADJ ہیں|TA ۔|SM
+ہم|PP ان|PP کو|P ماریں|VB کیا|QW یہ|PD ظلم|NN نہیں|NEG ہے|TA ۔|SM
+کیا|QW یہ|PP نا|ADV شکری|NN نہیں|NEG ہے|TA ۔|SM

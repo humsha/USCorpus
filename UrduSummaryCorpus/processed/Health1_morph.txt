@@ -1,0 +1,1884 @@
+surface_form 	 lemma 	 Analysis 
+﻿ماہرین NOT_FOUND
+کا 	 کا PossPostPos PossPostPF Sg Masc
+خیال 	 خیال N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+کہ 	 کہ Conj ConjF
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+پھل 	 پھلنا Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+ 	    Verb Root
+ 	    Verb VF Subj Pers2_Casual Sg Masc
+ 	    Verb VF Subj Pers2_Casual Sg Fem
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+سبزیاں 	 سبزی N NF Pl Nom Fem
+انسانی NOT_FOUND
+خوراک 	 خوراک N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+کا 	 کا PossPostPos PossPostPF Sg Masc
+لازمی NOT_FOUND
+جز 	 جز N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ہونی 	 ہونا 	    Verb Inf_Fem
+چاہئیں NOT_FOUND
+۔ 
+
+ان 	 یِہ DemPron DPF Pl Obl Pers3_Near
+ 	    DemPron DPF Pl Obl Pers3_Distant
+ 	    PersPron PPF Pl Pers3_Near Obl
+ 	    PersPron PPF Pl Pers3_Distant Obl
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+موجود NOT_FOUND
+وٹامنز NOT_FOUND
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+معدنیات NOT_FOUND
+صحت NOT_FOUND
+مند NOT_FOUND
+رہنے 	 رہنا Verb Inf_Obl
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+بیماریوں 	 بیماری N NF Pl Obl Fem
+سے 	 سے PostP PostPosF
+بچاؤ 	 بچنا Verb1 Caus1 Subj Pers2_Casual Pl Masc
+ 	    Verb1 Caus1 Subj Pers2_Casual Pl Fem
+ 	    Verb1 Caus1 Subj Pers2_Familiar Sg Masc
+ 	    Verb1 Caus1 Subj Pers2_Familiar Sg Fem
+ 	    Verb1 Caus1 Subj Pers2_Familiar Pl Masc
+ 	    Verb1 Caus1 Subj Pers2_Familiar Pl Fem
+ 	    Verb1 Caus1 Subj Pers2_Respect Sg Masc
+ 	    Verb1 Caus1 Subj Pers2_Respect Sg Fem
+ 	    Verb1 Caus1 Subj Pers2_Casual Pl Masc
+ 	    Verb1 Caus1 Subj Pers2_Casual Pl Fem
+ 	    Verb1 Caus1 Subj Pers2_Familiar Sg Masc
+ 	    Verb1 Caus1 Subj Pers2_Familiar Sg Fem
+ 	    Verb1 Caus1 Subj Pers2_Familiar Pl Masc
+ 	    Verb1 Caus1 Subj Pers2_Familiar Pl Fem
+ 	    Verb1 Caus1 Subj Pers2_Respect Sg Masc
+ 	    Verb1 Caus1 Subj Pers2_Respect Sg Fem
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+لئے NOT_FOUND
+معاون NOT_FOUND
+ثابت NOT_FOUND
+ہوتی 	 ہونا Imperfective Pers1 Sg Fem
+ 	    Imperfective Pers2_Casual Sg Fem
+ 	    Imperfective Pers2_Familiar Sg Fem
+ 	    Imperfective Pers2_Respect Sg Fem
+ 	    Imperfective Pers3_Near Sg Fem
+ 	    Imperfective Pers3_Distant Sg Fem
+ 	    Verb VF Imperf Pers1 Sg Fem
+ 	    Verb VF Imperf Pers2_Casual Sg Fem
+ 	    Verb VF Imperf Pers2_Familiar Sg Fem
+ 	    Verb VF Imperf Pers2_Respect Sg Fem
+ 	    Verb VF Imperf Pers3_Near Sg Fem
+ 	    Verb VF Imperf Pers3_Distant Sg Fem
+ہیں 	 ہونا Present Pers1 Pl Masc
+ 	    Present Pers1 Pl Fem
+ 	    Present Pers2_Respect Sg Masc
+ 	    Present Pers2_Respect Sg Fem
+ 	    Present Pers2_Respect Pl Masc
+ 	    Present Pers2_Respect Pl Fem
+ 	    Present Pers3_Near Pl Masc
+ 	    Present Pers3_Near Pl Fem
+ 	    Present Pers3_Distant Pl Masc
+ 	    Present Pers3_Distant Pl Fem
+ 	    Subjunctive Pers1 Pl Masc
+ 	    Subjunctive Pers1 Pl Fem
+۔ 
+
+سبزیوں 	 سبزی N NF Pl Obl Fem
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+پھلوں 	 پھلنا Verb1 VF1 Subj Pers1 Sg Masc
+ 	    Verb1 VF1 Subj Pers1 Sg Fem
+ 	    Verb VF Subj Pers1 Sg Masc
+ 	    Verb VF Subj Pers1 Sg Fem
+ 	    N NF Pl Obl Masc
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+موجود NOT_FOUND
+دوسرے 	 دُوسْرا RelPron1 RPF1 Pl Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+اجزاء NOT_FOUND
+اینٹی NOT_FOUND
+آکسیڈنٹس NOT_FOUND
+، 
+پیتھو NOT_FOUND
+کیکیکلز NOT_FOUND
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+دیگر NOT_FOUND
+مرکبات NOT_FOUND
+کینسر NOT_FOUND
+، 
+ذیابیطس NOT_FOUND
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+دل 	 دل N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+امراض NOT_FOUND
+سے 	 سے PostP PostPosF
+محفوظ NOT_FOUND
+رکھتے 	 رکھنا Verb1 VF1 Imperf Pers1 Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Casual Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Familiar Sg Masc
+ 	    Verb1 VF1 Imperf Pers2_Familiar Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Respect Sg Masc
+ 	    Verb1 VF1 Imperf Pers2_Respect Pl Masc
+ 	    Verb1 VF1 Imperf Pers3_Near Pl Masc
+ 	    Verb1 VF1 Imperf Pers3_Distant Pl Masc
+ہیں 	 ہونا Present Pers1 Pl Masc
+ 	    Present Pers1 Pl Fem
+ 	    Present Pers2_Respect Sg Masc
+ 	    Present Pers2_Respect Sg Fem
+ 	    Present Pers2_Respect Pl Masc
+ 	    Present Pers2_Respect Pl Fem
+ 	    Present Pers3_Near Pl Masc
+ 	    Present Pers3_Near Pl Fem
+ 	    Present Pers3_Distant Pl Masc
+ 	    Present Pers3_Distant Pl Fem
+ 	    Subjunctive Pers1 Pl Masc
+ 	    Subjunctive Pers1 Pl Fem
+۔ 
+
+سبزیوں 	 سبزی N NF Pl Obl Fem
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+پھلوں 	 پھلنا Verb1 VF1 Subj Pers1 Sg Masc
+ 	    Verb1 VF1 Subj Pers1 Sg Fem
+ 	    Verb VF Subj Pers1 Sg Masc
+ 	    Verb VF Subj Pers1 Sg Fem
+ 	    N NF Pl Obl Masc
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+ڈھیروں 	 ڈھیر N NF Pl Obl Masc
+ 	    N NF Pl Obl Masc
+اقسام NOT_FOUND
+موجود NOT_FOUND
+ہیں 	 ہونا Present Pers1 Pl Masc
+ 	    Present Pers1 Pl Fem
+ 	    Present Pers2_Respect Sg Masc
+ 	    Present Pers2_Respect Sg Fem
+ 	    Present Pers2_Respect Pl Masc
+ 	    Present Pers2_Respect Pl Fem
+ 	    Present Pers3_Near Pl Masc
+ 	    Present Pers3_Near Pl Fem
+ 	    Present Pers3_Distant Pl Masc
+ 	    Present Pers3_Distant Pl Fem
+ 	    Subjunctive Pers1 Pl Masc
+ 	    Subjunctive Pers1 Pl Fem
+۔ 
+
+ماہرین NOT_FOUND
+کا 	 کا PossPostPos PossPostPF Sg Masc
+اصرار NOT_FOUND
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+کہ 	 کہ Conj ConjF
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+روزانہ NOT_FOUND
+پانچ 	 پانچ Num NumeralF Pl
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+مختلف NOT_FOUND
+اقسام NOT_FOUND
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+سبزیاں 	 سبزی N NF Pl Nom Fem
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+دو 	 دینا Verb VF Subj Pers2_Casual Pl Masc
+ 	    Verb VF Subj Pers2_Casual Pl Fem
+ 	    Verb VF Subj Pers2_Familiar Sg Masc
+ 	    Verb VF Subj Pers2_Familiar Sg Fem
+ 	    Verb VF Subj Pers2_Familiar Pl Masc
+ 	    Verb VF Subj Pers2_Familiar Pl Fem
+ 	    Verb VF Subj Pers2_Respect Sg Masc
+ 	    Verb VF Subj Pers2_Respect Sg Fem
+ 	    Verb VF Subj Pers2_Respect Pl Masc
+ 	    Verb VF Subj Pers2_Respect Pl Fem
+ 	    Num NumeralF Pl
+اقسام NOT_FOUND
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+پھل 	 پھلنا Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+ 	    Verb Root
+ 	    Verb VF Subj Pers2_Casual Sg Masc
+ 	    Verb VF Subj Pers2_Casual Sg Fem
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+انسانی NOT_FOUND
+خوراک 	 خوراک N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+کا 	 کا PossPostPos PossPostPF Sg Masc
+حصہ 	 حصہ N NF Sg Nom Masc
+ہونی 	 ہونا 	    Verb Inf_Fem
+چاہئیں NOT_FOUND
+۔ 
+
+ماہرین NOT_FOUND
+کہتے 	 کہنا Verb1 VF1 Imperf Pers1 Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Casual Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Familiar Sg Masc
+ 	    Verb1 VF1 Imperf Pers2_Familiar Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Respect Sg Masc
+ 	    Verb1 VF1 Imperf Pers2_Respect Pl Masc
+ 	    Verb1 VF1 Imperf Pers3_Near Pl Masc
+ 	    Verb1 VF1 Imperf Pers3_Distant Pl Masc
+ہیں 	 ہونا Present Pers1 Pl Masc
+ 	    Present Pers1 Pl Fem
+ 	    Present Pers2_Respect Sg Masc
+ 	    Present Pers2_Respect Sg Fem
+ 	    Present Pers2_Respect Pl Masc
+ 	    Present Pers2_Respect Pl Fem
+ 	    Present Pers3_Near Pl Masc
+ 	    Present Pers3_Near Pl Fem
+ 	    Present Pers3_Distant Pl Masc
+ 	    Present Pers3_Distant Pl Fem
+ 	    Subjunctive Pers1 Pl Masc
+ 	    Subjunctive Pers1 Pl Fem
+کہ 	 کہ Conj ConjF
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+ترقی 	 ترقی N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+پزیر NOT_FOUND
+ممالک NOT_FOUND
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+ساتھ NOT_FOUND
+ساتھ NOT_FOUND
+ترقی 	 ترقی N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+یافتہ NOT_FOUND
+ممالک NOT_FOUND
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+بھی 	 بھی Part ParticleF
+ 	    Conj ConjF
+کینسر NOT_FOUND
+کا 	 کا PossPostPos PossPostPF Sg Masc
+ایک 	 ایک RelPron2 RPF2 Nom
+ 	    RelPron2 RPF2 Obl
+ 	    RelPron2 RPF2 Voc
+ 	    Num NumeralF Pl
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+سبب NOT_FOUND
+سبزیوں 	 سبزی N NF Pl Obl Fem
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+پھلوں 	 پھلنا Verb1 VF1 Subj Pers1 Sg Masc
+ 	    Verb1 VF1 Subj Pers1 Sg Fem
+ 	    Verb VF Subj Pers1 Sg Masc
+ 	    Verb VF Subj Pers1 Sg Fem
+ 	    N NF Pl Obl Masc
+کا 	 کا PossPostPos PossPostPF Sg Masc
+کم 	 کم Adj1 AdjF1
+ 	    Adj AdjF Sg Nom Masc
+تر 	 ترنا Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ہوتا 	 ہونا Imperfective Pers1 Sg Masc
+ 	    Imperfective Pers2_Casual Sg Masc
+ 	    Imperfective Pers3_Near Sg Masc
+ 	    Imperfective Pers3_Distant Sg Masc
+ 	    Verb VF Imperf Pers1 Sg Masc
+ 	    Verb VF Imperf Pers2_Casual Sg Masc
+ 	    Verb VF Imperf Pers3_Near Sg Masc
+ 	    Verb VF Imperf Pers3_Distant Sg Masc
+استعمال NOT_FOUND
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+عموما NOT_FOUND
+لوگ 	 لوگ N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+سبزیوں 	 سبزی N NF Pl Obl Fem
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+پھلوں 	 پھلنا Verb1 VF1 Subj Pers1 Sg Masc
+ 	    Verb1 VF1 Subj Pers1 Sg Fem
+ 	    Verb VF Subj Pers1 Sg Masc
+ 	    Verb VF Subj Pers1 Sg Fem
+ 	    N NF Pl Obl Masc
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+استعمال NOT_FOUND
+کو 	 کو PostP PostPosF
+نظر 	 نظر N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+انداز 	 انداز N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+کرتے 	 کرنا Verb VF Imperf Pers1 Pl Masc
+ 	    Verb VF Imperf Pers2_Casual Pl Masc
+ 	    Verb VF Imperf Pers2_Familiar Sg Masc
+ 	    Verb VF Imperf Pers2_Familiar Pl Masc
+ 	    Verb VF Imperf Pers2_Respect Sg Masc
+ 	    Verb VF Imperf Pers2_Respect Pl Masc
+ 	    Verb VF Imperf Pers3_Near Pl Masc
+ 	    Verb VF Imperf Pers3_Distant Pl Masc
+ 	    Verb1 VF1 Imperf Pers1 Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Casual Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Familiar Sg Masc
+ 	    Verb1 VF1 Imperf Pers2_Familiar Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Respect Sg Masc
+ 	    Verb1 VF1 Imperf Pers2_Respect Pl Masc
+ 	    Verb1 VF1 Imperf Pers3_Near Pl Masc
+ 	    Verb1 VF1 Imperf Pers3_Distant Pl Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ہیں 	 ہونا Present Pers1 Pl Masc
+ 	    Present Pers1 Pl Fem
+ 	    Present Pers2_Respect Sg Masc
+ 	    Present Pers2_Respect Sg Fem
+ 	    Present Pers2_Respect Pl Masc
+ 	    Present Pers2_Respect Pl Fem
+ 	    Present Pers3_Near Pl Masc
+ 	    Present Pers3_Near Pl Fem
+ 	    Present Pers3_Distant Pl Masc
+ 	    Present Pers3_Distant Pl Fem
+ 	    Subjunctive Pers1 Pl Masc
+ 	    Subjunctive Pers1 Pl Fem
+جو 	 جو RelPron RPF Sg Nom
+ 	    RelPron RPF Pl Nom
+صحت NOT_FOUND
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+خرابی 	 خرابی N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+ایک 	 ایک RelPron2 RPF2 Nom
+ 	    RelPron2 RPF2 Obl
+ 	    RelPron2 RPF2 Voc
+ 	    Num NumeralF Pl
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+اہم NOT_FOUND
+وجہ 	 وجہ N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+ 	    N NF Sg Nom Masc
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+۔ 
+
+اس 	 یِہ DemPron DPF Sg Obl Pers3_Near
+ 	    DemPron DPF Sg Obl Pers3_Distant
+ 	    PersPron PPF Sg Pers3_Near Obl
+ 	    PersPron PPF Sg Pers3_Distant Obl
+حوالے 	 حوالہ N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+سے 	 سے PostP PostPosF
+ڈوئچے NOT_FOUND
+ویلے NOT_FOUND
+سے 	 سے PostP PostPosF
+بات 	 بات N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+ 	    N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+کرتے 	 کرنا Verb VF Imperf Pers1 Pl Masc
+ 	    Verb VF Imperf Pers2_Casual Pl Masc
+ 	    Verb VF Imperf Pers2_Familiar Sg Masc
+ 	    Verb VF Imperf Pers2_Familiar Pl Masc
+ 	    Verb VF Imperf Pers2_Respect Sg Masc
+ 	    Verb VF Imperf Pers2_Respect Pl Masc
+ 	    Verb VF Imperf Pers3_Near Pl Masc
+ 	    Verb VF Imperf Pers3_Distant Pl Masc
+ 	    Verb1 VF1 Imperf Pers1 Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Casual Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Familiar Sg Masc
+ 	    Verb1 VF1 Imperf Pers2_Familiar Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Respect Sg Masc
+ 	    Verb1 VF1 Imperf Pers2_Respect Pl Masc
+ 	    Verb1 VF1 Imperf Pers3_Near Pl Masc
+ 	    Verb1 VF1 Imperf Pers3_Distant Pl Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ہوئے 	 ہونا Verb VF Perf Pers1 Pl Masc
+ 	    Verb VF Perf Pers2_Casual Pl Masc
+ 	    Verb VF Perf Pers2_Familiar Pl Masc
+ 	    Verb VF Perf Pers2_Respect Pl Masc
+ 	    Verb VF Perf Pers3_Near Pl Masc
+ 	    Verb VF Perf Pers3_Distant Pl Masc
+شوکت NOT_FOUND
+خانم NOT_FOUND
+میموریل NOT_FOUND
+کیسنر NOT_FOUND
+ہسپتال 	 ہسپتال N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+تحقیقی NOT_FOUND
+مرکز NOT_FOUND
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+وابستہ NOT_FOUND
+ڈاکٹر 	 ڈاکٹر N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+نتاشہ NOT_FOUND
+انور NOT_FOUND
+کا 	 کا PossPostPos PossPostPF Sg Masc
+کہنا 	 کہنا Verb1 Inf1
+تھا 	 ہونا Past Pers1 Sg Masc
+ 	    Past Pers2_Casual Sg Masc
+ 	    Past Pers3_Near Sg Masc
+ 	    Past Pers3_Distant Sg Masc
+ 	    N NF Sg Nom Masc
+کہ 	 کہ Conj ConjF
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+موجودہ 	 موجودہ N NF Sg Nom Masc
+دور 	 دور N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+تیز 	 تیز N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+رفتار NOT_FOUND
+زندگی 	 زندگی N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+نے 	 نے PostP PostPosF
+انسانی NOT_FOUND
+خوراک 	 خوراک N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+پر 	 پر PostP PostPosF
+ 	    Verb Root
+ 	    Verb VF Subj Pers2_Casual Sg Masc
+ 	    Verb VF Subj Pers2_Casual Sg Fem
+انتہائی NOT_FOUND
+منفی NOT_FOUND
+اثرات 	 اثر N NF Pl Nom Masc
+ 	    N NF Pl Obl Masc
+ڈالے 	 ڈلنا Verb1 Caus1 Subj Pers3_Near Sg Masc
+ 	    Verb1 Caus1 Subj Pers3_Near Sg Fem
+ 	    Verb1 Caus1 Subj Pers3_Distant Sg Masc
+ 	    Verb1 Caus1 Subj Pers3_Distant Sg Fem
+ 	    Verb1 Caus1 Perf Pers1 Pl Masc
+ 	    Verb1 Caus1 Perf Pers2_Casual Pl Masc
+ 	    Verb1 Caus1 Perf Pers2_Familiar Sg Masc
+ 	    Verb1 Caus1 Perf Pers2_Familiar Pl Masc
+ 	    Verb1 Caus1 Perf Pers2_Respect Sg Masc
+ 	    Verb1 Caus1 Perf Pers2_Respect Pl Masc
+ 	    Verb1 Caus1 Perf Pers3_Near Pl Masc
+ 	    Verb1 Caus1 Perf Pers3_Distant Pl Masc
+ 	    Verb1 VF1 Subj Pers3_Near Sg Masc
+ 	    Verb1 VF1 Subj Pers3_Near Sg Fem
+ 	    Verb1 VF1 Subj Pers3_Distant Sg Masc
+ 	    Verb1 VF1 Subj Pers3_Distant Sg Fem
+ 	    Verb1 VF1 Perf Pers1 Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Casual Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Familiar Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Familiar Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Respect Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Respect Pl Masc
+ 	    Verb1 VF1 Perf Pers3_Near Pl Masc
+ 	    Verb1 VF1 Perf Pers3_Distant Pl Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ہیں 	 ہونا Present Pers1 Pl Masc
+ 	    Present Pers1 Pl Fem
+ 	    Present Pers2_Respect Sg Masc
+ 	    Present Pers2_Respect Sg Fem
+ 	    Present Pers2_Respect Pl Masc
+ 	    Present Pers2_Respect Pl Fem
+ 	    Present Pers3_Near Pl Masc
+ 	    Present Pers3_Near Pl Fem
+ 	    Present Pers3_Distant Pl Masc
+ 	    Present Pers3_Distant Pl Fem
+ 	    Subjunctive Pers1 Pl Masc
+ 	    Subjunctive Pers1 Pl Fem
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+لوگ 	 لوگ N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+خوراک 	 خوراک N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+معاملے 	 معاملہ N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+ڈبہ 	 ڈبہ N NF Sg Nom Masc
+بند 	 بند N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+خوراک 	 خوراک N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+پر 	 پر PostP PostPosF
+ 	    Verb Root
+ 	    Verb VF Subj Pers2_Casual Sg Masc
+ 	    Verb VF Subj Pers2_Casual Sg Fem
+انحصار NOT_FOUND
+کرنے 	 کرنا Verb Inf_Obl
+ 	    Verb1 Inf_Obl1
+لگے 	 لگنا Verb1 VF1 Subj Pers3_Near Sg Masc
+ 	    Verb1 VF1 Subj Pers3_Near Sg Fem
+ 	    Verb1 VF1 Subj Pers3_Distant Sg Masc
+ 	    Verb1 VF1 Subj Pers3_Distant Sg Fem
+ 	    Verb1 VF1 Perf Pers1 Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Casual Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Familiar Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Familiar Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Respect Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Respect Pl Masc
+ 	    Verb1 VF1 Perf Pers3_Near Pl Masc
+ 	    Verb1 VF1 Perf Pers3_Distant Pl Masc
+ 	    Verb1 VF1 Subj Pers3_Near Sg Masc
+ 	    Verb1 VF1 Subj Pers3_Near Sg Fem
+ 	    Verb1 VF1 Subj Pers3_Distant Sg Masc
+ 	    Verb1 VF1 Subj Pers3_Distant Sg Fem
+ 	    Verb1 VF1 Perf Pers1 Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Casual Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Familiar Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Familiar Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Respect Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Respect Pl Masc
+ 	    Verb1 VF1 Perf Pers3_Near Pl Masc
+ 	    Verb1 VF1 Perf Pers3_Distant Pl Masc
+ہیں 	 ہونا Present Pers1 Pl Masc
+ 	    Present Pers1 Pl Fem
+ 	    Present Pers2_Respect Sg Masc
+ 	    Present Pers2_Respect Sg Fem
+ 	    Present Pers2_Respect Pl Masc
+ 	    Present Pers2_Respect Pl Fem
+ 	    Present Pers3_Near Pl Masc
+ 	    Present Pers3_Near Pl Fem
+ 	    Present Pers3_Distant Pl Masc
+ 	    Present Pers3_Distant Pl Fem
+ 	    Subjunctive Pers1 Pl Masc
+ 	    Subjunctive Pers1 Pl Fem
+۔ 
+
+جس 	 جو RelPron RPF Sg Obl
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+باعث NOT_FOUND
+زیادہ 	 زیادہ Adv AdverbF
+عرصے 	 عرصہ N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+تک 	 تک PostP PostPosF
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+محفوظ NOT_FOUND
+رہنے 	 رہنا Verb Inf_Obl
+والی 	 والی N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+خوراک 	 خوراک N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+استعمال NOT_FOUND
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+جارہی NOT_FOUND
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+جس 	 جو RelPron RPF Sg Obl
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+موجود NOT_FOUND
+کیمیکلز NOT_FOUND
+انسانی NOT_FOUND
+صحت NOT_FOUND
+پر 	 پر PostP PostPosF
+ 	    Verb Root
+ 	    Verb VF Subj Pers2_Casual Sg Masc
+ 	    Verb VF Subj Pers2_Casual Sg Fem
+منفی NOT_FOUND
+اثرات 	 اثر N NF Pl Nom Masc
+ 	    N NF Pl Obl Masc
+مرتب NOT_FOUND
+کر 	 کرنا Verb Root
+ 	    Verb VF Subj Pers2_Casual Sg Masc
+ 	    Verb VF Subj Pers2_Casual Sg Fem
+ 	    Verb VF Subj Pers3_Near Sg Masc
+ 	    Verb VF Subj Pers3_Near Sg Fem
+ 	    Verb VF Subj Pers3_Distant Sg Masc
+ 	    Verb VF Subj Pers3_Distant Sg Fem
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+رہے 	 رہنا Verb VF Subj Pers3_Near Sg Masc
+ 	    Verb VF Subj Pers3_Near Sg Fem
+ 	    Verb VF Subj Pers3_Distant Sg Masc
+ 	    Verb VF Subj Pers3_Distant Sg Fem
+ 	    Verb VF Perf Pers1 Pl Masc
+ 	    Verb VF Perf Pers2_Casual Pl Masc
+ 	    Verb VF Perf Pers2_Familiar Sg Masc
+ 	    Verb VF Perf Pers2_Familiar Pl Masc
+ 	    Verb VF Perf Pers2_Respect Sg Masc
+ 	    Verb VF Perf Pers2_Respect Pl Masc
+ 	    Verb VF Perf Pers3_Near Pl Masc
+ 	    Verb VF Perf Pers3_Distant Pl Masc
+ہیں 	 ہونا Present Pers1 Pl Masc
+ 	    Present Pers1 Pl Fem
+ 	    Present Pers2_Respect Sg Masc
+ 	    Present Pers2_Respect Sg Fem
+ 	    Present Pers2_Respect Pl Masc
+ 	    Present Pers2_Respect Pl Fem
+ 	    Present Pers3_Near Pl Masc
+ 	    Present Pers3_Near Pl Fem
+ 	    Present Pers3_Distant Pl Masc
+ 	    Present Pers3_Distant Pl Fem
+ 	    Subjunctive Pers1 Pl Masc
+ 	    Subjunctive Pers1 Pl Fem
+۔ 
+
+ڈاکٹر 	 ڈاکٹر N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+نتاشا NOT_FOUND
+انور NOT_FOUND
+کا 	 کا PossPostPos PossPostPF Sg Masc
+کہنا 	 کہنا Verb1 Inf1
+تھا 	 ہونا Past Pers1 Sg Masc
+ 	    Past Pers2_Casual Sg Masc
+ 	    Past Pers3_Near Sg Masc
+ 	    Past Pers3_Distant Sg Masc
+ 	    N NF Sg Nom Masc
+کہ 	 کہ Conj ConjF
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+ایسی 	 اَیسا RelPron1 RPF1 Sg Fem
+ 	    RelPron1 RPF1 Pl Fem
+خوراک 	 خوراک N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+فطری NOT_FOUND
+خوراک 	 خوراک N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+کا 	 کا PossPostPos PossPostPF Sg Masc
+نعم NOT_FOUND
+البدل NOT_FOUND
+ہر 	 ہَر RelPron3 RPF3
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+گز NOT_FOUND
+نہیں 	 نہیں Neg NegF
+ہو 	 ہونا 	    Present Pers2_Casual Pl Masc
+ 	    Present Pers2_Casual Pl Fem
+ 	    Present Pers2_Familiar Sg Masc
+ 	    Present Pers2_Familiar Sg Fem
+ 	    Present Pers2_Familiar Pl Masc
+ 	    Present Pers2_Familiar Pl Fem
+ 	    Subjunctive Pers2_Casual Sg Masc
+ 	    Subjunctive Pers2_Casual Sg Fem
+ 	    Subjunctive Pers2_Casual Pl Masc
+ 	    Subjunctive Pers2_Casual Pl Fem
+ 	    Subjunctive Pers2_Familiar Sg Masc
+ 	    Subjunctive Pers2_Familiar Sg Fem
+ 	    Subjunctive Pers2_Familiar Pl Masc
+ 	    Subjunctive Pers2_Familiar Pl Fem
+ 	    Subjunctive Pers2_Respect Sg Masc
+ 	    Subjunctive Pers2_Respect Sg Fem
+ 	    Subjunctive Pers3_Near Sg Masc
+ 	    Subjunctive Pers3_Near Sg Fem
+ 	    Subjunctive Pers3_Distant Sg Masc
+ 	    Subjunctive Pers3_Distant Sg Fem
+ 	    Verb Root
+ 	    Verb VF Subj Pers2_Casual Sg Masc
+ 	    Verb VF Subj Pers2_Casual Sg Fem
+ 	    Verb VF Subj Pers2_Casual Pl Masc
+ 	    Verb VF Subj Pers2_Casual Pl Fem
+ 	    Verb VF Subj Pers2_Familiar Sg Masc
+ 	    Verb VF Subj Pers2_Familiar Sg Fem
+ 	    Verb VF Subj Pers2_Familiar Pl Masc
+ 	    Verb VF Subj Pers2_Familiar Pl Fem
+ 	    Verb VF Subj Pers2_Respect Sg Masc
+ 	    Verb VF Subj Pers2_Respect Sg Fem
+ 	    Verb VF Subj Pers2_Respect Pl Masc
+ 	    Verb VF Subj Pers2_Respect Pl Fem
+ 	    Verb VF Subj Pers3_Near Sg Masc
+ 	    Verb VF Subj Pers3_Near Sg Fem
+ 	    Verb VF Subj Pers3_Distant Sg Masc
+ 	    Verb VF Subj Pers3_Distant Sg Fem
+سکتی 	 سکنا Verb1 VF1 Imperf Pers1 Sg Fem
+ 	    Verb1 VF1 Imperf Pers2_Casual Sg Fem
+ 	    Verb1 VF1 Imperf Pers2_Familiar Sg Fem
+ 	    Verb1 VF1 Imperf Pers2_Respect Sg Fem
+ 	    Verb1 VF1 Imperf Pers3_Near Sg Fem
+ 	    Verb1 VF1 Imperf Pers3_Distant Sg Fem
+ 	    Verb1 VF1 Imperf Pers1 Sg Fem
+ 	    Verb1 VF1 Imperf Pers2_Casual Sg Fem
+ 	    Verb1 VF1 Imperf Pers2_Familiar Sg Fem
+ 	    Verb1 VF1 Imperf Pers2_Respect Sg Fem
+ 	    Verb1 VF1 Imperf Pers3_Near Sg Fem
+ 	    Verb1 VF1 Imperf Pers3_Distant Sg Fem
+۔ 
+
+سبزیوں 	 سبزی N NF Pl Obl Fem
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+پھلوں 	 پھلنا Verb1 VF1 Subj Pers1 Sg Masc
+ 	    Verb1 VF1 Subj Pers1 Sg Fem
+ 	    Verb VF Subj Pers1 Sg Masc
+ 	    Verb VF Subj Pers1 Sg Fem
+ 	    N NF Pl Obl Masc
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+کینسر NOT_FOUND
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+خلاف NOT_FOUND
+مزاحمت NOT_FOUND
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+حوالے 	 حوالہ N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+سے 	 سے PostP PostPosF
+مسلسل NOT_FOUND
+تحقیق NOT_FOUND
+چل 	 چلنا Verb2 Root2
+ 	    Verb2 VF2 Subj Pers2_Casual Sg Masc
+ 	    Verb2 VF2 Subj Pers2_Casual Sg Fem
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+رہی 	 رہنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+آئے 	 آنا Verb VF Subj Pers3_Near Sg Masc
+ 	    Verb VF Subj Pers3_Near Sg Fem
+ 	    Verb VF Subj Pers3_Distant Sg Masc
+ 	    Verb VF Subj Pers3_Distant Sg Fem
+ 	    Verb VF Perf Pers1 Pl Masc
+ 	    Verb VF Perf Pers2_Casual Pl Masc
+ 	    Verb VF Perf Pers2_Familiar Sg Masc
+ 	    Verb VF Perf Pers2_Familiar Pl Masc
+ 	    Verb VF Perf Pers2_Respect Sg Masc
+ 	    Verb VF Perf Pers2_Respect Pl Masc
+ 	    Verb VF Perf Pers3_Near Pl Masc
+ 	    Verb VF Perf Pers3_Distant Pl Masc
+روز NOT_FOUND
+اس 	 یِہ DemPron DPF Sg Obl Pers3_Near
+ 	    DemPron DPF Sg Obl Pers3_Distant
+ 	    PersPron PPF Sg Pers3_Near Obl
+ 	    PersPron PPF Sg Pers3_Distant Obl
+حوالے 	 حوالہ N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+سے 	 سے PostP PostPosF
+تحقیقاتی NOT_FOUND
+رپورٹس NOT_FOUND
+سامنے 	 سامنہ N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+آ 	 آنا Verb VF Subj Pers2_Casual Sg Masc
+ 	    Verb VF Subj Pers2_Casual Sg Fem
+رہی 	 رہنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ہیں 	 ہونا Present Pers1 Pl Masc
+ 	    Present Pers1 Pl Fem
+ 	    Present Pers2_Respect Sg Masc
+ 	    Present Pers2_Respect Sg Fem
+ 	    Present Pers2_Respect Pl Masc
+ 	    Present Pers2_Respect Pl Fem
+ 	    Present Pers3_Near Pl Masc
+ 	    Present Pers3_Near Pl Fem
+ 	    Present Pers3_Distant Pl Masc
+ 	    Present Pers3_Distant Pl Fem
+ 	    Subjunctive Pers1 Pl Masc
+ 	    Subjunctive Pers1 Pl Fem
+ابھی NOT_FOUND
+حال 	 حال N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ہی 	 ہی Part ParticleF
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+امریکی 	 امریکی N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+طبی NOT_FOUND
+ماہرین NOT_FOUND
+نے 	 نے PostP PostPosF
+کہا 	 کہنا Verb1 VF1 Perf Pers1 Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Perf Pers3_Near Sg Masc
+ 	    Verb1 VF1 Perf Pers3_Distant Sg Masc
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+کہ 	 کہ Conj ConjF
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+سرطان NOT_FOUND
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+خاتمے 	 خاتمہ N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+کیلئے NOT_FOUND
+انگوروں 	 انگور N NF Pl Obl Fem
+ 	    N NF Pl Obl Masc
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+بیجوں 	 بیج N NF Pl Obl Fem
+ 	    N NF Pl Obl Masc
+کا 	 کا PossPostPos PossPostPF Sg Masc
+گودا NOT_FOUND
+نہایت NOT_FOUND
+کارآمد NOT_FOUND
+ثابت NOT_FOUND
+ہوا 	 ہونا Verb VF Perf Pers1 Sg Masc
+ 	    Verb VF Perf Pers2_Casual Sg Masc
+ 	    Verb VF Perf Pers2_Familiar Sg Masc
+ 	    Verb VF Perf Pers2_Respect Sg Masc
+ 	    Verb VF Perf Pers3_Near Sg Masc
+ 	    Verb VF Perf Pers3_Distant Sg Masc
+ 	    N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+۔ 
+
+طبی NOT_FOUND
+ماہرین NOT_FOUND
+نے 	 نے PostP PostPosF
+لیبارٹری 	 لیبارٹری N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+تجربات NOT_FOUND
+کرتے 	 کرنا Verb VF Imperf Pers1 Pl Masc
+ 	    Verb VF Imperf Pers2_Casual Pl Masc
+ 	    Verb VF Imperf Pers2_Familiar Sg Masc
+ 	    Verb VF Imperf Pers2_Familiar Pl Masc
+ 	    Verb VF Imperf Pers2_Respect Sg Masc
+ 	    Verb VF Imperf Pers2_Respect Pl Masc
+ 	    Verb VF Imperf Pers3_Near Pl Masc
+ 	    Verb VF Imperf Pers3_Distant Pl Masc
+ 	    Verb1 VF1 Imperf Pers1 Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Casual Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Familiar Sg Masc
+ 	    Verb1 VF1 Imperf Pers2_Familiar Pl Masc
+ 	    Verb1 VF1 Imperf Pers2_Respect Sg Masc
+ 	    Verb1 VF1 Imperf Pers2_Respect Pl Masc
+ 	    Verb1 VF1 Imperf Pers3_Near Pl Masc
+ 	    Verb1 VF1 Imperf Pers3_Distant Pl Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ہوئے 	 ہونا Verb VF Perf Pers1 Pl Masc
+ 	    Verb VF Perf Pers2_Casual Pl Masc
+ 	    Verb VF Perf Pers2_Familiar Pl Masc
+ 	    Verb VF Perf Pers2_Respect Pl Masc
+ 	    Verb VF Perf Pers3_Near Pl Masc
+ 	    Verb VF Perf Pers3_Distant Pl Masc
+خون 	 خون N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ 	    N NF Pl Obl Masc
+ 	    N NF Pl Voc Masc
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+سرطان NOT_FOUND
+پر 	 پر PostP PostPosF
+ 	    Verb Root
+ 	    Verb VF Subj Pers2_Casual Sg Masc
+ 	    Verb VF Subj Pers2_Casual Sg Fem
+انگوروں 	 انگور N NF Pl Obl Fem
+ 	    N NF Pl Obl Masc
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+بیجوں 	 بیج N NF Pl Obl Fem
+ 	    N NF Pl Obl Masc
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+گودے NOT_FOUND
+کو 	 کو PostP PostPosF
+آزمایا 	 آزمانا Verb VF Perf Pers1 Sg Masc
+ 	    Verb VF Perf Pers2_Casual Sg Masc
+ 	    Verb VF Perf Pers3_Near Sg Masc
+ 	    Verb VF Perf Pers3_Distant Sg Masc
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+صرف24 NOT_FOUND
+گھنٹوں 	 گھنٹہ N NF Pl Obl Masc
+ 	    N NF Pl Obl Masc
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+سرطان NOT_FOUND
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+خلیوں NOT_FOUND
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+76 NOT_FOUND
+فیصد NOT_FOUND
+تعداد NOT_FOUND
+کو 	 کو PostP PostPosF
+کم 	 کم Adj1 AdjF1
+ 	    Adj AdjF Sg Nom Masc
+ہوتے 	 ہونا Imperfective Pers1 Pl Masc
+ 	    Imperfective Pers2_Casual Pl Masc
+ 	    Imperfective Pers2_Familiar Sg Masc
+ 	    Imperfective Pers2_Familiar Pl Masc
+ 	    Imperfective Pers2_Respect Sg Masc
+ 	    Imperfective Pers2_Respect Pl Masc
+ 	    Imperfective Pers3_Near Pl Masc
+ 	    Imperfective Pers3_Distant Pl Masc
+ 	    Verb VF Imperf Pers1 Pl Masc
+ 	    Verb VF Imperf Pers2_Casual Pl Masc
+ 	    Verb VF Imperf Pers2_Familiar Sg Masc
+ 	    Verb VF Imperf Pers2_Familiar Pl Masc
+ 	    Verb VF Imperf Pers2_Respect Sg Masc
+ 	    Verb VF Imperf Pers2_Respect Pl Masc
+ 	    Verb VF Imperf Pers3_Near Pl Masc
+ 	    Verb VF Imperf Pers3_Distant Pl Masc
+دیکھا 	 دیکھنا Verb1 VF1 Perf Pers1 Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Perf Pers3_Near Sg Masc
+ 	    Verb1 VF1 Perf Pers3_Distant Sg Masc
+ 	    Verb1 VF1 Perf Pers1 Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Perf Pers3_Near Sg Masc
+ 	    Verb1 VF1 Perf Pers3_Distant Sg Masc
+ 	    Verb1 VF1 Perf Pers1 Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Perf Pers3_Near Sg Masc
+ 	    Verb1 VF1 Perf Pers3_Distant Sg Masc
+جبکہ 	 جبکہ Conj ConjF
+خون 	 خون N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ 	    N NF Pl Obl Masc
+ 	    N NF Pl Voc Masc
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+اندر 	 اندر N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+صحت NOT_FOUND
+مند NOT_FOUND
+خلیے NOT_FOUND
+اس 	 یِہ DemPron DPF Sg Obl Pers3_Near
+ 	    DemPron DPF Sg Obl Pers3_Distant
+ 	    PersPron PPF Sg Pers3_Near Obl
+ 	    PersPron PPF Sg Pers3_Distant Obl
+سے 	 سے PostP PostPosF
+محفوظ NOT_FOUND
+رہے 	 رہنا Verb VF Subj Pers3_Near Sg Masc
+ 	    Verb VF Subj Pers3_Near Sg Fem
+ 	    Verb VF Subj Pers3_Distant Sg Masc
+ 	    Verb VF Subj Pers3_Distant Sg Fem
+ 	    Verb VF Perf Pers1 Pl Masc
+ 	    Verb VF Perf Pers2_Casual Pl Masc
+ 	    Verb VF Perf Pers2_Familiar Sg Masc
+ 	    Verb VF Perf Pers2_Familiar Pl Masc
+ 	    Verb VF Perf Pers2_Respect Sg Masc
+ 	    Verb VF Perf Pers2_Respect Pl Masc
+ 	    Verb VF Perf Pers3_Near Pl Masc
+ 	    Verb VF Perf Pers3_Distant Pl Masc
+۔ 
+
+طبی NOT_FOUND
+ماہرین NOT_FOUND
+نے 	 نے PostP PostPosF
+ان 	 یِہ DemPron DPF Pl Obl Pers3_Near
+ 	    DemPron DPF Pl Obl Pers3_Distant
+ 	    PersPron PPF Pl Pers3_Near Obl
+ 	    PersPron PPF Pl Pers3_Distant Obl
+تجربات NOT_FOUND
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+بعد NOT_FOUND
+امید 	 امید N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+ظاہر NOT_FOUND
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+کہ 	 کہ Conj ConjF
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+عالمی NOT_FOUND
+سطح NOT_FOUND
+پر 	 پر PostP PostPosF
+ 	    Verb Root
+ 	    Verb VF Subj Pers2_Casual Sg Masc
+ 	    Verb VF Subj Pers2_Casual Sg Fem
+اب 	 اَب RelPron2 RPF2 Nom
+ 	    RelPron2 RPF2 Obl
+ 	    RelPron2 RPF2 Voc
+خون 	 خون N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ 	    N NF Pl Obl Masc
+ 	    N NF Pl Voc Masc
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+سرطان NOT_FOUND
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+علاج NOT_FOUND
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+نئی NOT_FOUND
+دوا 	 دوا N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+تیار NOT_FOUND
+کرنے 	 کرنا Verb Inf_Obl
+ 	    Verb1 Inf_Obl1
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+مدد NOT_FOUND
+ملے 	 ملنا Verb1 VF1 Subj Pers3_Near Sg Masc
+ 	    Verb1 VF1 Subj Pers3_Near Sg Fem
+ 	    Verb1 VF1 Subj Pers3_Distant Sg Masc
+ 	    Verb1 VF1 Subj Pers3_Distant Sg Fem
+ 	    Verb1 VF1 Perf Pers1 Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Casual Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Familiar Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Familiar Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Respect Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Respect Pl Masc
+ 	    Verb1 VF1 Perf Pers3_Near Pl Masc
+ 	    Verb1 VF1 Perf Pers3_Distant Pl Masc
+ 	    Verb1 VF1 Subj Pers3_Near Sg Masc
+ 	    Verb1 VF1 Subj Pers3_Near Sg Fem
+ 	    Verb1 VF1 Subj Pers3_Distant Sg Masc
+ 	    Verb1 VF1 Subj Pers3_Distant Sg Fem
+ 	    Verb1 VF1 Perf Pers1 Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Casual Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Familiar Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Familiar Pl Masc
+ 	    Verb1 VF1 Perf Pers2_Respect Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Respect Pl Masc
+ 	    Verb1 VF1 Perf Pers3_Near Pl Masc
+ 	    Verb1 VF1 Perf Pers3_Distant Pl Masc
+گی NOT_FOUND
+۔ 
+
+اس 	 یِہ DemPron DPF Sg Obl Pers3_Near
+ 	    DemPron DPF Sg Obl Pers3_Distant
+ 	    PersPron PPF Sg Pers3_Near Obl
+ 	    PersPron PPF Sg Pers3_Distant Obl
+سے 	 سے PostP PostPosF
+قبل NOT_FOUND
+’’ NOT_FOUND
+لاکومیا NOT_FOUND
+‘‘ NOT_FOUND
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+مریضوں 	 مریض N NF Pl Obl Masc
+ 	    N NF Pl Obl Masc
+کو 	 کو PostP PostPosF
+کثرت NOT_FOUND
+سے 	 سے PostP PostPosF
+انگور 	 انگور N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+کھانے 	 کھانا Verb1 Inf_Obl1
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+سفارش NOT_FOUND
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+جاتی 	 جانا Verb VF Imperf Pers1 Sg Fem
+ 	    Verb VF Imperf Pers2_Casual Sg Fem
+ 	    Verb VF Imperf Pers2_Familiar Sg Fem
+ 	    Verb VF Imperf Pers2_Respect Sg Fem
+ 	    Verb VF Imperf Pers3_Near Sg Fem
+ 	    Verb VF Imperf Pers3_Distant Sg Fem
+تھی 	 ہونا Past Pers1 Sg Fem
+ 	    Past Pers2_Casual Sg Fem
+ 	    Past Pers2_Familiar Sg Fem
+ 	    Past Pers2_Respect Sg Fem
+ 	    Past Pers3_Near Sg Fem
+ 	    Past Pers3_Distant Sg Fem
+جس 	 جو RelPron RPF Sg Obl
+کو 	 کو PostP PostPosF
+بنیاد 	 بنیاد N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+بناکر NOT_FOUND
+نئی NOT_FOUND
+تحقیق NOT_FOUND
+شروع NOT_FOUND
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+گئی 	 جانا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+تھی 	 ہونا Past Pers1 Sg Fem
+ 	    Past Pers2_Casual Sg Fem
+ 	    Past Pers2_Familiar Sg Fem
+ 	    Past Pers2_Respect Sg Fem
+ 	    Past Pers3_Near Sg Fem
+ 	    Past Pers3_Distant Sg Fem
+۔ 
+
+طبی NOT_FOUND
+ماہرین NOT_FOUND
+نے 	 نے PostP PostPosF
+کہا 	 کہنا Verb1 VF1 Perf Pers1 Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Perf Pers3_Near Sg Masc
+ 	    Verb1 VF1 Perf Pers3_Distant Sg Masc
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+کہ 	 کہ Conj ConjF
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+انگوروں 	 انگور N NF Pl Obl Fem
+ 	    N NF Pl Obl Masc
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+بیجوں 	 بیج N NF Pl Obl Fem
+ 	    N NF Pl Obl Masc
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+جسم 	 جسم N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+سے 	 سے PostP PostPosF
+فاسد NOT_FOUND
+مادے 	 مادہ N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+خارج NOT_FOUND
+کرنے 	 کرنا Verb Inf_Obl
+ 	    Verb1 Inf_Obl1
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+بھرپور NOT_FOUND
+صلاحیت 	 صلاحیت N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+ 	    N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+دل 	 دل N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+کو 	 کو PostP PostPosF
+مضبوط NOT_FOUND
+بنانے 	 بننا Verb1 Caus1_Inf_Obl
+ 	    Verb1 Caus1_Inf_Obl
+کیلئے NOT_FOUND
+یہ 	 یِہ DemPron DPF Sg Nom Pers3_Near
+ 	    DemPron DPF Pl Nom Pers3_Near
+ 	    PersPron PPF Sg Pers3_Near Nom
+ 	    PersPron PPF Pl Pers3_Near Nom
+ایک 	 ایک RelPron2 RPF2 Nom
+ 	    RelPron2 RPF2 Obl
+ 	    RelPron2 RPF2 Voc
+ 	    Num NumeralF Pl
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+بہترین 	 بہ AdjD AdjDegF Super
+ٹانک NOT_FOUND
+ثابت NOT_FOUND
+ہوتے 	 ہونا Imperfective Pers1 Pl Masc
+ 	    Imperfective Pers2_Casual Pl Masc
+ 	    Imperfective Pers2_Familiar Sg Masc
+ 	    Imperfective Pers2_Familiar Pl Masc
+ 	    Imperfective Pers2_Respect Sg Masc
+ 	    Imperfective Pers2_Respect Pl Masc
+ 	    Imperfective Pers3_Near Pl Masc
+ 	    Imperfective Pers3_Distant Pl Masc
+ 	    Verb VF Imperf Pers1 Pl Masc
+ 	    Verb VF Imperf Pers2_Casual Pl Masc
+ 	    Verb VF Imperf Pers2_Familiar Sg Masc
+ 	    Verb VF Imperf Pers2_Familiar Pl Masc
+ 	    Verb VF Imperf Pers2_Respect Sg Masc
+ 	    Verb VF Imperf Pers2_Respect Pl Masc
+ 	    Verb VF Imperf Pers3_Near Pl Masc
+ 	    Verb VF Imperf Pers3_Distant Pl Masc
+ہیں 	 ہونا Present Pers1 Pl Masc
+ 	    Present Pers1 Pl Fem
+ 	    Present Pers2_Respect Sg Masc
+ 	    Present Pers2_Respect Sg Fem
+ 	    Present Pers2_Respect Pl Masc
+ 	    Present Pers2_Respect Pl Fem
+ 	    Present Pers3_Near Pl Masc
+ 	    Present Pers3_Near Pl Fem
+ 	    Present Pers3_Distant Pl Masc
+ 	    Present Pers3_Distant Pl Fem
+ 	    Subjunctive Pers1 Pl Masc
+ 	    Subjunctive Pers1 Pl Fem
+۔ 
+
+ماہرین NOT_FOUND
+نے 	 نے PostP PostPosF
+مزید NOT_FOUND
+کہا 	 کہنا Verb1 VF1 Perf Pers1 Sg Masc
+ 	    Verb1 VF1 Perf Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Perf Pers3_Near Sg Masc
+ 	    Verb1 VF1 Perf Pers3_Distant Sg Masc
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+کہ 	 کہ Conj ConjF
+ 	    Verb1 Root1
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Masc
+ 	    Verb1 VF1 Subj Pers2_Casual Sg Fem
+ان 	 یِہ DemPron DPF Pl Obl Pers3_Near
+ 	    DemPron DPF Pl Obl Pers3_Distant
+ 	    PersPron PPF Pl Pers3_Near Obl
+ 	    PersPron PPF Pl Pers3_Distant Obl
+بیجوں 	 بیج N NF Pl Obl Fem
+ 	    N NF Pl Obl Masc
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+جلد 	 جلد N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+، 
+چھاتی 	 چھانا Verb VF Imperf Pers1 Sg Fem
+ 	    Verb VF Imperf Pers2_Casual Sg Fem
+ 	    Verb VF Imperf Pers2_Familiar Sg Fem
+ 	    Verb VF Imperf Pers2_Respect Sg Fem
+ 	    Verb VF Imperf Pers3_Near Sg Fem
+ 	    Verb VF Imperf Pers3_Distant Sg Fem
+ 	    N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+، 
+مثانہ NOT_FOUND
+، 
+پھیپھڑوں NOT_FOUND
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+معدے 	 معدہ N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+سرطان NOT_FOUND
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+خلاف NOT_FOUND
+بھی 	 بھی Part ParticleF
+ 	    Conj ConjF
+قوت 	 قوت N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+ 	    N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+دیکھی 	 دیکھنا Verb1 VF1 Perf Pers1 Sg Fem
+ 	    Verb1 VF1 Perf Pers2_Casual Sg Fem
+ 	    Verb1 VF1 Perf Pers2_Familiar Sg Fem
+ 	    Verb1 VF1 Perf Pers2_Respect Sg Fem
+ 	    Verb1 VF1 Perf Pers3_Near Sg Fem
+ 	    Verb1 VF1 Perf Pers3_Distant Sg Fem
+ 	    Verb1 VF1 Perf Pers1 Sg Fem
+ 	    Verb1 VF1 Perf Pers2_Casual Sg Fem
+ 	    Verb1 VF1 Perf Pers2_Familiar Sg Fem
+ 	    Verb1 VF1 Perf Pers2_Respect Sg Fem
+ 	    Verb1 VF1 Perf Pers3_Near Sg Fem
+ 	    Verb1 VF1 Perf Pers3_Distant Sg Fem
+ 	    Verb1 VF1 Perf Pers1 Sg Fem
+ 	    Verb1 VF1 Perf Pers2_Casual Sg Fem
+ 	    Verb1 VF1 Perf Pers2_Familiar Sg Fem
+ 	    Verb1 VF1 Perf Pers2_Respect Sg Fem
+ 	    Verb1 VF1 Perf Pers3_Near Sg Fem
+ 	    Verb1 VF1 Perf Pers3_Distant Sg Fem
+گئی 	 جانا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+۔ 
+
+چوہوں 	 چوہا N NF Pl Obl Masc
+میں 	 میں PostP PostPosF
+ 	    PersPron PPF Sg Pers1 Nom
+چھاتی 	 چھانا Verb VF Imperf Pers1 Sg Fem
+ 	    Verb VF Imperf Pers2_Casual Sg Fem
+ 	    Verb VF Imperf Pers2_Familiar Sg Fem
+ 	    Verb VF Imperf Pers2_Respect Sg Fem
+ 	    Verb VF Imperf Pers3_Near Sg Fem
+ 	    Verb VF Imperf Pers3_Distant Sg Fem
+ 	    N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+اور 	 اور Conj ConjF
+ 	    N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+جلد 	 جلد N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+کینسر NOT_FOUND
+ٹیومر NOT_FOUND
+کا 	 کا PossPostPos PossPostPF Sg Masc
+سائز NOT_FOUND
+ان 	 یِہ DemPron DPF Pl Obl Pers3_Near
+ 	    DemPron DPF Pl Obl Pers3_Distant
+ 	    PersPron PPF Pl Pers3_Near Obl
+ 	    PersPron PPF Pl Pers3_Distant Obl
+بیجوں 	 بیج N NF Pl Obl Fem
+ 	    N NF Pl Obl Masc
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+استعمال NOT_FOUND
+سے 	 سے PostP PostPosF
+کم 	 کم Adj1 AdjF1
+ 	    Adj AdjF Sg Nom Masc
+ہوگیا NOT_FOUND
+تھا 	 ہونا Past Pers1 Sg Masc
+ 	    Past Pers2_Casual Sg Masc
+ 	    Past Pers3_Near Sg Masc
+ 	    Past Pers3_Distant Sg Masc
+ 	    N NF Sg Nom Masc
+۔ 
+
+یہ 	 یِہ DemPron DPF Sg Nom Pers3_Near
+ 	    DemPron DPF Pl Nom Pers3_Near
+ 	    PersPron PPF Sg Pers3_Near Nom
+ 	    PersPron PPF Pl Pers3_Near Nom
+تحقیق NOT_FOUND
+یونیورسٹی 	 یونیورسٹی N NF Sg Nom Fem
+ 	    N NF Sg Obl Fem
+ 	    N NF Sg Voc Fem
+آف NOT_FOUND
+کینٹیکی NOT_FOUND
+کے 	 کا PossPostPos PossPostPF Pl Masc
+ 	    Adj AdjF Sg Obl Masc
+ 	    Adj AdjF Sg Voc Masc
+ 	    Adj AdjF Pl Nom Masc
+ 	    Adj AdjF Pl Obl Masc
+ 	    Adj AdjF Pl Voc Masc
+پروفیسر 	 پروفیسر N NF Sg Nom Masc
+ 	    N NF Sg Obl Masc
+ 	    N NF Sg Voc Masc
+ 	    N NF Pl Nom Masc
+زینگ NOT_FOUND
+لینگ NOT_FOUND
+شائی NOT_FOUND
+نے 	 نے PostP PostPosF
+مکمل NOT_FOUND
+کی 	 کرنا Verb VF Perf Pers1 Sg Fem
+ 	    Verb VF Perf Pers2_Casual Sg Fem
+ 	    Verb VF Perf Pers2_Familiar Sg Fem
+ 	    Verb VF Perf Pers2_Respect Sg Fem
+ 	    Verb VF Perf Pers3_Near Sg Fem
+ 	    Verb VF Perf Pers3_Distant Sg Fem
+ 	    PossPostPos PossPostPF Sg Fem
+ 	    PossPostPos PossPostPF Pl Fem
+ 	    Adj AdjF Sg Nom Fem
+ 	    Adj AdjF Sg Obl Fem
+ 	    Adj AdjF Sg Voc Fem
+ 	    Adj AdjF Pl Nom Fem
+ 	    Adj AdjF Pl Obl Fem
+ 	    Adj AdjF Pl Voc Fem
+ہے 	 ہونا Present Pers2_Casual Sg Masc
+ 	    Present Pers2_Casual Sg Fem
+ 	    Present Pers3_Near Sg Masc
+ 	    Present Pers3_Near Sg Fem
+ 	    Present Pers3_Distant Sg Masc
+ 	    Present Pers3_Distant Sg Fem
+۔ 
+

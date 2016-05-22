@@ -1,0 +1,39 @@
+﻿ملک|UNK شام|NN کے|P ساتھ|NN ہماری|G جان|PN پہچان|NN تب|AP سے|SE ہے|TA جب|AP سے|SE ہوش|NN سنبھالا|VB ۔|SM
+جب|AP اردگرد|NN دیکھنا|VB شروع|NN کیا|VB اور|CC جب|AP پڑھنا|VB شروع|NN کیا|VB ۔|SM
+اسلام|NN تاریخ|NN کے|P جو|REP بڑے|ADJ نام|NN ہیں|TA اور|CC جن|REP کو|P ہم|PP اپنا|GR آئیڈیل|PN مانتے|VB ہیں|TA ۔|SM
+جن|REP لوگوں|NN کے|P نام|NN سامنے|NN آتے|VB ہیں|TA ،|PM انکی|ADJ عظمت|NN دل|NN میں|P جاگ|VB جاتی|AA ہے|TA ،|PM ان|PP سے|SE محبت|NN کرنے|VB کو|P دل|NN کرتا|VB ہے|TA ۔|SM
+ان|PP میں|P سے|SE ایک|CA بڑا|ADJ نام|NN حضرت|NN خالد|NN بن|VB ولید|NN ،|PM رضی|PN اللہ|NN عنہ|NN ،|PM سیف|PN اللہ|PN کا|P لقب|NN پانے|VB والے|WALA اس|PD عظیم|ADJ سپہ|NN سالار|NN کا|P ہے|TA ،|PM جن|REP کے|P بارے|NN حضرت|NN صدیق|PN اکبر|PN کا|P فرمان|NN ہے|TA کہ|SC یہ|PP اللہ|PN کی|P وہ|PP تلوار|NN ہے|VB جو|REP نبی|ADJ کریم|NN صلی|PN اللہ|PN علی|PN وآلہ|PN وصلم|PN نے|P نیام|NN سے|SE نکالی|VB تو|I میں|P کیسے|AKP اسے|PP نیام|NN میں|P کردوں|NN ۔|SM
+پس|SC پھر|ADV تاریخ|NN نے|P قادسیہ|NN کا|P معرکہ|NN دیکھا|VB جب|AP مسلم|PN افواج|NN نے|P ایک|CA کثیر|Q تعداد|NN میں|P دشمن|NN کو|P ایسی|AD شکست|NN دی|VB کہ|SC وہ|PP پھر|ADV سنبھل|VB نہ|NEG سکا|AA ۔|SM
+حضرت|NN خالد|NN ابن|PN ولید|PN رضی|PN اللہ|PN نے|P خلافت|NN کی|P طرف|NN سے|SE سپہ|NN سالار|NN نہ|NEG ہونے|VB کے|P باوجود|NN اپنی|GR ذمہ|NN داری|NN نبھاتے|VB ہوئے|AA اسلامی|PN لشکر|NN کو|P جس|REP خوبی|NN اور|CC فراخدلی|NN سے|SE سنبھالا|VB وہ|PP تاریخ|NN میں|P اپنی|GR مثال|NN نہیں|NEG رکھتا|VB ۔|SM
+پھر|ADV دور|NN عمر|NN بن|VB خطاب|NN رضی|PN اللہ|NN عنہ|NN میں|P جب|AP حضرت|NN خالد|NN ابن|PN ولید|PN رضی|PN اللہ|PN کو|P معطل|ADJ کیا|VB گیا|AA تو|SC آپ|PP نے|P پھر|ADV نظم|NN کی|P مثال|NN قائم|ADJ کی|VB ۔|SM
+پھر|ADV اسلامی|PN فوج|NN میں|P بغیر|NN عہدہ|NN کے|P لڑے|VB ۔|SM
+اور|CC اللہ|PN کی|P یہ|PP تلوار|NN کسی|KD کافر|NN کے|P ہاتھوں|NN نیام|NN میں|P نہیں|NEG گئی|AA اور|CC آپ|PP غازی|NN رہے|AA ۔|SM
+اللہ|NN پاک|ADJ آپ|PP کے|P درجات|NN بلند|ADJ کرے|VB ۔|SM
+حضرت|NN کے|P زمانہ|NN حیات|NN میں|P ابھی|AP تک|P فتنہ|NN شیعہ|NN نے|P سر|NN نہ|NEG اٹھایا|VB تھا|TA اور|CC وہ|PP ایک|CA نہایت|ADV غیر|ADJ متنازعہ|ADJ شخصیت|NN کے|P طور|NN پر|P اپنے|GR خالق|ADJ حقیقی|ADJ سے|SE جا|VB ملے|VB ۔|SM
+آپ|PP نے|P بازنطینی|ADJ اور|CC ساسانی|ADJ حکومتوں|NN کی|P ناس|NN ماردی|VB ۔|SM
+اور|CC یہ|PP کہ|SC آپ|PP کے|P فتح|NN کئے|Q ہوئے|AA علاقہ|NN ابھی|AP تک|P مسلمانوں|NN کے|P پاس|NN ہی|I ہیں|TA ،|PM سیف|PN اللہ|PN ہونے|VB کی|P ایک|CA بڑی|ADJ دلیل|NN ہے|TA ۔|SM
+امیر|ADJ تمور|NN جب|AP حمس|NN کے|P پاس|NN سے|SE گزرہ|NN تو|SC وہ|PP بھی|I اس|PD جنگجو|NN کے|P احترام|NN میں|P اس|PD شہر|NN کو|P تباہ|ADJ کئے|Q بغیر|NN گزر|VB گیا|AA ۔|SM
+ایک|CA بہادر|ADJ جرنیل|PN دوسرے|PN کی|P قدر|NN جانتا|VB ہے|TA ۔|SM
+شام|NN میں|P موجود|ADJ مزار|NN بی|NN بی|NN زینب|PN رضی|PN اللہ|NN عنہ|NN بھی|I کسی|KD بحث|NN کا|P باعث|NN نہیں|NEG بنا|VB کبھی|AKP بھی|I نہیں|NEG بنا|VB ۔|SM
+یہ|PP مزارات|NN صدیوں|NN سے|SE مراکز|NN تجلیات|NN و|CC مرجع|NN خلائق|NN ہیں|TA ۔|SM
+اب|AP جی|PN شام|NN ملک|NN میں|P خانہ|NN جنگی|ADJ لگی|VB ہوئی|VB ہے|TA ۔|SM
+اس|PD بارے|NN پہلے|NN تو|SC خبریں|NN تھیں|TA کہ|SC باغیوں|NN کی|P اسرائیل|PN مدد|NN کررہا|VB ،|PM پھر|ADV اس|PP میں|P یورپ|PN اور|CC امریکہ|PN کی|P مدد|NN بھی|I ٹپک|VB پڑی|AA ۔|SM
+اب|AP کل|Q امریکہ|PN نے|P باقاعدہ|ADJ باغیوں|NN کی|P اعانت|NN اور|CC سپوٹ|NN کا|P اعلان|NN کردیا|VB ہے|TA ۔|SM
+انجمن|NN اقوام|NN متحدہ|PN امریکہ|PN کی|P سلامتی|ADJ کونسل|NN نے|P بھی|I باغیوں|NN کے|P ساتھ|NN گفت|NN وشیند|UNK شروع|NN کردی|VB ۔|SM
+یہ|PD آج|NN کی|P واشنگٹن|PN پوسٹ|PN میں|P لکھا|VB ہوا|VB ۔|SM
+اب|AP میں|P یہ|PD سوال|NN کرنے|VB میں|P حق|NN بجانب|ADV ہوں|TA کہ|SC ،|PM مملکت|NN شام|NN اس|PD وقت|NN بہت|ADV نازک|ADJ حالات|NN میں|P ہے|TA ۔|SM
+یہ|PP مزار|NN گرانے|VB والے|WALA متنازعہ|ADJ کام|NN انکو|PN کرنے|VB ہوتے|VB تو|SC وہ|PP پہلے|NN کرتے|VB جب|AP سب|Q کچھ|Q انکے|NN قابو|NN میں|P تھا|TA ۔|SM
+اب|AP تو|SC انکےلئے|NN اسطرح|NN کا|P ہر|Q قدم|NN خودکشی|NN کے|P مترادف|ADJ ہے|TA ۔|SM
+اگر|SC حکومت|NN یہ|PD کام|NN نہیں|NEG کررہی|VB تو|SC پھر|ADV باغی|ADJ کررہے|VB ہیں|TA ۔|SM
+یہاں|AP پر|P ایک|CA اور|CC سوال|NN پیدا|NN ہوتا|VB ہے|TA کہ|SC مسلمان|PN تو|SC ادھر|AP ہمیشہ|ADV سے|SE ہی|I ہیں|TA ۔|SM
+وہ|PP تو|SC مسجد|NN پر|P حملہ|NN نہیں|NEG کریں|VB گے|TA نہ|NEG ہی|I انہوں|PP نے|P کیا|VB ۔|SM
+ایسے|PP ہی|I جیسے|A کسی|KD ہندو|PN کا|P مندر|NN پر|P اور|CC کسی|KD عیسائی|ADJ کا|P چرچ|NN پر|P حملہ|NN کرنا|VB خارج|ADJ از|P امکان|NN ہے|TA ۔|SM
+میں|PP نے|P اپنے|GR انڈین|PN دوست|NN عبدالمالک|PN صاحب|NN سے|SE بھی|I اس|PD بات|NN کی|P تصدیق|NN کی|VB ہے|TA کہ|SC کیا|VB ہندوستان|PN میں|P جہاں|AP سب|Q اقوام|NN و|CC مذاہب|NN موجود|ADJ ہیں|TA ،|PM وہاں|AP پر|P مندر|NN پر|P کون|KP حملہ|NN کرے|VB گا|TA تو|SC جواب|NN ملا|VB کہ|SC ہندو|PN تو|I نہیں|NEG ہوگا|VB ۔|SM
+مسجد|NN پر|P حملہ|NN کرنے|VB والا|WALA کون|KP ہوگا|VB ،|PM تو|SC جواب|NN ملا|VB کہ|SC مسلمان|NN کے|P علاوہ|NN کوئی|Q ہوگا|VB ۔|SM
+اسی|PD طرح|NN چرچ|NN پر|P حملہ|NN کرنے|VB والا|WALA عیسائی|ADJ کے|P علاوہ|NN ہی|I کوئی|Q ہوگا|VB ۔|SM
+تو|SC برادران|NN یہ|PP جو|REP مزارات|NN پر|P حملے|NN ہورہے|VB ہیں|TA یہ|PP باغیوں|NN کے|P غیرمسلم|ADJ معاونین|NN کی|P طرف|NN سے|SE ہورہے|VB ہین|PN ۔|SM
+تاکہ|SC عام|ADJ مسلمان|NN کے|P دل|NN میں|P مملکت|NN شام|NN کے|P خلاف|NN نفرت|NN پیدا|NN کی|P جاسکے|AA اور|CC کل|Q کو|P جب|AP سکوت|NN شام|NN ہوگا|VB تو|SC اس|PP پر|P کوئی|Q رونے|VB والا|WALA نہیں|NEG ہوگا|VB ۔|SM
+مزارات|NN پر|P حملے|NN کرنے|VB والے|WALA وہی|PP ساسانی|ADJ اور|CC بازنطینی|ADJ ہی|I تو|I نہیں|NEG ہیں|VB جو|REP آج|NN اپنا|GR بدلہ|NN لے|VB رہے|AA ہیں|TA ۔|SM
+سنا|VB ہے|TA کہ|SC چلو|PN تب|AP تو|I کچھ|Q نہ|NEG ہوسکا|VB اب|AP موقع|NN ہاتھ|NN آیا|VB ہے|TA تو|SC حضرت|NN کے|P مزار|NN و|CC منسوب|ADJ مسجد|NN سے|SE ہی|I بدلہ|NN لے|VB لو|AA ۔|SM
+ورنہ|SC اور|CC کوئی|Q کیوں|QW ان|PD جیسی|A شخصیت|NN کے|P مزار|NN پر|P حملہ|NN کرنے|VB کی|P جرآت|NN کرسکتا|VB ہے|TA ۔|SM
+جب|AP امیر|ADJ تیمور|NN جیسا|A لڑاکا|PN اور|CC سنگ|NN دل|NN بھی|I حضرت|NN کے|P شہر|NN سے|SE پرے|NN ہوکر|TA اپنا|GR راستہ|NN تبدیل|NN کرلیتا|VB ہے|TA ۔|SM

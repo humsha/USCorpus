@@ -1,0 +1,18 @@
+﻿سمارٹ|UNK فونز|NN صارفین|NN کی|P طرف|NN سے|SE سب|Q سے|SE زیادہ|ADV مانگ|VB لمبی|ADJ بیٹری|NN کی|P کی|VB جاتی|AA ہے|TA ۔|SM
+لیکن|SC آخر|ADJ کار|NN آپ|PP کا|P سمارٹ|PN فون|NN واقعی|ADV میں|P کتنا|AKP چلتا|VB ہے|TA ۔|SM
+آپ|PP فون|NN بنانے|VB والو|NN ں|VB کی|P طرف|NN سے|SE دی|VB گئی|AA تفصیلات|NN پڑھ|VB سکتے|AA ہیں|TA کہ|SC آپ|PP کا|P فون|NN بات|NN کرتے|VB وقت|NN اور|CC میوزک|NN سنتے|VB ہوئے|AA کتنی|Q دیر|NN چلے|VB گا|TA ۔|SM
+لیکن|SC یہ|PP سب|Q بھی|I آپ|PP کو|P آپ|PP کے|P سمارٹ|PN فون|NN کی|P بیٹری|NN کی|P صحیح|ADJ معیاد|NN نہیں|NEG بتا|VB سکتے|AA کہ|SC آخر|ADJ وہ|PP کتنے|Q دن|NN یا|CC کتنے|Q گھنٹے|NN چلے|VB گا|TA ۔|SM
+آج|NN ہم|PP آپ|PP کو|P ایک|CA ایسے|ADJ طریقے|NN کے|P بارے|NN میں|P بتائیں|VB گے|TA جس|REP سے|SE آپ|PP جان|PN سکیں|AA گے|TA کہ|SC آپ|PP کا|P سمارٹ|PN فون|NN کتنے|Q دن|NN اور|CC کتنے|Q گھنٹے|NN چلے|VB گا|TA ۔|SM
+یہ|PP ایک|CA بہت|ADV آسان|ADJ طریقہ|NN ہے|TA مگر|SC اس|PP میں|P تھوڑا|ADJ وقت|NN درکار|ADJ ہو|VB گا|TA ۔|SM
+ہم|PP نے|P کچھ|Q ایپلیکیشنزکوآزمایا|UNK جن|REP کو’|UNK بیٹری|NN لاگز|PN ‘|PN کہا|VB جاتا|AA ہے|VB جو|REP آپ|PP کی|P بیٹری|NN میں|P ہونے|VB والے|WALA معمولی|ADJ سے|SE معمولی|ADJ فرق|NN کو|P بھی|I ریکارڈ|NN کرتے|VB ہیں|TA ۔|SM
+اور|CC چارجنگ|NN کے|P بعد|NN استعمال|NN ہونے|VB والے|WALA گھنٹوں|NN کی|P صحیح|ADJ تعداد|NN بتاتے|VB ہیں|TA ۔|SM
+ہم|PP نے|P ہوانگ|PN ٹائیروک|UNK کا|P بنایا|VB ہوا|VB ایپ|NN چنا|VB ہے|TA ۔|SM
+کیونکہ|SC یہ|PP کافی|Q حد|NN تک|P درست|ADJ ثابت|ADJ ہوا|VB ہے|TA ۔|SM
+یہ|PP ایپ|NN مفت|ADJ ہے|TA اور|CC گوگل|NN پلے|NN سٹور|NN سے|SE ڈاؤن|PN لوڈ|NN کیا|VB جا|AA سکتا|AA ہے|TA ۔|SM
+ڈاؤن|PN لوڈ|NN کرنے|VB کے|P بعد|NN اس|PD ایپ|NN کو|P کھول|VB کر|KER بڑے|ADJ ’|PN سٹارٹ|NN سروس‘|UNK کے|P بٹن|NN کو|P دبائیں|VB ۔|SM
+سٹارٹ|NN بٹن|NN کو|P دباتے|VB ہی|I ایپ|NN آپ|PP کی|P بیٹری|NN کے|P سٹیٹس|PN کو|P ریکارڈ|NN کرنا|VB شروع|NN کر|VB دے|AA گی|TA اور|CC بیٹری|NN ختم|ADJ ہونے|VB کے|P بعد|NN بھی|I اس|PP کے|P لاگز|PN کو|P محفوظ|ADJ رکھے|VB گی|TA ۔|SM
+جیسے|A کہ|SC ہم|PP نے|P کہا|VB کہ|SC یہ|PP آسان|ADJ ہے|TA مگر|SC اس|PP کے|P لیے|ADV وقت|NN درکار|ADJ ہے|TA ۔|SM
+پس|SC آپ|PP کو|P روزانہ|NEG کے|P مطابق|NN اپنا|GR سمارٹ|PN فون|NN استعمال|NN کرنا|VB ہے|TA ۔|SM
+مگر|SC اس|PP کو|P باربار|NN چارج|NN نہیں|NEG کرنا|VB ،|PM صرف|ADV ایک|CA بار|NN مکمل|ADJ چارج|NN کرنا|VB ہے|TA ،|PM اور|CC یہ|PP سب|Q پورا|ADJ ایک|CA ہفتہ|NN کرنا|VB ہے|TA ۔|SM
+اس|PD دوران|NN بیٹری|NN کے|P لاگز|PN بیک|PN گراؤنڈ|PN میں|P چلتے|VB رہیں|AA گے|TA اور|CC ضروری|ADJ ڈیٹا|NN اکھٹا|VB کرتے|VB رہیں|AA گے|TA ۔|SM
+ایک|CA ہفتے|NN بعد|NN بیٹری|NN لاگ|NN ایپ|NN کو|P کھولیں|VB ،|PM پھر|ADV لاگ|NN معلومات|NN کو|P چنیں|VB اور|CC دیکھیں|VB کہ|SC کس|KP ٹائم|NN پر|P آپ|PP کے|P فون|NN کی|P بیٹری|NN پوری|ADJ تھی|TA اور|CC کب|AKP وہ|PP تھوڑی|Q تھی|TA ،|PM یہ|PP سب|Q کچھ|Q ایسا|PP نظر|NN آئے|VB گا|TA ۔|SM

@@ -1,0 +1,23 @@
+﻿جس|UNK رپورٹ|NN کو|P بنیاد|NN بنا|VB کر|KER عمر|NN اکمل|PN کو|P دورۂ|ADJ زمبابوے|NN کے|P لیے|ADV ٹیم|NN سے|SE باہر|NN کیا|VB گیا|AA ۔|SM
+اس|PP میں|P سرے|NN سے|SE ایسی|AD کوئی|Q سنگین|ADJ بات|NN نہیں|NEG جس|REP کی|P وجہ|NN سے|SE نوجوان|ADJ بلے|NN باز|NN بین|NN الاقوامی|NN کرکٹ|NN کو|P جاری|ADJ نہ|NEG رکھ|VB سکے|AA ۔|SM
+رپورٹ|NN ،|PM جس|REP کی|P نقل|NN کرک|PN نامہ|NN کو|P موصول|VB ہوئی|VB ہے|TA ،|PM کے|P مطابق|NN انہیں|PP کسی|KD ایسے|PP طبی|ADJ مسئلے|NN کا|P سامنا|NN نہیں|NEG جس|REP کی|P بنیاد|NN پر|P انہیں|PP کرکٹ|NN کے|P میدانوں|NN سے|SE دور|NN کیا|VB جائے|AA ۔|SM
+23سالہ|UNK عمر|NN اکمل|PN کو|P گزشتہ|ADJ ماہ|NN ویسٹ|PN انڈیز|PN میں|P کیریبیئن|PN پریمیئر|PN لیگ|PN کھیلنے|VB کے|P دوران|NN اس|PD وقت|NN طبی|ADJ مسائل|NN کا|P سامنا|NN کرنا|VB پڑا|AA جب|AP وہ|PP دوران|NN پرواز|NN دورے|NN پڑنے|VB کی|P وجہ|NN سے|SE نیم|ADJ بے|PN ہوش|NN ہو|VB گئے|AA تھے|TA ۔|SM
+اور|CC بعد|NN ازاں|NN اینٹیگا|PN کے|P ایک|CA ہسپتال|NN میں|P زیر|NN علاج|NN بھی|I رہے|AA ۔|SM
+اس|PD ہسپتال|NN کی|P رپورٹ|NN پاکستان|PN کرکٹ|PN بورڈ|NN کو|P بھیجی|VB گئی|AA تھی|TA ،|PM جس|REP نے|P عمر|NN اکمل|PN کو|P فوری|ADJ طور|NN پر|P وطن|NN واپسی|NN کی|P ہدایت|NN کی|VB تھی|TA ۔|SM
+اور|CC ساتھ|NN ہی|I ان|PP کا|P نام|NN بھی|I دورۂ|ADJ زمبابوے|NN سے|SE خارج|ADJ کر|VB دیا|AA تھا|TA ۔|SM
+اس|PD رپورٹ|NN کو|P بنیاد|NN بناتے|VB ہوئے|AA پی|VB سی|A بی|PN نے|P ان|PP کے|P مزید|ADJ ٹیسٹ|NN کروانے|VB کا|P فیصلہ|NN کیا|VB ۔|SM
+اور|CC اس|PD سلسلے|NN میں|P لاہور|PN اور|CC کراچی|NN میں|P عمر|NN اکمل|PN کے|P ایم|PN آر|PN آئی|VB اور|CC سی|A ٹی|PN اسکین|NN ٹیسٹ|NN بھی|I ہوئے|VB ۔|SM
+اب|AP پاکستان|PN کرکٹ|PN بورڈ|PN کے|P میڈیکل|ADJ پینل|NN نےآج|NN اعلان|NN کیا|VB ہے|TA کہ|SC عمر|NN اکمل|PN مکمل|ADJ طور|NN پر|P فٹ|NN ہیں|TA اور|CC اپنی|GR کرکٹ|NN جاری|ADJ رکھ|VB سکتے|AA ہیں|TA ۔|SM
+ماہر|NN علم|NN الاعصاب|PN (|PN نیورولوجسٹ|PN )|PN ڈاکٹر|NN نادر|NN علی|PN سید|NN کا|P کہنا|VB ہے|TA کہ|SC اس|PD دورے|NN کا|P سبب|NN نیند|NN کی|P کمی|NN تھی|TA ۔|SM
+اور|CC اکمل|PN کو|P اس|PD وقت|NN کسی|KD دوا|NN کی|P ضرورت|NN نہیں|NEG ہے|TA ۔|SM
+انہیں|PP صرف|ADV یہ|PP یقینی|ADJ بنانا|VB ہوگا|VB کہ|SC وہ|PP دن|NN میں|P کم|ADJ از|P کم|ADJ 6|CA سے|SE 8|CA گھنٹے|NN کی|P نیند|NN لیں|AA ۔|SM
+ایک|CA تو|SC ابتداء|NN میں|P ان|PP کی|P بیماری|NN کے|P حوالے|NN سے|SE "دورے"|UNK کا|P لفظ|NN سامنے|NN آیا|VB ۔|SM
+اور|CC اوپر|NN سے|SE پی|VB سی|A بی|PN کی|P فوری|ADJ کارروائی|NN نے|P سخت|ADJ تشویش|NN پھیلا|VB دی|AA ۔|SM
+اور|CC ذرائع|NN ابلاغ|NN میں|P یہ|PP تک|P خبریں|NN آئیں|VB کہ|SC عمر|NN اکمل|PN کو|P مرگی|NN کا|P دورہ|NN پڑا|VB ہے|TA ۔|SM
+اور|CC ہو|VB سکتا|AA ہے|TA کہ|SC وہ|PP دوبارہ|ADV اپنے|GR بین|NN الاقوامی|NN کیریئر|PN کا|P آغاز|NN نہ|NEG کر|VB سکیں|AA ۔|SM
+جب|AP ابتدائی|ADJ رپورٹ|NN ہی|I میں|P ایسی|AD کوئی|Q خطرناک|ADJ چیز|NN نہیں|NEG تھی|TA تو|SC آخر|NN بورڈ|PN نے|P کس|KD بنیاد|NN پر|P عمر|NN اکمل|PN کو|P ویسٹ|PN انڈیز|PN سے|SE فوری|ADJ طور|NN پر|P واپس|ADJ بلایا|VB ۔|SM
+کیا|QW وہ|PP نوجوان|ADJ کھلاڑی|NN کو|P سبق|NN سکھانا|VB چاہتا|AA تھا|VB یا|CC پلیئر|PN پاور|NN ختم|ADJ کرنے|VB کے|P لیے|ADV ایک|CA ہتھکنڈہ|NN آزمانا|VB چاہتا|AA تھا|TA ۔|SM
+ان|PD سوالوں|NN کا|P کوئی|Q جواب|NN اس|PD وقت|NN تو|I نہیں|NEG ہے|TA ۔|SM
+لیکن|SC ایک|CA بات|NN جو|REP اس|PD قصے|NN کو|P متنازع|ADJ بناتی|VB ہے|TA وہ|PP یہ|PP کہ|SC اس|PD مرتبہ|NN بھی|I پی|VB سی|A بی|PN کے|P ڈائریکٹر|NN انتخاب|NN عالم|NN اس|PD معاملے|NN کی|P پشت|NN پر|P ہیں|TA ۔|SM
+جی|PN ہاں|INT ،|PM وہی|PP انتخاب|NN عالم|NN جنہوں|REP نے|P شعیب|PN اختر|PN کی|P حساس|ADJ میڈیکل|ADJ رپورٹس|NN منظرعام|NN پر|P "عالمی|UNK شہرت"|UNK سمیٹی|VB تھی|TA ۔|SM
+بدنام|NN جو|REP ہوں|VB گے|TA تو|SC کیا|QW نام|NN نہ|NEG ہوگا|VB ۔|SM

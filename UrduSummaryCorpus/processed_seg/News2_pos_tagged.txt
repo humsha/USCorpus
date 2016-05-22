@@ -1,0 +1,61 @@
+﻿لالہ|UNK ہم|PP لوگ|NN پٹھانوں|NN کو|P کہتے|VB ہیں|TA ۔|SM
+پنجابی|NN میں|P بڑے|ADJ بھائی|NN کو|P بھی|I کہا|VB جاتا|AA ہے|TA ۔|SM
+آجکل|NN لالہ|NN کے|P بجائے|ADV ملالہ|NN ملالہ|NN ہوئی|VB پھری|NN ہے|TA ۔|SM
+یہ|PP ایک|CA سولہ|CA برس|NN کی|P چھوٹی|ADJ بچی|NN ہے|VB جس|REP کو|P پاکستان|PN میں|P پسماندگی|NN کے|P سمبل|PN کے|P طور|NN پر|P استعمالا|VB جارہا|AA ہے|TA ۔|SM
+مجھے|PP ملالہ|NN کے|P بارے|NN علم|NN نہیں|NEG ہے|TA ۔|SM
+زیادہ|ADV سوات|NN کے|P بارے|NN بھی|I نہیں|NEG کہ|SC ایک|CA بار|NN ہی|I جانا|VB ہوا|VB ۔|SM
+تب|AP وہاں|AP روای|NN چین|PN لکھتا|VB تھا|TA اور|CC بڑے|ADJ مزے|NN سے|SE اپنی|GR فیملی|NN کے|P ساتھ|NN بھی|I ادھر|AP لالوں|NN کی|P مہمان نوازی|UNK اور|CC گرمیوں|NN میں|P دریاےسوات|UNK کے|P ٹھنڈے|ADJ پانی|NN سے|SE لطف اندوز|UNK ہو|VB سکتے|AA تھے|TA ۔|SM
+یہ|PP کوئی|Q زیادہ|ADV پرانی|ADJ بات|NN نہیں|NEG ہے|VB کوئی|Q 1995|CA کے|P اردگرد|NN کا|P ذکر|NN ہے|TA ۔|SM
+جولوگ|NN اس|PP کے|P بعد|NN بھی|I ادھر|AP کو|P ہو|VB لئے|NN وہ|PP میرے|G گواہ|NN ہیں|TA کہ|SC مزے|NN کی|P جگہ|NN ہے|TA ۔|SM
+پھر|ADV افغانستان|NN پر|P امریکی|ADJ حملہ|NN اور|CC اسکے|G فورا|NN بعد|NN پاکستانی|ADJ طالبان|NN کا|P قیام|NN ۔|SM
+بس|ADV سب|Q کچھ|Q تبدیل|NN ،|PM یہ|PP پاکستانی|ADJ طالبان|NN ایک|CA سوالیہ|ADJ نشان|NN ہیں|TA ۔|SM
+دھماکہ|NN یہ|PP مسجد|NN میں|P کرتے|VB ہیں|TA ،|PM جنازہ ومزار|UNK کو|P تو|I بلکل|NN بھی|I نہیں|NEG بخشتے|VB ۔|SM
+اسکول|NN ہو|VB ،|PM کہ|SC بازار|NN ،|PM ہسپتال|NN یا|CC پھر|ADV پولیس|NN اسٹیشن|NN ،|PM پار|NN کر|VB جاتے|AA ہیں|TA ۔|SM
+اڑا|VB کے|P رکھ|VB دیتے|AA ہیں|TA ،|PM نہیں|NEG چھیڑا|VB انہوں|PP نے|P تو|I کسی|KD چرچ|NN کو|P نہیں|NEG چھیڑا|VB ۔|SM
+بھئی|ADJ مذہبی|ADJ رواداری|NN بھی|I کوئی|Q چیز|NN ہے|TA ۔|SM
+عام|ADJ آدمی|NN جو|REP بازار|NN میں|P خریداری|NN کر|VB رہے|AA ہوں|TA ۔|SM
+،|PM مزدور|NN جو|REP اپنی|GR روزی|NN کے|P چکر|NN میں|P ہوں|TA ،|PM ان|PP سے|SE نہیں|NEG بچ|VB سکتے|AA ۔|SM
+مگر|SC بہت|ADV حیرت|NN کی|P بات|NN ہے|TA انہوں|PP نے|P آج|NN تک|P کسی|KD جواء|NN خانہ|NN ،|PM کسی|KD کلب|NN ،|PM کسی|KD فیشن|NN شو|NN یا|CC پھر|ADV کسی|KD لچر|NN ٹی|PN وی|PN چینل|NN کو|P کبھی|AKP نہیں|NEG چھیڑا|VB ۔|SM
+شکل|NN انکی|ADJ شدید|ADJ اسلامی|PN ہے|TA ،|PM یہ|PP دھاڑی|NN ،|PM یہ|PP پگڑی|NN ،|PM نام|NN امارت|NN اسلامیہ|PN افغانستان|NN والے|WALA طالبان|NN کا|P ۔|SM
+نام|NN سے|SE پہلے|NN ملا|VB ضرور|ADV لکھنا|VB اور|CC کام|NN سارے|ADJ اسلام|NN کی|P بنیادی|ADJ تعلیمات|NN کے|P خلاف|NN ۔|SM
+اسکول|NN بند|ADJ ،|PM نمازی|NN نماز|NN نہیں|NEG پڑھ|VB سکتے|AA ،|PM دھماکہ|NN جنازہ|NN میں|P ۔|SM
+بندہ|ADJ پوچھے|VB وہ|PP کونسے|AKP مذہبی|ADJ ہیں|VB جو|REP اپنی|GR ہی|I عبادت|NN گاہ|NN کے|P دوالے|NN ہو|VB رہے|AA ۔|SM
+اسی|PP کو|P ہی|I تباہ|ADJ کرنے|VB پر|P تلے|NN ہوۓ|AA ۔|SM
+اب|AP تو|I کہا|VB جا|AA سکتا|AA ہے|VB انکا|PN کام|NN صرف|ADV دہشت|NN پھیلانا|VB ہے|TA اور|CC کچھ|Q نہیں|NEG ۔|SM
+بندہ|ADJ پوچھے|VB کہ|SC اس|PP سے|SE وہ|PP حاصل|ADJ کرنا|VB کیا|VB چاہتے|AA تھے|TA ۔|SM
+انکا|PN مقصد|NN کیا|VB تھا|TA اس|PD فساد|NN فی لارض|UNK سے|SE ۔|SM
+مستفید|ADJ کون|KP ہوا|VB اس|PD کاؤس|PN سے|SE ۔|SM
+یہ|PP وہ|PP سوالات|NN ہیں|VB جن|REP کے|P جوابات|NN ہر|Q بندہ|NN جانتا|VB ہے|TA اور|CC جو|REP نہیں|NEG جانتا|VB اسے|PP بتلانے|VB کی|P ضرورت|NN نہیں|NEG ۔|SM
+پاکستان|PN کا|P یہ|PP لالوں|NN کا|P علاقہ|NN سوات|NN ،|PM گزرشتہ|UNK کئی|Q دہائیوں|NN سے|SE مشکلات|NN کا|P شکار|NN ہے|TA ۔|SM
+روس|PN کے|P افغانستان|NN پر|P حملہ|NN کے|P نتیجہ|NN میں|P آنے|VB والی|WALA امیگریشن|NN کا|P رخ|NN اس|PD طرف|NN ہونے|VB کی|P وجہ|NN انکی|ADJ معاشرت وزبان|UNK کا|P ایک|CA ہونا|VB تھا|TA ۔|SM
+جغرافیائی|ADJ طور|NN پر|P پہاڑوں|NN اور|CC دشوارگزار|ADJ ،|PM وادیوں|NN پر|P مشتمل|ADJ ہونے|VB کی|P وجہ|NN سے|SE ،|PM موسم|NN کی|P شدت|NN اور|CC برفباری وسردی|UNK کا|P طویل|ADJ سلسلہ|NN ،|PM اس|PD علاقے|NN کی|P ترقی|NN میں|P ایک|CA بڑی|ADJ رکاوٹ|NN رہا|AA ۔|SM
+انگریز|PN کے|P وقت|NN سے|SE اسکی|G حثیت|NN ایک|CA غیرمستقل|ADJ حیثیت|NN ہونے|VB کی|P وجہ|NN سے|SE ،|PM وہاں|AP ترقیاتی|ADJ کام|NN خاطر|NN خواہ|SC نہ|NEG ہو|VB پایا|VB ۔|SM
+مشرف|NN صاحب|NN اور|CC ذرداری|NN حکومتیں|NN بھی|I اپنی|GR امریکہ|PN تولیہ|NN پالیسی|NN کی|P وجہ|NN سے|SE ادھر|AP توجہ|NN دینے|VB سے|SE کنارہ|NN کشی|NN کرتی|VB رہیں|AA ۔|SM
+ایسے|PP میں|P ملالہ|NN ظہور|NN پزیر|VB ہوئی|VB ۔|SM
+ایسے|ADJ وقت|NN میں|P جب|AP فوج|NN نے|P ادھر|AP کنٹرول|NN سنبھال|VB لیا|AA اور|CC اسکول|NN کھل|VB گئے|AA ۔|SM
+لڑکیاں|NN لڑکے|NN سب|Q اسکول|NN کو|P جانے|AA کے|P قابل|ADJ ہو|VB گئے|AA ،|PM طالبان|NN کو|P قابو|NN کر|VB لیا|AA گیا|AA ۔|SM
+روز|NN خبریں|NN آ|VB رہی|AA ہیں|TA کہ|SC ادھر|AP آج|NN میلہ|NN لگا|VB ہوا|VB ہے|TA ۔|SM
+آج|NN کرکٹ|NN کا|P ٹورنمنٹ|PN ہو|VB رہا|AA ہے|TA ۔|SM
+مگر|SC ملالہ|NN جی|PN کے|P بیانات|NN سے|SE لگتا|VB ہے|TA کہ|SC ادھر|AP بس|NN برے|ADJ حالات|NN ہیں|TA اور|CC 8|CA برس|NN پہلے|NN جو|REP اسکول|NN جلاءے|VB جاتے|AA تھے|TA اب|AP بھی|I وہی|PP ہے|TA ۔|SM
+ملالہ|NN کے|P بیانات|NN سے|SE زیادہ|ADV ڈر|NN اسکو|NN دئے|VB جانے|AA والے|WALA پروٹوکول|NN سے|SE لگ|VB رہا|AA کبھی|AKP تو|SC وہ|PP اوباہامہ|UNK کی|P چہیتی|ADJ ہوتی|VB ہے|TA ۔|SM
+اسکی|G سولویں|ADJ سالگرہ|NN کا|P اقوام|NN متحدہ|NN میں|P منایا|VB جانا|VB بھی|I ایک|CA سوالیہ|ADJ نشان|NN ہے|TA ۔|SM
+سوال|NN یہ|PP نہیں|NEG ہے|TA کہ|SC ملالہ|NN کا|P جنم|ADJ دن|NN کیوں|QW منایا|VB گیا|AA ۔|SM
+سوال|NN یہ|PP ہے|TA کہ|SC ملالہ|NN علاوہ|NN دیگر|NN پاکستانی|ADJ بیٹیوں|NN کو|P بھی|I تو|SC گولیاں|NN لگیں|AA ،|PM ان|PP پر|P تو|I بھی|I تو|SC ستم|NN ہوءے|AA ۔|SM
+کشمیر|NN میں|P کتنی|Q ملالاؤں|NN پر|P کیا|KP نہیں|NEG بیتا|VB ،|PM کتنی|Q ملالائیں|NN اور|CC اس|PP کی|P عمر|NN کی|P لڑکیاں|NN امریکن|ADJ ڈرونز|PN کا|P شکار|NN ہوئیں|VB اور|CC ماری|VB گئیں|AA ،|PM بغیر|NN جانے|VB کہ|SC انکا|PN قصور|NN کیا|VB تھا|TA ۔|SM
+فلسطین|PN میں|P کیا|VB ملالائیں|NN موجود|ADJ نہیں|NEG ،|PM کیا|QW وہ|PP کچھ|Q نہیں|NEG لکھ|VB سکتیں|AA ۔|SM
+کیا|QW وہاں|AP کوئی|Q بی|NN بی|NN سی|A کا|P نمائندہ|NN نہیں|NEG جو|REP فلسطین|PN کی|P ملالہ|NN کے|P بلاگ|NN کی|P نوک|NN پلک|NN سنوارے|VB ۔|SM
+اقوام|NN متحدہ|PN کا|P ان|PD معصوم|NN ملالاؤں|NN کے|P بارے|NN کیا|QW خیال|NN ہے|VB جو|REP گزشتہ|ADJ 70|CA دہائیوں|NN سے|SE پس|SC رہیں|AA ظلم|NN کی|P چکی|AA میں|P ۔|SM
+آگے|NN کیا|VB ہوگا|VB ۔|SM
+وقت|NN کا|P قاضی|ADJ فیصلہ|NN سنائے|VB گا|TA وقت|NN آنے|VB پر|P ہے|TA ۔|SM
+مگراب|NN تک|P کی|P تاریخ|NN تو|I یہی|PD ہے|TA کہ|SC مغرب|PN نے|P یہ|PP چوتھی|OR عالمی|ADJ جنگ|NN اپنے|GR میڈیا|NN سے|SE لڑی|NN اور|CC لڑ|VB رہے|AA ۔|SM
+جھوٹ|NN کو|P سچ|NN اور|CC سچ|NN کو|P جھوٹ|NN انہوں|PP نے|P ہی|I کیا|VB ۔|SM
+گیارہ|CA ستمبر|PN سے|SE اسامہ|NN بن|VB لادن|NN تک|P ،|PM صدام|NN حسین|ADJ عراق|PN کے|P جراثیمی|ADJ ہتھیار|NN اور|CC تیل|NN پر|P قبضہ|NN ،|PM لیبیا|PN پر|P حملہ|NN اور|CC مصری|PN حکومت|NN کا|P تختہ|NN الٹنا|VB ۔|SM
+ایران|PN اور|CC پھر|ADV سوریا|PN کی|P شورش|NN ،|PM پاکستان|PN میں|P مولبی|PN قادری|NN کی|P شورش|NN اور|CC نظام|NN کو|P سبوتاژ|NN کرنے|VB کا|P پروگرام|NN ،|PM اور|CC اب|AP ملالہ|NN کی|P پروجیکشن|NN ۔|SM
+دیکھو|VB اونٹ|NN کس|KP کروٹ|NN بیٹھتا|VB ہے|TA ۔|SM
+مجھے|PP تو|SC یہ|PP سب|Q عالمی|ADJ بدمعاشوں|NN کی|P ایک|CA اور|CC چال|NN لگ|VB رہی|VB ۔|SM
+ہمارا|G میڈیا|NN تو|SC انکی|ADJ بولی|NN بول|VB رہا|AA ۔|SM
+ادھر|AP سوشل|ADJ میڈیا|NN پر|P بھی|I ،|PM یورپی|ADJ لوگ|NN پاغل|NN ہوئے|AA بیٹھے|VB ہیں|TA ۔|SM
+یہ|PP وہ|PP لوگ|NN ہیں|VB جو|REP اٹالین|ADJ ٹی|PN وی|PN دیکھتے|VB ہیں|TA اور|CC برلسکونی|PN کو|P ووٹ|NN دیتے|AA ہیں|TA ۔|SM
+اب|AP ملالہ|NN ملالہ|NN کرتے|VB پھر|ADV رہے|AA ہیں|TA ۔|SM
+جیو|PN نیوز|PN بتلا|VB رہا|AA کہ|SC کسی|KD بینڈ|NN نے|P آئی|PN ایم|PN ملالہ|NN بھی|I گا|TA دیا|AA ۔|SM
+ہور|PN دسو|PN ،|PM ڈرون|PN حملوں|NN میں|P مرنے|VB والی|WALA ملالوں|NN کا|P شاید|ADV حساب|NN دینے|VB کی|P بجاءے|ADV اس|PP پر|P پردہ|NN ڈالنے|VB کی|P ایک|CA بھونڈی|ADJ کوشش|NN ۔|SM

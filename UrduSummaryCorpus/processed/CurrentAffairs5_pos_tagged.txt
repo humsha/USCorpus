@@ -1,0 +1,18 @@
+﻿ذمرہ|UNK فوج|NN چھ|CA ستمبر|PN کی|P جنگ|NN میں|P شہید|NN ہونے|VB والوں|WALA کی|P قبروں|NN پر|P آج|NN بھی|I پھول|NN چڑھائے|VB جا|AA رہے|AA ہیں|TA اور|CC فاتح|NN خوانی|NN کی|VB جا|AA رہی|AA ہے|TA ۔|SM
+مگر|SC ان|PD جوانوں|NN کی|P شہادت|NN کو|P کسی|KD نے|P یاد|NN نہیں|NEG کیا|VB جو|REP پچھلے|ADJ بارہ|CA سال|NN سے|SE دہشت|NN گردی|NN کی|P جنگ|NN میں|P شہید|NN ہوئے|VB ۔|SM
+نہ|NEG کسی|KD کو|P نشان|NN حیدر|PN ملا|VB اور|CC نہ|NEG ہی|I کسی|KD کو|P ستائش|NN کا|P سرٹیفکیٹ|NN ۔|SM
+کیوں|QW ،|PM اس|PP لیے|ADV کہ|SC وہ|PP اپنوں|NN کیخلاف|NN ہی|I لڑتے|VB ہوئے|AA شہید|NN ہوئے|VB ۔|SM
+پچھلے|ADJ اڑتالیس|CA سالوں|NN میں|P فوج|NN بہت|ADV بدل|VB چکی|AA ہے|TA ۔|SM
+شراب|NN تو|I پہلے|NN بھی|I فوجی|NN آفیسروں|NN میں|P عام|ADJ تھی|TA مگر|SC اب|AP تو|SC کچی|ADJ شراب|NN ہر|Q جگہ|NN پی|VB جانے|AA لگی|VB ہے|TA ۔|SM
+فی|Q زمانہ|NN اگر|SC دیکھا|VB جائے|AA تو|SC پاکستان|PN کی|P فوج|NN اسلامی|PN فوج|NN ہے|VB ہی|I نہیں|NEG ۔|SM
+جس|REP کے|P آفیسر|NN شرابی|ADJ ہوں|TA اور|CC عام|ADJ فوجی|NN نمازی|NN ہو|VB ،|PM جس|REP کا|P بجٹ|NN زیربحث|NN نہ|NEG لایا|VB جا|AA سکے|AA ،|PM جس|REP نے|P ملکی|ADJ قیادت|NN پر|P کئی|Q بار|NN شب|NN خون|NN مارا|VB ہو|VB ،|PM جس|REP نے|P پاکستان|PN دو|CA لخت|NN کیا|VB ہو|VB اسے|PP یوم|PN دفاع|NN منانے|VB کا|P کوئی|Q حق|NN نہیں|NEG ہے|TA ۔|SM
+وہ|PP فوج|NN جس|REP کا|P کام|NN سرحدوں|NN کی|P حفاظت|NN ہے|TA اس|PP نے|P ملک|NN میں|P بڑے|ADJ بڑے|ADJ کاروبار|NN شروع|NN کر|VB رکھے|VB ہیں|TA ۔|SM
+فوج|NN جائیداد|NN کے|P کاروبار|NN میں|P بے|PN تحاشہ|NN منافع|NN کما|VB رہی|AA ہے|TA ۔|SM
+تعلیم|NN پر|P قبضہ|NN کرتی|VB جا|AA رہی|AA ہے|TA ۔|SM
+یہی|PD وجہ|NN ہے|TA کہ|SC فوجی|NN سربراہ|NN جنرل|ADJ کیانی|PN نے|P بلوچستان|NN میں|P تقریر|NN کرتے|VB ہوئے|AA کہا|VB ہے|TA کہ|SC فوج|NN نے|P بلوچستان|NN کی|P معاشی|ADJ ترقی|NN میں|P اہم|ADJ کردار|NN ادا|NN کیا|VB ہے|TA ۔|SM
+ساتھ|NN یہ|PD جھوٹ|NN بھی|I بولا|VB ہے|TA کہ|SC فوج|NN کا|P ایک|CA بھی|I سپاہی|NN بلوچستان|NN میں|P نہیں|NEG لڑ|VB رہا|AA بلکہ|SC فوجی|NN بیرکوں|NN میں|P بیٹھے|VB ہیں|TA ۔|SM
+لیکن|SC دوسری|ADJ طرف|NN دیکھا|VB جائے|AA تو|SC بلوچستان|NN پچھلے|ADJ کئی|Q سالوں|NN سے|SE جنگ|NN کی|P حالت|NN میں|P ہے|TA اور|CC سینکڑوں|NN لوگ|NN اب|AP تک|P مارے|NN اور|CC غائب|ADJ کئے|Q جا|AA چکے|AA ہیں|TA ۔|SM
+ہمارے|G خیال|NN میں|P فوج|NN میں|P بہت|ADV بڑے|ADJ آپریشن|NN کی|P ضرورت|NN ہے|TA ۔|SM
+اس|PP کا|P ٹریننگ|NN کا|P پرانا|ADJ طریقہ|NN بدلنا|VB پڑے|AA گا|TA ۔|SM
+اسے|PP دنیاوی|ADJ کاروبار|NN سے|SE علیحدہ|ADJ کرنا|VB پڑے|AA گا|TA ۔|SM
+اگر|SC ایسا|PP نہیں|NEG کیا|VB گیا|AA تو|I وقت|NN پڑنے|VB پر|P فوج|NN پاکستانیوں|NN کو|P 1971|CA کی|P جنگ|NN سے|SE بھی|I بڑے|ADJ حادثے|NN سے|SE دوچار|MUL کر|VB سکتی|AA ہے|TA ۔|SM

@@ -1,0 +1,39 @@
+﻿آج|UNK یوم|PN پاکستان|PN ہے|TA ۔|SM
+اس|PD دن|NN قرارداد|NN پاکستان|PN پیش|NN کی|VB گئی|AA تھی|TA ۔|SM
+جس|REP کے|P محض|ADV سات|CA سال|NN بعد|NN اس|PD قوم|NN نے|P انتھک|ADJ محنت|NN اور|CC سچی|ADJ لگن|NN کے|P تحت|NN موجودہ|ADJ دنیا|NN میں|P پہلا|OR اسلامی|PN ملک|NN قائم|ADJ کردیا|VB تھا|TA ۔|SM
+ایک|CA مضبوط وتوانا|UNK پاکستان|PN قائم|ADJ کرنے|VB کے|P لئیے|ADV ۔|SM
+اس|PD وقت|NN ویسی|PP ہی|I قربانی|NN اور|CC جذبے|NN کی|P ضرورت|NN ہے|TA ۔|SM
+جیسا|A ۱۹۴۰ء|UNK انیس|CA سو|VB چالیس|CA عیسوی|NN میں|P برصغیر|NN کے|P مسلمانوں|NN میں|P تھا|TA ۔|SM
+ہم|PP سب|Q کی|P عزت|NN پاکستان|PN سے|SE ہے|TA ۔|SM
+اگر|SC پاکستان|PN ایک|CA مضبوط|ADJ اور|CC با|ADJ عزت|NN ملک|NN بن|VB کر|KER ابھرے|VB گا|TA ۔|SM
+تو|I نہ|NEG صرف|ADV ہم|PP سب|Q کی|P عزت|NN اور|CC شان|NN میں|P اضافہ|NN ہوگا|VB ۔|SM
+بلکہ|SC ہماری|G آئیندہ|ADJ نسلیں|NN بھی|I شان وشوکت|UNK سے|SE اس|PD دنیا|NN میں|P زندہ|ADJ رہ|VB سکیں|AA گی|TA ۔|SM
+جبکہ|SC اس|PD وقت|NN ہم|PP یعنی|ADV پاکستانیوں|NN کی|P ایک|CA بڑی|ADJ اکثریت|NN اپنے|GR مستقبل|NN سے|SE مایوس|ADJ نہیں|NEG تو|I پر|P امید|NN بھی|I نظر|NN نہیں|NEG آتی|VB ۔|SM
+اور|CC بہت|ADV سے|A لوگ|NN محض|ADV اچھے|ADJ مستقبل|NN کی|P خاطر|NN اپنا|GR وطن|NN اپنی|GR جان|NN سے|SE پیارا|VB پاکستان|PN چھوڑ|VB آئے|VB ہیں|TA ۔|SM
+اگر|SC ہم|PP چاہتے|AA ہیں|TA کہ|SC ہماری|G آنے|VB والی|WALA نسلوں|NN کو|P یوں|AP نہ|NEG کرنا|VB پڑے|AA تو|SC اس|PP کے|P لیے|ADV ضروری|ADJ ہے|TA کہ|SC پاکستان|PN میں|P ایسے|ADJ حالات|NN پیدا|NN کئیے|VB جائیں|AA جس|REP میں|P پاکستانیوں|NN کو|P محض|ADV ایک|CA اچھے|ADJ مستبقل|NN کی|P خاطر|NN غریب|ADJ الوطنی|PN کا|P زہر|NN نہ|NEG پینا|VB پڑے|AA ۔|SM
+محض|ADV اپنے|GR مالی|ADJ حالات|NN کی|P خاطر|NN ملک|NN چھور|VB کر|VB پردیس|NN کو|P نہ|NEG اپنانا|VB پڑے|AA ۔|SM
+اور|CC پاکستان|PN میں|P بسنے|VB والے|WALA پاکستانیوں|NN کا|P جینا|VB ایک|CA باعزت|NN شہری|NN کا|P ہو|VB ۔|SM
+اور|CC وہ|PP دو|CA وقت|NN کی|P روٹی|NN باعزت|NN روزگار|NN اور|CC رہائش|NN کے|P لیے|ADV کسی|KD کے|P محتاج|NN نہ|NEG ہوں|TA ۔|SM
+تو|SC اس|PP کے|P لیے|ADV ضروری|ADJ ہے|TA کہ|SC ہم|PP پاکستان|PN میں|P موافق|ADJ حالات|NN پیدا|NN کریں|VB ۔|SM
+اور|CC پاکستان|PN میں|P ایسے|PP اچھے|ADJ حالات|NN پیدا|NN ہوسکتے|VB ہیں|TA ۔|SM
+یقینا|ADV یوں|AP ہو|VB سکتا|AA ہے|TA مگر|SC اس|PP کے|P لیے|ADV ضروری|ADJ ہے|TA کہ|SC پاکستان|PN میں|P اچھے|ADJ حکمران|NN ہوں|TA ۔|SM
+جن|REP کی|P دلچسپی|NN صرف|Q اور|CC صرف|ADV پاکستان|PN اور|CC پاکستانی|ADJ قوم|NN کی|P ترقی|NN میں|P ہو|VB ۔|SM
+اور|CC یوں|AP ہونا|VB تب|AP تک|P ممکن|ADJ نہیں|NEG جب|AP تک|P پکی|VB نوکری|NN والوں|WALA کی|P دال|NN روٹی|NN کچی|ADJ نوکری|NN والوں|WALA کی|P ‘‘|UNK پرچی|NN ’’|UNK سے|SE نتھی|VB ہے|TA تب|AP تک|P پاکستان|PN کے|P مجموعی|ADJ حالات|NN بدلنے|VB مشکل|ADJ ہیں|TA ۔|SM
+ضرورت|NN اس|PD امر|NN کی|VB ہے|TA کہ|SC ’’|UNK شخصیات|NN ‘‘|UNK کی|P بجائے|ADV ادارے|NN مضبوط|ADJ ہوں|TA اور|CC اداروں|NN کے|P اہلکار|NN اپنے|GR آپ|PP کو|P حاکموں|NN کی|P بجائے|ADV ریاست|NN کے|P ملازم|NN سمجھیں|VB ۔|SM
+ترقی|NN یافتہ|ADJ دنیا|NN کے|P ممالک|NN میں|P دیکھتے|VB ہیں|TA کہ|SC حکومتیں|NN بدل|VB جاتی|AA ہیں|TA اور|CC نئی|ADJ سیاسی|ADJ جماعتیں|NN اور|CC نئے|ADJ لوگ|NN اقتدار|NN میں|P آجاتے|VB ہیں|TA مگر|SC ان|PP کے|P ادارے|NN مکمل|ADJ تسلسل|NN کے|P ساتھ|NN اپنے|GR عوام|NN کے|P مسائل|NN کو|P شب وروز|UNK حل|NN کرتے|VB نظر|NN آتے|VB ہیں|TA ۔|SM
+کیونکہ|SC انکے|NN اداروں|NN کے|P ملازمین|NN اور|CC افسر|NN اپنے|GR آپ|PP کو|P صرف|Q اور|CC صرف|ADV ریاست|NN کے|P ملازمین|NN سمجھتے|VB ہوئے|AA صرف|ADV ریاست|NN کی|P طرف|NN تفویض|ADJ کیے|VB گئے|AA فرائض|NN کی|P بجا|ADV آوری|NN ہی|I اپنا|GR فرض|NN اپنی|GR ڈیوٹی|NN سمجھتے|VB ہیں|TA ۔|SM
+جب|AP کہ|SC پاکستان|PN میں|P جیسے|A ہی|I نئے|ADJ حکمران|NN حکومت|NN میں|P آتے|VB ہیں|TA ۔|SM
+وہ|PP تمام|Q سرکاری|ADJ ملازمین|NN افسران|NN بیورو|PN کریسی|PN یعنی|ADV انتظامیہ|NN کو|P اپنا|GR ذاتی|ADJ ملازم|NN سمجھنا|VB شروع|NN کر|VB دیتے|AA ہیں|TA ۔|SM
+اور|CC اب|AP تو|SC یہ|PP عالم|NN ہے|TA کہ|SC پاکستانی|ADJ اداروں|NN کے|P بڑےبڑے|ADJ افسران|NN بھی|I اپنی|GR وفاداریاں|NN ریاست|NN پاکستان|PN کے|P ساتھ|NN نبھانے|VB کی|P بجائے|ADV حکمرانوں|NN وزیروں|NN مشیروں|NN اور|CC اسی|PD طرح|NN چار|CA پانچ|CA سال|NN کے|P لئیے|ADV کچی|ADJ نوکری|NN والوں|WALA سے|SE نباہنا|VB اپنا|GR فرض|NN سمجھتے|VB ہیں|TA ۔|SM
+اسی|PD سال|NN مئی|PN میں|P پاکستان|PN میں|P صوبائی|NN اور|CC قومی|ADJ الیکشن|NN ہونے|VB والے|WALA ہیں|TA ۔|SM
+بے|PN شک|NN ہم|PP دیار|ADJ غیر|ADJ میں|P رہنے|VB والے|WALA ووٹ|NN نہیں|NEG ڈال|VB سکتے|AA مگر|SC اپنی|GR آواز|NN کو|P پاکستان|PN میں|P اپنے|GR عزیزواقارب|PN اور|CC دوستوں|NN تک|P تو|I پہنچا|VB سکتے|AA ہیں|TA کہ|SC وہ|PP اپنی|GR قومی|ADJ امانت|NN یعنی|ADV ووٹ|NN اسے|PP دیں|AA جو|REP پاکستان|PN کو|P ایک|CA عظیم|ADJ ریاست|NN سمجھتے|VB ہوئے|AA پاکستان|PN کی|P عظمت|NN بحال|ADJ کرنے|VB میں|P دلچسپی|NN رکھتا|VB ہو|VB ۔|SM
+جو|REP پاکستان|PN کے|P وسائل|NN کو|P قوم|NN کی|P امانت|NN سمجھ|VB کر|KER اس|PP میں|P خیانت|NN نہ|NEG کرے|VB ۔|SM
+جو|REP شخصیات|NN کی|P بجائے|ADV پاکستان|PN کے|P اداروں|NN پاکستان|PN کے|P اثاثوں|NN کو|P مضبوط|ADJ کرے|VB ۔|SM
+جو|REP بڑےبڑے|ADJ عہدیداروں|NN کے|P عہدوں|NN کو|P اپنی|GR پرچی|NN کا|P مرہون|ADJ منت|NN نہ|NEG جانیں|VB ۔|SM
+جو|REP پاکستانی|ADJ سرکاری|ADJ ملازمین|NN میں|P یہ|PD احساس|NN اور|CC جذبہ|NN پیدا|NN کر|VB سکے|AA کہ|SC وہ|PP آنے|VB جانے|AA والے|WALA حکمرانوں|NN کے|P ملازم|NN نہیں|NEG ۔|SM
+بلکہ|SC شخصیات|NN کی|P بجائے|ADV ریاست|NN پاکستان|PN کے|P ملازم|NN ہیں|TA ۔|SM
+جو|REP پاکستان|PN کے|P آئین وقانون|UNK کے|P مطابق|NN پاکستانی|ADJ اداروں|NN کو|P مضبوط|ADJ کریں|VB ۔|SM
+یقین|NN مانئیے|VB اگر|SC پاکستان|PN کے|P ادارے|NN مضبوط|ADJ ہوں|VB گے|TA اور|CC انکے|NN اہلکار|NN اپنے|GR آپ|PP کو|P شخصیات|NN کی|P بجائے|ADV ریاست|NN پاکستان|PN کے|P ملازم|NN سمجھیں|VB گے|TA ۔|SM
+اور|CC ہر|Q صورت|NN میں|P ریاست|NN پاکستان|PN اور|CC پاکستانی|ADJ عوام|NN کا|P مفاد|NN مقدم|ADJ جانیں|VB گے|TA ۔|SM
+تو|I میں|P آپ|PP کو|P یقین|NN دلاتا|VB ہوں|TA کہ|SC ہماری|G آئیندہ|ADJ آنے|VB والی|WALA نسلیں|NN محض|ADV پاکستانی|NN ہونے|VB کی|P وجہ|NN سے|SE خوار|NN نہیں|NEG ہونگی|AA ۔|SM
+اور|CC وہ|PP اقوام|NN عالم|NN میں|P باعزت|NN قوم|NN کے|P طور|NN پہ|SC جانی|AA جائیں|AA گیں|AA ۔|SM

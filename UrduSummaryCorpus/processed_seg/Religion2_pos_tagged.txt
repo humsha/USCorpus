@@ -1,0 +1,42 @@
+﻿رات|UNK کی|P تاریکی|NN میں|P ایک|CA بہت|ADV ہی|I چھوٹا|ADJ سا|A کمرہ|NN جس|REP میں|P روشنی|NN نام|NN کی|P کوئی|Q چیز|NN نہیں|NEG ۔|SM
+اتنی|Q تاریکی|NN کہ|SC اپنے|GR ہاتھ|NN کی|P انگلیاں|NN بھی|I دیکھائی|VB نہیں|NEG دیتی|VB ۔|SM
+مکمل|ADJ خاموشی|NN پھر|ADV ہلکی|ADJ سی|A آہٹ|NN سنائی|VB دیتی|AA ہے|TA ۔|SM
+اور|CC تیز|ADJ آواز|NN اتنی|Q تیز|ADJ کہ|SC لگتا|VB ہے|TA ابھی|AP کانوں|NN کے|P پردے|NN پھٹ|VB جائے|AA گے|TA ۔|SM
+لیکن|SC وہ|PP تو|SC کب|AKP کے|P پھٹے|NN ہوئے|VB ہیں|TA ۔|SM
+جسم|NN سے|SE روح|NN بھی|I نکلےہوئے|UNK کئی|Q زمانے|NN گزر|VB گے|TA ہیں|TA ۔|SM
+اب|AP تو|SC اس|PD تاریک|ADJ کمرے|NN میں|P صرف|ADV میری|G ہڈیاں|NN ہیں|TA ۔|SM
+ہاں|INT یہ|PP ان|PD لوگوں|NN کے|P لیے|ADV جو|REP مجھے|PP یہاں|AP دفنا|VB کر|VB جا|AA چکے|AA ہیں|TA کئی|Q برس|NN پہلے|NN ۔|SM
+ان|PP کے|P لیے|ADV میرا|G نام|NN یاد|NN رکھنا|VB اس|PP لیے|ADV باقی|ADJ ہے|TA کہ|SC میں|P رشتے|NN میں|P کسی|KD کا|P نانا|PN تو|I کسی|KD کا|P پر|P نانا|PN دادا|NN یا|CC پھر|ADV دادا|NN کا|P دادا|NN ۔|SM
+اچانک|ADV میری|G ہڈیاں|NN گوشت|NN میں|P بدل|VB جاتی|AA ہیں|TA ۔|SM
+میرا|G جسم|NN مکمل|ADJ ہو|VB جاتا|AA ہے|TA ۔|SM
+میرے|G اندر|NN روح|NN واپس|ADJ آ|VB جاتی|AA ہے|TA ۔|SM
+اور|CC مجھ|PP سے|SE سوال|NN جواب|NN شروع|NN ہو|VB جاتے|AA ہیں|TA ۔|SM
+لیکن|SC میں|P جواب|NN نہیں|NEG دے|VB پاتا|VB ۔|SM
+تب|AP وہ|PP گرجدار|ADJ آواز|NN باربار|NN مجھ|PP سے|SE سوال|NN کرتی|VB ہے|TA ۔|SM
+اور|CC پھر|ADV میرے|G جسم|NN کے|P ٹکڑےٹکڑے|PN کر|VB دیے|VB جاتے|AA ہیں|TA ۔|SM
+میں|P روتا|VB ہوں|TA چیختا|VB چلاتا|VB ہوں|TA مجھے|PP چھوڑ|VB دو|CA مجھے|PP کچھ|Q یاد|NN نہیں|NEG میرے|G ٹکٹرے|NN جواب|NN دیتے|AA ہیں|TA ۔|SM
+لیکن|SC منکر|NN نکیر|NN کہتا|VB ہے|TA ۔|SM
+اس|PD وقت|NN تک|P اس|PD عذاب|NN میں|P رہو|VB گے|TA جب|AP تک|P صحیح صحیح|UNK جوابات|NN نہیں|NEG دے|VB پاتے|VB ۔|SM
+اب|AP تمھارا|G ھر|ADJ امتحان|NN ختم|ADJ نہیں|NEG ہوا|VB ۔|SM
+پھر|ADV میرے|G جسم|NN کے|P وہ|PP چھوٹےچھوٹے|ADJ ٹکڑے|NN وہی|PP چھوڑ|VB کر|KER چلا|VB جاتا|AA ہے|TA ۔|SM
+دوسری|ADJ دفعہ|NN میرے|G جسم|NN کے|P ٹکڑے|NN تو|I نہیں|NEG ہوتے|VB ۔|SM
+جوابات|NN نا|ADV دینے|VB کی|P صورت|NN میں|P مجھے|PP پاوں|NN کی|P چھوٹی|ADJ انگلی|PN سے|SE جلایا|VB جاتا|AA ہے|TA ۔|SM
+میں|P تکلیف|NN اور|CC درد|NN سے|SE پھر|ADV چیختا|VB ہوں|TA ۔|SM
+آگ|NN اہستہ آہستہ|UNK میرے|G باقی|ADJ جسم|NN کو|P اپنی|GR لپیٹ|NN میں|P لینا|VB شروع|NN کرتی|VB ہے|TA ۔|SM
+میں|P کہتا|VB ہوں|TA مجھے|PP چھوڑ|VB دو|CA مجھے|PP چھوڑ|VB دو|CA ،|PM لیکن|SC منکر|NN نکیر|NN ہستہ|NN رہتا|VB ہے|TA ۔|SM
+میرے|G جلنے|VB کو|P اپنی|GR خوش|ADJ نصیبی|ADJ سمجھتا|VB ہے|TA ۔|SM
+جب|AP تک|P میں|P مکمل|ADJ راکھ|PN نہیں|NEG ہو|VB جاتا|AA ۔|SM
+ایک|CA بار|NN پھر|ADV میرا|G امتحان|NN شروع|NN ہوتا|VB ہے|TA ۔|SM
+مجھ|PP سے|SE سوال|NN کیے|VB جاتے|AA ہیں|TA مجھے|PP نہیں|NEG آتے|VB ۔|SM
+میری|G آنکھ|NN سے|SE پوچھا|VB جاتا|AA ہے|TA آنکھ|NN کو|P کچھ|Q نہیں|NEG پتا|NN اس|PP میں|P لوہے|NN کی|P سلائی|NN مار|VB دی|VB جاتی|AA ہے|TA ۔|SM
+پھر|ADV زبان|NN کی|P باری|NN ہے|VB نہیں|NEG پتا|NN زبان|NN کو|P کاٹ|VB دیا|AA جاتا|AA ہے|TA ۔|SM
+پھر|ADV ہاتھ|NN کی|P باری|NN ہے|VB نہیں|NEG پتا|NN ہاتھ|NN کو|P اور|CC پاوں|NN کو|P جلا|VB دیا|AA جاتا|AA ہے|TA ۔|SM
+پھر|ADV میری|G قبر|NN تنگ|ADJ ہونا|VB شروع|NN ہو|VB جاتی|AA ہے|TA ۔|SM
+اتنی|Q تنگ|ADJ کہ|SC میرے|G جسم|NN کے|P ٹوٹنے|VB کی|P آوازیں|NN آنا|VB شروع|NN ہو|VB جاتی|AA ہیں|TA ۔|SM
+اور|CC منکر|NN نکیر|NN ہستہ|NN ہوا|AA چلا|VB جاتا|AA ہے|TA ۔|SM
+اے|NN خدا|NN کے|P بندوں|NN کبھی|AKP سوچا|VB ہے|TA قبر|NN کا|P عذاب|NN کتنا|AKP خطر|ADJ ناک|NN ہے|TA ۔|SM
+پھر|ADV بھی|I تم|PP لوگ|NN بعض|Q نہیں|NEG آتے|VB ۔|SM
+یہ|PP میں|PP نے|P اپنے|GR سے|SE لکھا|VB ہے|TA ۔|SM
+میں|PP نے|P ایک|CA کتاب|NN قبر|NN کا|P عذاب|NN پڑھی|VB تھی|TA جس|REP میں|P کچھ|Q اس|PD طرح|NN کا|P نقشہ|NN کھنچا|VB گیا|AA تھا|TA ۔|SM
+تب|AP میں|PP نے|P سوچا|VB جس|REP نے|P یہ|PD کتاب|NN لکھی|VB ہے|VB کیا|QW وہ|PP یہ|PP سب|Q کچھ|Q دیکھ|VB کر|KER آیا|VB ہے|TA ۔|SM
+یہ|PP سب|Q کچھ|Q اس|PP پر|P آزمایا|VB گیا|AA ہے|TA کہ|SC جاؤ|AA اب|AP باقیوں|NN کو|P بھی|I اپنی|GR کتاب|NN کے|P ذریعے|NN ڈراو|PN ۔|SM

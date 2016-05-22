@@ -1,0 +1,22 @@
+﻿جوں|UNK جوں|NN ویب|PN اپنا|GR سفر|NN طے|NN کر|VB رہی|AA ہے|TA ہر|Q چیز|NN میں|P جدت|NN آتی|VB جارہی|AA ہے|TA ۔|SM
+کل|Q کلاں|NN کو|P لوگ|NN صرف|ADV ویب|PN پر|P تحریر|NN پڑھا|VB اور|CC پھر|ADV لکھا|VB کرتے|VB تھے|TA ۔|SM
+اس|PP کے|P بعد|NN تصویر|NN کا|P سفر|NN شروع|NN ہوا|VB ۔|SM
+پھر|ADV آڈیو|ADJ یعنی|ADV صوتی|ADJ سفر|NN اور|CC بعد|NN آزاں|NN ویڈیو|NN نے|P آکر|NN ویب|PN کی|P دنیا|NN میں|P چار|CA چاند|NN لگا|VB دئے|AA ۔|SM
+اسی|PD طرح|NN آج|NN کل|Q بلاگنگ|NN میں|P بھی|I جدت|NN آتی|VB جارہی|AA ہے|TA ۔|SM
+سادہ|ADJ بلاگنگ|NN سے|SE بلاگنگ|PN پوڈ|PN کاسٹنگ|PN میں|P تبدیل|NN ہوئی|VB ۔|SM
+ابھی|AP ہمارے|G اردو|PN بلاگر|NN پوڈ|PN کاسٹنگ|PN کو|P ہی|I سمجھ|NN نہیں|NEG پائے|VB تھے|TA کہ|SC بلاگنگ|PN نے|P میکرو|PN (|PN مائکرو|PN )|EXP بلاگنگ|NN کی|P جانب|NN سفر|NN شروع|NN کیا|VB ہوا|VB ہے|TA ۔|SM
+میکرو|PN (|PN مائکرو|PN )|EXP بلاگنگ|PN کیا|VB ہے|TA ۔|SM
+میکرو|PN بلاگنگ|PN (|PN مائکرو|PN بلاگنگ|PN )|EXP ‘‘|UNK بلاگنگ|NN کے|P ساتھ|NN ساتھ|NN اپنی|GR پروفائل|NN پر|P چھوٹے|ADJ پیغامات|NN شائع|ADJ کرنے|VB کا|P ایک|CA مجموعہ|NN ہے|TA ۔|SM
+بالکل|ADV ٹیوٹر|PN کی|P طرز|NN کے|P پر|P چھوٹے|ADJ پیغامات|NN شائع|ADJ کرنا|VB ۔|SM
+جو|REP کہ|SC پوری|ADJ دنیا|NN میں|P کسی|KD بھی|I موبائل|NN فون|NN پر|P بھی|I پڑھے|VB جاسکیں|AA ۔|SM
+ایسے|PP چھوٹے|ADJ پیغامات|NN جن|REP سے|SE پڑھنے|VB والے|WALA پر|P پیغام|NN کا|P مطلب|NN واضح|ADJ ہو|VB سکے|AA ۔|SM
+ان|PD پیغامات|NN میں|P تحریر|NN ،|PM لنک|PN ،|PM آڈیو|ADJ اور|CC ویڈیو|NN پیغامات|NN شامل|ADJ ہوتے|VB ہیں|TA ۔|SM
+اصل|NN میں|P میکرو|PN بلاگنگ|NN سے|SE آپ|PP کسی|KD اکیلے|ADJ آدمی|NN ،|PM گروپ|NN یا|CC عوام|NN تک|P تیزی|NN سے|SE اپنا|GR پیغام|NN منتقل|ADJ کر|VB سکتے|AA ہیں|VB جو|REP کہ|SC عام|ADJ بلاگنگ|NN سے|SE ممکن|ADJ نہیں|NEG ہے|TA ۔|SM
+پچھلے|ADJ سالوں|NN میں|P بڑی|ADJ حکومتوں|NN نے|P خصوصا|PN عراق|PN ،|PM افغانستان|PN ،|PM مصر|PN میں|P پیغام|NN رسانی|NN کے|P لئے|NN بلاگنگ|NN اور|CC ٹیوٹر|PN کو|P بڑے|ADJ احسن|ADJ طریقے|NN سے|SE استمال|NN کیا|VB ہے|VB جس|REP سے|SE اس|PP کی|P اہمیت|NN اور|CC بھی|I بڑھ|VB گئی|AA ہے|TA ۔|SM
+اور|CC یہی|PD وجہ|NN ہے|TA کہ|SC اب|AP میکرو|PN بلاگنگ|NN کی|P اہمیت|NN اور|CC افادیت|NN دوسرے|ADJ لوگوں|NN اور|CC حکومتوں|NN کی|P نظروں|NN میں|P بڑھتی|VB جا|AA رہی|AA ہے|TA ۔|SM
+اب|AP ایک|CA دو|CA سوال|NN میکرو|PN بلاگنگ|NN کے|P سلسلے|NN میں|P ۔|SM
+کیا|QW ہم|PP ورڈ|PN پریس|NN کے|P زریعہ|NN سے|SE میکرو|PN بلاگنگ|PN کر|VB سکتے|AA ہیں|TA ۔|SM
+جی|PN ہاں|INT بالکل|ADV کر|VB سکتے|AA ہیں|TA ۔|SM
+اس|PP کے|P پلنگ|NN ان|PP آپ|PP کو|P ورڈ|PN پریس|NN کی|P سائٹ|NN سے|SE مل|VB جائیں|AA گے|TA ۔|SM
+کیا|QW ہم|PP بلاگ|NN سپاٹ|ADJ بلاگنگ|NN کے|P زریعہ|NN سے|SE میکرو|PN بلاگنگ|PN کر|VB سکتے|AA ہیں|TA ۔|SM
+جی|PN ہاں|INT ممکن|ADJ ہے|TA ۔|SM

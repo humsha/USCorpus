@@ -1,0 +1,168 @@
+﻿آگے|UNK چھٹیاں|NN آ|VB رہی|AA تھیں|TA ۔|SM
+دوست|NN کا|P گاؤں|NN یونیورسٹی|NN سے|SE قریب|NN ہی|I تھا|TA ۔|SM
+خیال|NN آیا|VB کہ|SC کیوں|QW نہ|NEG دوستوں|NN سے|SE مل|VB کر|VB پروگرام|NN بنایا|VB جائے|AA کہ|SC گاؤں|NN جائیں|AA گے|TA ۔|SM
+رات|NN کا|P کھانا|NN خود|RP پکائیں|VB گے|TA ،|PM رات|NN وہاں|AP گزاریں|VB گے|TA ۔|SM
+اور|CC صبح|NN سیر|NN سپاٹا|NN کر|VB کے|P واپس|ADJ آ|VB جائیں|AA گے|TA ۔|SM
+جب|AP دوستوں|NN سے|SE بات|NN کی|P تو|SC اچھا|ADJ جواب|NN ملا|VB اور|CC پروگرام|NN طے|NN ہو|VB گیا|AA کہ|SC آدھےگھنٹے|NN میں|P نکلنا|VB ہے|TA ۔|SM
+جہاں|AP میں|P زیرتعلیم|ADJ ہوں|TA یہ|PD جگہ|NN اسلام|NN آباد|ADJ کی|P حدود|NN میں|P ہی|I ہے|TA مگر|SC اکثر|ADV اسلام|NN آباد|ADJ یئے|AA نہیں|NEG جانتے|VB ۔|SM
+جب|AP میں|P پہلی|OR جگہ|NN یہاں|AP آیا|VB تھا|TA تو|I مجھے|PP بھی|I یقین|NN نہیں|NEG آ|VB رہا|AA تھا|TA کہ|SC میں|P اسلام|NN آباد|ADJ ہی|I میں|P کھڑا|ADJ ہوں|TA ۔|SM
+خیر|NN کچھ|Q ضروری|ADJ سامان|NN جلد|ADV بازی|NN میں|P لیا|AA اور|CC نکل|VB پڑے|AA ۔|SM
+گاؤں|NN جہاں|AP کا|P قصد|NN تھا|TA ،|PM کا|P نام|NN "کلاں"|UNK ہے|TA ۔|SM
+وہاں|AP میرے|G ایک|CA دوست|NN وسیم|PN کا|P گھر|NN ہے|VB جو|REP کئی|Q سالوں|NN سے|SE بند|ADJ پڑا|VB ہے|TA ۔|SM
+بس|NN کسی|KD شادی|NN بیاہ|NN یا|CC عید|NN کے|P موقع|NN پر|P کبھی|AKP کبھارکھلتا|VB ہے|TA ۔|SM
+رات|NN وہاں|AP گزارنے|VB کا|P پروگرام|NN تھا|TA ۔|SM
+جس|REP دوست|NN کا|P گھر|NN ہےوہ|PN بھی|I ساتھ|NN تھا|TA ۔|SM
+اس|PP کے|P گھر|NN والے|WALA آجکل|NN واہ|INT کینٹ|PN میں|P رہائش|NN پذیر|NN ہیں|TA ۔|SM
+شام|NN تقریبا|ADV مغرب|PN کا|P وقت|NN تھا|TA ۔|SM
+چائے|NN ،|PM چینی|NN ،|PM مصالحہ|NN ،|PM پتی|NN ،|PM مونگ|PN پھلی|NN اور|CC روٹیاں|NN جو|REP جو|REP کچھ|Q جلد|ADV بازی|NN میں|P ذہن|NN میں|P آیا|VB خرید|NN لیااور|PN گاڑی|NN کا|P انتظار|NN کرنے|VB لگے|AA ۔|SM
+وہاں|AP گاڑیاں|NN کم|Q ہی|I جاتی|AA ہیں|TA ۔|SM
+پورے|ADJ دن|NN میں|P بس|NN تین|CA چار|CA ہی|I ۔|SM
+کافی|Q دیر|NN بعد|NN ایک|CA گاڑی|NN آئی|VB ۔|SM
+بھری|ADJ معلوم|ADJ ہوتی|VB تھی|TA ۔|SM
+دل|NN کھٹکا|VB کہ|SC پورے|ADJ نہ|NEG آسکیں|VB گے|TA ۔|SM
+ہم|PP کل|Q آٹھ|CA لوگ|NN تھے|TA ۔|SM
+چار|CA کو|P بیٹھنے|VB کی|P جگہ|NN مل|VB گئی|AA باقی|ADJ چار|CA لٹک|VB گئے|AA ۔|SM
+اس|PD علاقے|NN میں|P گاڑیوں|NN کے|P پیچھے|NN لٹکنا|VB خطرناک|ADJ ضرور|ADV ہے|TA ،|PM مگر|SC یہ|PP لوگوں|NN کے|P روزمرہ|ADV معمول|NN کا|P حصہ|NN ہے|TA ۔|SM
+شہر|NN سے|SE دور|NN ہونے|VB کے|P باعث|NN یہاں|AP گاڑیوں|NN کی|P آمدورفت|NN بہت|ADV کم|ADJ ہوتی|VB ہے|TA ۔|SM
+اس|PD لئے|NN یہان|PN لٹکنا|VB مجبوری|NN ہے|TA اور|CC ضروری|ADJ بھی|I ۔|SM
+میں|P تو|SC اندر|NN سوار|ADJ ہو|VB گیا|AA ۔|SM
+کچھ|Q باقی|ADJ دوست|NN جن|REP کو|P اندر|NN جگہ|NN نہ|NEG ملی|VB وہ|PP لٹک|VB گئے|AA ۔|SM
+پہاڑی|NN لوگوں|NN کے|P بارے|NN میں|P اکثر|ADV سنا|VB تھا|TA کہ|SC یہ|PD لوگ|NN اچھے|ADJ نہیں|NEG ہوتے|VB ،|PM لٹیرے|NN اور|CC ڈاکو|NN ہوتے|VB ہیں|TA ۔|SM
+ہماری|G یونیورسٹی|NN انتظامیہ|NN نے|P بھی|I ہمیں|PP متبنہ|ADJ کیا|VB تھا|TA کہ|SC آپ|PP اس|PD طرف|NN کا|P کبھی|AKP قصد|NN نہ|NEG کریں|VB ۔|SM
+مگر|SC جب|AP یہاں|AP کے|P لوگوں|NN سے|SE ملاقات|NN ہوئی|VB تو|SC انتظامیہ|NN کی|P باتیں|NN محض|ADV خام|ADJ خیالی|ADJ نظر|NN آئیں|VB ۔|SM
+یہاں|AP کے|P لوگ|NN نہایت|ADV ملنسار|ADJ ،|PM مخلص|ADJ ،|PM ہمدرد|NN اورخیال|NN رکھنے|VB والے|WALA ہیں|TA ۔|SM
+جب|AP ہمارے|G ہمراہیوں|NN کو|P پتہ|NN چلا|VB کہ|SC ہم|PP بطور|ADV مہمان|NN یہاں|AP تشریف|NN لائے|VB ہیں|TA اور|CC گھومنے|VB پھرنے|CA کا|P ارادہ|NN ہے|TA تو|SC ہماری|G خوب|ADJ آؤ|NN بھگت|VB شروع|NN ہو|VB گئی|AA اور|CC ہمیں|PP مہمانوں|NN کا|P پورا|ADJ پروٹوکول|NN دیا|AA گیا|AA ۔|SM
+تقریبا|ADV ایک|CA گھنٹے|NN کے|P اس|PD سفر|NN میں|P ہمیں|PP اجنبیت|NN کا|P بالکل|ADV احساس|NN نہ|NEG ہوا|VB ۔|SM
+سائنس|NN زدہ|ADJ معاشروں|NN میں|P جہاں|AP انسان|NN اپنے|GR اوپر|NN ایک|CA خود|RP ساختہ|ADJ انا|PN کا|P خول|NN چڑھا|VB لیتے|AA ہیں|TA ایسے|ADJ لوگ|NN عام|ADJ طور|NN پر|P نظر|NN نہیں|NEG آتے|VB ۔|SM
+اور|CC انسانیت|NN کی|P عظمت|NN تو|SC اسی|PP میں|P ہے|TA کہ|SC وہ|PP ایک|CA دوسرے|PN کا|P دکھ|NN درد|NN بھی|I محسوس|ADJ کرتے|VB ہیں|TA ۔|SM
+ورنہ|SC اپنا|GR درد|NN تو|SC حیوان|NN بھی|I محسوس|ADJ کر|VB تے|AA ہیں|TA ۔|SM
+اس|PD وقت|NN فلائنگ|PN کوچ|NN کی|P سیٹ|NN پر|P بیٹھے|VB ہوئے|AA میں|PP نے|P انسانیت|NN کا|P وہ|PP روپ|NN دیکھا|VB جو|REP چراغ|NN لے|VB کر|KER بھی|I ڈھونڈو|PN تو|SC شاید|ADV ہی|I پورے|ADJ اسلام|NN آباد|ADJ میں|P ملے|VB ۔|SM
+خوبصورت|ADJ ،|PM بے|PN لوث|PN ،|PM مخلص|ADJ ،|PM ہمدرد|NN اور|CC پیاری|ADJ انسانیت|NN ۔|SM
+جب|AP گاڑی|NN نے|P ہماری|G منزل|NN پر|P آ|VB کر|VB بریک|NN لگائی|VB تو|SC سب|Q نے|P نیک|ADJ خواہشات|NN کے|P ساتھ|NN ہمیں|PP الوداع|PN کیا|VB ۔|SM
+ہم|PP گاڑی|NN سے|SE اتر|VB رہے|AA تھے|TA کہ|SC گاڑی|NN کے|P کلنڈر|NN نے|P لسی|NN سے|SE بھری|VB ہوئی|VB تین|CA بوتلیں|NN ہمارے|G سپرد|NN کر|VB دیں|AA ۔|SM
+اور|CC "چلو|UNK جی"|UNK کی|P آواز|NN کے|P ساتھ|NN ہی|I گاڑی|NN کو|P چلنے|VB کا|P حکم|NN جاری|ADJ کر|VB دیا|AA ۔|SM
+میں|P اور|CC میرے|G دوست|NN اس|PD مہمان|NN نوازی|VB پر|P ششدر|NN رہ|VB گئے|AA ۔|SM
+یہاں|AP سے|SE ہمارے|G دلچسپ|ADJ ایڈونچر|NN کا|P آغاز|NN ہوتا|VB ہے|TA ۔|SM
+ہم|PP چلتے|VB چلتے|VB دوست|NN کے|P گھر|NN پہنچے|VB ۔|SM
+سب|Q سے|SE پہلے|NN گھر|NN کا|P تالا|NN کھولا|VB اور|CC بجلی|NN چالو|NN کی|VB ۔|SM
+اوراس|CC کے|P بعد|NN پیٹ|PN پوجا|NN کی|P تیاریوں|NN میں|P مصروف|ADJ ہو|VB گئے|AA ۔|SM
+یہاں|AP چونکہ|SC سب|Q کچھ|Q خود|RP ہی|I کرنا|VB تھا|TA اس|PD لئے|NN دستیاب|ADJ وسائل|NN کے|P بہترین|ADJ استعمال|NN اور|CC اجتماعی|ADJ ذمہ|NN داری|NN کو|P نظم|NN و|CC ضبط|NN سے|SE نبھانے|VB کے|P لئے|NN ہم|PP نے|P موقع|NN پر|P ہی|I اپنے|GR میں|P سے|SE ایک|CA کو|P اپنا|GR لیڈر|NN یا|CC "امیر"|UNK چن|VB لیا|AA ۔|SM
+امیر|ADJ محترم|NN کے|P حکم|NN کے|P مطابق|NN دو|CA ٹیمیں|NN بنائی|VB گئیں|AA ۔|SM
+ایک|CA ٹیم|NN کے|P ذمہ|NN بستر|NN تیار|ADJ کرنا|VB اور|CC دوسری|ADJ کے|P ذمہ|NN برتن|NN دھونا|VB اور|CC کھانا|NN پکانا|VB تھا|TA ۔|SM
+میں|P برتن|NN دھونے|VB والی|WALA ٹیم|NN میں|P شامل|ADJ تھا|TA ۔|SM
+یہاں|AP کا|P پانی|NN بہت|ADV ٹھنڈا|ADJ تھا|TA ۔|SM
+اور|CC دوسرا|OR پانی|NN کی|P ایک|CA عجیب|ADJ خاصیت|NN تھی|VB جو|REP میں|PP نے|P پہلے|NN کبھی|AKP نہ|NEG دیکھی|VB تھی|TA ۔|SM
+پانی|NN جیسے|A ہی|I نل|NN سے|SE نکلتا|VB تو|SC یوں|AP لگتا|VB کہ|SC اس|PP میں|P سفید|ADJ رنگ|NN کی|P جھاگ|NN ملی|VB ہوئی|VB ہے|TA ۔|SM
+کچھ|Q دیر|NN برتن|NN میں|P پڑے|AA رہنے|VB کے|P بعد|NN خود|RP ہی|I سفید|ADJ جھاگ|NN غائب|ADJ ہو|VB جاتی|AA اورپانی|NN اپنی|GR اصلیت|NN پر|P آ|VB جاتا|AA اور|CC بے|PN رنگ|NN ہو|VB جاتا|AA ۔|SM
+رات|NN کے|P کھانے|NN پر|P ہم|PP نے|P اس|PD معمے|NN پر|P کافی|ADJ سوچ|NN بچار|NN کی|VB اور|CC آخر|NN نتیجہ|NN یہ|PP نکالا|VB کہ|SC سفید|ADJ جھاگ|NN یقینا|ADV کچھ|Q نمکیات|NN کی|P وجہ|NN سے|SE ہوگی|VB جو|REP حالت|NN سکون|NN میں|P آنے|VB کے|P بعد|NN خود|RP ہی|I پانے|VB میں|P تحلیل|NN ہو|VB جاتی|AA ہیں|TA ۔|SM
+برتن|NN دھونے|VB کے|P بعد|NN ہم|PP نے|P کھانا|NN پکانے|VB کی|P طرف|NN اپنی|GR توجہ|NN مبذول|ADJ کی|VB ۔|SM
+سخت|ADJ سردی|NN تھی|TA اور|CC اندھیرا|NN بھی|I ۔|SM
+ہماری|G خوش|ADJ قسمتی|NN کہ|SC جنگل|NN سے|SE قریب|NN ہونے|VB کی|P وجہ|NN سے|SE خشک|ADJ لکڑیاں|NN ڈھونڈنے|VB میں|P زیادہ|ADV دقت|NN نہ|NEG ہوئی|VB ۔|SM
+لکڑیاں|NN اکٹھی|ADJ کرنے|VB کے|P بعد|NN چولہا|NN نکال|VB کر|KER صاف|ADJ کیا|VB گیا|AA ۔|SM
+چولہا|NN ہمیں|PP اس|PD گھر|NN میں|P سے|SE ہی|I مل|VB گیا|AA ۔|SM
+چولہا|NN کیا|VB تھا|TA ،|PM دیکھنے|VB میں|P کوزے|NN کے|P نچلے|ADJ حصے|NN کی|P طرح|NN لگتا|VB تھا|TA ۔|SM
+شاید|ADV اس|PD علاقے|NN میں|P چولہے|NN ایسے|PP ہی|I ہوتے|VB ہوں|TA ۔|SM
+یہ|PP بھی|I ممکن|ADJ ہے|TA کہ|SC ضرورت|NN کے|P تحت|NN کسی|KD پرانے|ADJ کوزے|NN کو|P چولہے|NN کے|P طور|NN پر|P استعمال|NN کرنے|VB کے|P لئے|NN رکھ|VB لیا|AA گیا|AA ہو|VB ۔|SM
+خیر|NN جو|REP بھی|I ہو|VB ،|PM ہماری|G ضرورت|NN پوری|ADJ کرنے|VB کو|P کافی|ADJ تھا|TA ۔|SM
+ماچس|NN ہم|PP خرید|NN کر|KER لائے|VB تھے|TA ۔|SM
+مزید|ADJ دیر|NN کئے|Q بغیر|NN آگ|NN جلائی|VB ۔|SM
+روٹیاں|NN ہم|PP نے|P آنے|VB سے|SE پہلے|NN خرید|VB لیں|AA تھیں|TA اور|CC راستے|NN سےانڈے|NN بھی|I لئے|NN تھے|TA ۔|SM
+ہم|PP کل|Q آٹھ|CA دوست|NN تھے|TA اور|CC انڈے|NN ایک|CA درجن|NN ۔|SM
+چھ|CA انڈے|NN الگ|ADJ کئے|Q ۔|SM
+سب|Q کو|P ایک|CA ہی|I برتن|NN میں|P انڈیل|VB کر|VB پھینٹنا|VB شروع|NN کردیا|VB کہ|SC ہاتھ|NN کی|P صفائی|NN دکھا|VB کر|KER ان|PD چھ|CA کے|P ہی|I آٹھ|CA آملیٹ|NN تیار|ADJ کر|VB لیں|AA گے|TA تا|CC کہ|SC باقی|ADJ چھ|CA صبح|NN ناشتے|NN کے|P لئے|NN بچ|VB جائیں|AA ۔|SM
+مگر|SC یہ|PP کیا|VB جیسے|A ہی|I انڈے|NN میں|P نمک|NN مرچ|PN ڈالنے|VB کی|P باری|NN آئی|VB تو|SC انکشاف|NN ہوا|VB کہ|SC نمک|NN مرچ|PN تو|SC راستے|NN سے|SE خریدنا|VB ہی|I بھول|VB گئے|AA ہیں|TA ۔|SM
+تو|I اب|AP کیا|VB پھیکے|VB آملیٹ|NN کھا|VB کر|KER گزارہ|NN کیا|VB جائے|AA ۔|SM
+میس|NN کے|P آملیٹ|NN بھی|I تو|SC قریب|ADJ قریب|NN پھیکے|VB ہی|I ہوتے|VB ہیں|TA ۔|SM
+اپنے|GR دوستوں|NN کی|P ہمت|NN بندھانے|VB کے|P لئے|NN میں|PP نے|P کہا|VB ۔|SM
+سامان|NN کوبار|NN بار|NN ٹٹول|VB کر|VB دیکھا|VB ۔|SM
+نمک|NN مرچ|PN تو|I نہ|NEG نکلی|VB مگر|SC کہیں|AKP سے|SE چاٹ|NN مصالحہ|NN بر|ADJ آمد|NN ہو|VB گیا|AA ۔|SM
+اتنے|Q میں|P بستر|NN تیار|ADJ کرنے|VB والی|WALA ٹیم|NN اپنا|GR کام|NN ختم|ADJ کر|VB کے|P چولہے|NN کے|P ارد|NN گرد|NN آ|VB کر|KER بیٹھ|VB چکے|AA تھی|TA اور|CC بڑی|ADJ بے|PN صبری|NN سے|SE "ڈنر"|UNK کا|P انتظار|NN ہو|VB رہا|AA تھا|TA ۔|SM
+امیر|ADJ محترم|NN نے|P فیصلہ|NN کیا|VB کہ|SC پہلے|NN ایک|CA آملیٹ|NN چاٹ|NN مصالحہ|NN ڈال|VB کر|KER بنایا|VB جائے|AA اور|CC اسے|PP چیک|NN کیا|VB جائے|AA ۔|SM
+اگر|SC تو|I تجربہ|NN کامیاب|ADJ رہا|VB تو|I ٹھیک|ADJ ورنہ|SC کچھ|Q اور|CC سوچیں|VB گے|TA ۔|SM
+خیر|NN پہلاآملیٹ|NN تیار|ADJ ہوا|VB اور|CC جب|AP آٹھ|CA جوان|ADJ اسے|PP چیک|NN کرنے|VB بیٹھے|VB تو|SC سارا|ADJ چیکنگ|NN کی|P نذر|NN ہو|VB گیا|AA ۔|SM
+آٹھ|CA منہ|NN آٹھ|CA ہی|I باتیں|NN ۔|SM
+کسی|KD نے|P کہا|VB "چلے|UNK گا"|UNK کسی|KD نے|P کہا|VB کہ|SC اس|PP سے|SE تو|SC کچا|ADJ انڈہ|NN پی|VB جانا|VB بہتر|ADJ ہے|TA ۔|SM
+جن|REP کے|P پاؤں|NN مخمل|NN پر|P چلنے|VB سے|SE چھلتے|VB اور|CC دانت|NN انگور|NN کھانے|VB سے|SE ہلتے|VB تھے|TA ۔|SM
+انہوں|PP نے|P فورا|NN تھوک|VB دیا|AA ۔|SM
+میں|PP نے|P مشورہ|NN دیا|VB کہ|SC ہماری|G پاس|NN چینی|NN وافر|ADJ مقدار|NN میں|P موجود|ADJ ہے|VB کیوں|QW نہ|NEG میٹھا|NN آملیٹ|NN بنایا|VB جائے|AA ۔|SM
+میٹھے|NN انڈے|NN کا|P نام|NN سننا|VB تھا|TA کہ|SC سب|Q کے|P ماتھے|NN پر|P شکنیں|NN پڑ|AA گئیں|AA ۔|SM
+"میٹھا|UNK انڈا|NN تو|SC کبھی|AKP نہیں|NEG سنا|VB ۔|SM
+"|PM اب|AP میں|P ان|PP بر|ADJ گر|VB اور|CC پیپسی|NN خوروں|NN کو|P کیسے|AKP سمجھاتا|VB کہ|SC میٹھا|NN آملیٹ|NN ہونے|VB کے|P لئے|NN سننا|VB کوئی|Q ضروری|ADJ تھوڑی|Q ہے|TA ۔|SM
+عام|ADJ آملیٹ|NN میں|P چینی|NN ڈال|VB دو|CA لو|AA ہو|VB گیا|AA میٹھا|NN آملیٹ|NN تیار|ADJ ۔|SM
+خیر|NN اپنے|GR موقف|NN کو|P ثابت|ADJ کرنے|VB کے|P لئے|NN میں|PP نے|P میٹھے|NN آملیٹ|NN کے|P خدوخال|NN اور|CC پکانے|VB کی|P ترکیب|NN پر|P روشنی|NN ڈالی|VB ۔|SM
+تخلیق|NN ،|PM ضرورت|NN کی|P ماں|NN ،|PM وسائل|NN کی|P کم|ADJ یابی|PN اور|CC وقت|NN کی|P ضرورت|NN کو|P موضوع|NN گفتگو|NN بناتے|VB ہوئے|AA کوئی|Q دو|CA تین|CA منٹ|NN دلائل|NN دئے|VB تب|AP کہیں|AKP جا|VB کر|KER ایک|CA دو|CA کا|P ارادہ|NN بدلنے|VB میں|P کامیاب|ADJ ہو|VB سکا|AA ۔|SM
+فیصلہ|NN یہ|PP کیا|VB گیا|AA کہ|SC صرف|ADV دو|CA انڈے|NN میٹھے|NN بنائے|VB جائیں|AA گے|TA ۔|SM
+سو|VB اللہ|PN اللہ|PN کر|VB کے|P آملیٹ|NN تیار|ADJ ہوئے|VB ،|PM روٹیوں|NN کو|P گرم|ADJ کیا|VB گیااور|AA دستر|ADJ خوان|NN سج|VB گیا|AA ۔|SM
+مزے|NN کی|P بات|NN یہ|PP ہے|TA کہ|SC کھانے|NN کے|P دوران|NN میٹھے|NN انڈے|NN کا|P ذائقہ|NN چکھتے|VB ہی|I سب|Q اس|PP پر|P ٹوٹ|VB پڑے|AA ،|PM اور|CC چاٹ|NN مصالحہ|NN بردار|PN انڈے|NN کو|P نظر|NN انداز|NN کر|VB دیا|AA گیا|AA ۔|SM
+پھر|ADV انگلیاں|NN چاٹتے|VB ہوئے|AA سب|Q کف|NN افسوس|NN بھی|I ملنے|VB لگے|AA کہ|SC تمام|Q انڈے|NN میٹھے|NN ہی|I کیوں|QW نہ|NEG بنا|VB لئے|NN گئے|AA ۔|SM
+کھانا|NN کھانے|NN کے|P بعد|NN ایک|CA گروہ|NN تھک|VB چکا|AA تھا|TA وہ|PP چارپائیوں|NN کی|P نذر|NN ہو|VB گیا|AA اور|CC ہم|PP چار|CA لوگ|NN گاؤں|NN کے|P باہر|NN سیر|NN کرنے|VB نکل|VB گئے|AA ۔|SM
+رات|NN کے|P تقریبا|ADV 9|CA بج|VB چکے|AA تھے|TA ۔|SM
+پورا|ADJ دن|NN کاروبار|NN زندگی|NN میں|P مشغول|ADJ اور|CC محنت|NN سے|SE چور|NN تھک|VB کر|KER شاید|ADV گاؤں|NN کے|P تمام|Q لوگ|NN سو|NN چکے|AA تھے|TA ۔|SM
+مکمل|ADJ خاموشی|NN تھی|TA ۔|SM
+گاؤں|NN سے|SE باہر|NN جانے|AA والی|WALA سڑک|NN کے|P ایک|CA طرف|NN پہاڑ|NN تھا|TA اور|CC دوسری|ADJ طرف|NN ڈھلوان|ADJ ۔|SM
+یہیں|PP سڑک|NN کے|P کنارے|NN پتھروں|NN کا|P ایک|CA جھرمٹ|NN تھا|TA ۔|SM
+ہم|PP وہیں|AP زمین|NN پر|P بیٹھ|VB گئے|AA ۔|SM
+چاند|NN اپنے|GR جوبن|NN پر|P تھا|TA اور|CC نورانی|ADJ کرنیں|NN ہر|Q سو|VB پھیل|VB کر|KER منظر|NN کی|P لطافت|NN کو|P مزید|ADJ نکھار|NN رہی|AA تھیں|TA ۔|SM
+سامنے|NN چیڑ|NN کے|P نوکیلے|ADJ پتوں|NN والے|WALA دراز|ADJ قد|NN درخت|NN اس|PD نورانی|ADJ منظر|NN میں|P کسی|KD سائے|NN کی|P طرح|NN معلوم|ADJ ہوتے|VB تھے|TA ۔|SM
+ٹھنڈی|ADJ ہوا|VB چل|VB رہی|AA تھی|TA اور|CC خاموشی|NN اس|PD قدر|NN تھی|VB کہ|SC ہوا|VB کی|P سنسناہٹ|NN سنی|VB جا|AA سکتی|AA تھی|TA ۔|SM
+ہوا|VB کے|P جھونکے|NN جب|AP چیڑ|NN کی|P ٹہنیوں|NN سے|SE ٹکراتے|VB تو|SC ٹہنیاں|NN سرور|NN سے|SE جھومتی|VB چلی|VB جاتیں|AA ۔|SM
+دل|NN کرتا|VB تھا|TA کہ|SC یہ|PD رات|NN کبھی|AKP نہ|NEG گزرے|VB ۔|SM
+میں|P کافی|Q دیر|NN بیٹھا|VB چیڑ|NN کی|P ٹہنیوں|NN کو|P جھومتا|VB دیکھ|VB کر|KER لطف|NN اندوز|VB ہوتا|VB رہا|AA اور|CC سوچتا|VB رہا|AA کہ|SC کتنے|Q خوش|ADJ نصیب|NN ہیں|TA وہ|PP مقامات|NN ،|PM جن|REP کو|P ابھی|AP تک|P انسان|NN کےپاؤں|NN نے|P نہیں|NEG روندا|VB ۔|SM
+روئے|ADJ زمین|NN پر|P انسان|NN نے|P جہاں|AP جہاں|AP ڈیرے|NN ڈالے|VB ،|PM نام|NN نہاد|NN ترقی|NN کی|P بنا|NN پر|P فطری|ADJ خوبصورتی|NN کا|P گلا|NN گھونٹتا|VB گیا|AA ۔|SM
+یہی|PD چاند|NN ہے|TA ،|PM کلاں|NN میں|P بھی|I ہے|TA اور|CC راولپنڈی|PN میں|P بھی|I ،|PM مگر|SC کلاں|NN میں|P اپنی|GR آسائش|NN کی|P خاطر|NN آلودگی|NN ،|PM دھواں|NN ،|PM شور|NN اور|CC گندگی|NN پھیلانے|VB والے|WALA انسان|NN کم|ADJ ہیں|TA ۔|SM
+میرے|G سامنے|NN موجود|ADJ چیڑ|NN کا|P درخت|NN مزے|NN میں|P مست|NN جھوم|NN رہا|AA ہے|TA ۔|SM
+جبکہ|SC یونیورسٹی|NN کینٹین|NN کے|P کنارے|NN لگا|VB چیڑ|NN کا|P درخت|NN خاموش|ADJ ہےاور|AA ٹھنڈی|ADJ ہوا|VB کے|P جھونکوں|NN کا|P منتظر|ADJ ہے|TA ۔|SM
+نیند|NN آنکھوں|NN سے|SE کوسوں|NN دور|NN تھی|TA ۔|SM
+ناچاہتے|VB ہوئے|AA بھی|I ہمیں|PP وہاں|AP سے|SE اٹھنا|VB پڑا|AA اور|CC واپس|ADJ جاکر|NN ہم|PP بھی|I سو|VB گئے|AA ۔|SM
+صبح|NN آنکھ|NN کھولتے|VB ہی|I کانوں|NN میں|P سبحان|PN للہ|NN اور|CC ماشا|PN اللہ|PN کے|P الفاظ|NN پڑے|AA ۔|SM
+لبوں|NN پر|P مسکراہٹ|NN طاری|ADJ ہو|VB گئی|AA ۔|SM
+سخاوت|NN جو|REP پہلے|NN سے|SE اٹھ|VB چکا|AA تھا|TA اور|CC شاید|ADV رفع|NN حاجت|NN کی|P غرض|NN سے|SE کمرے|NN سے|SE باہر|NN نکلا|VB تھا|TA ،|PM باہر|NN نکلتے|VB ہی|I سبحان|PN اللہ|NN اور|CC ماشا|PN اللہ|PN کے|P نعرے|NN لگانا|VB شروع|NN ہو|VB گیا|AA ۔|SM
+یوں|AP لگتا|VB تھا|TA کہ|SC جیسے|A کوئی|Q بیش|ADJ قیمت|NN خزانہ|NN ہاتھ|NN لگا|VB گیاہو|AA یا|CC رات|NN کو|P خواب|NN میں|P آنے|VB والی|WALA دوشیزہ|NN کو|P دفعتا|VB اپنے|GR سامنے|NN پا|VB کر|VB فرط|ADJ جذبات|NN میں|P سبحان|PN اللہ|PN کے|P نعرے|NN لگا|VB رہا|AA ہو|VB ۔|SM
+میں|P بھی|I اٹھ|VB کر|KER باہر|NN تشریف|NN لے|VB گیا|AA ۔|SM
+باہر|NN گیا|AA تو|SC آنکھیں|NN کھلی|ADJ کی|P کھلی|ADJ رہ|VB گئیں|AA ۔|SM
+سورج|NN نکلنے|VB کا|P منظر|NN تھا|TA ۔|SM
+مگر|SC کیا|QW منظر|NN تھا|VB کبھی|AKP سوچا|VB نہ|NEG تھا|TA کہ|SC ایسے|PP بھی|I سورج|PN نکلتا|VB ہو|VB گا|TA ۔|SM
+سامنے|NN پہاڑوں|NN کی|P مٹی|NN سورج|PN کی|P روشنی|NN سے|SE چمک|NN رہی|AA تھی|TA ،|PM سبزہ|NN دھلا|VB ہوا|VB معلوم|ADJ ہوتا|VB تھا|TA ۔|SM
+جہاں|AP سورج|PN کی|P روشنی|NN نہ|NEG پڑتی|AA تھی|TA وہاں|AP مٹی|NN کا|P رنگ|NN ذرا|NN گہرا|ADJ تھا|TA ۔|SM
+سوارج|PN نکلنے|VB کا|P اتنا|Q صاف|ADJ ،|PM شفاف|ADJ اور|CC دل|NN آویز|ADJ نظارہ|NN میں|PP نے|P کبھی|AKP نہ|NEG دیکھا|VB تھا|TA ۔|SM
+یوں|AP لگ|VB رہا|AA تھا|TA کہ|SC جیسے|A میں|P کوئی|Q فلم|NN دیکھ|VB رہا|AA ہوں|TA ۔|SM
+میں|P یونہی|NN منظر|NN کی|P رنگینیوں|NN میں|P کھویا|VB ہوا|VB تھا|TA کہ|SC رفع|NN حاجت|NN نے|P آ|VB لیا|AA ۔|SM
+فارغ|ADJ ہونے|VB کے|P بعد|NN دیکھا|VB تو|I کچھ|Q لوگ|NN ابھی|AP تک|P سو|VB رہے|AA تھے|TA ۔|SM
+سوچا|VB کیوںنہ|NN ہلکی|ADJ پھلکی|NN ورزش|NN کر|VB لی|AA جائے|AA ۔|SM
+میں|P جینز|PN کی|P پینٹ|NN زیب|ADJ تن|NN کئے|Q ہوئے|AA تھا|TA اور|CC سائیڈ|NN جمپ|NN کرنے|VB لگا|AA ۔|SM
+اتنے|Q میں|P ایک|CA دوست|NN نے|P پیچھے|NN مڑ|VB کر|VB دیکھنے|VB کا|P اشارہ|NN کیا|VB ۔|SM
+پیچھے|NN مڑ|VB کر|VB دیکھا|VB تو|SC تھوڑی|Q دوربارہ|NN تیرہ|CA سال|NN کے|P دو|CA بچے|NN یونیفارم|NN زیب|ADJ تن|NN کئے|Q ہوئے|AA شاید|ADV سکول|NN جارہے|AA تھے|TA اورمجھے|SC یوں|AP اچھلتا|VB دیکھ|VB کر|VB زیرلب|NN مسکرا|VB رہے|AA تھے|TA ۔|SM
+میں|P ان|PP کی|P شیطانی|ADJ مسکراہٹ|NN کو|P بھانپ|VB چکا|AA تھا|TA ۔|SM
+میں|PP نے|P بھی|I مسکرانا|VB شروع|NN کر|VB دیا|AA ۔|SM
+ان|PP کی|P آنکھوں|NN میں|P مجھے|PP ایک|CA موٹا|NN تازہ|ADJ انسان|NN جینز|PN پہنے|VB اچھل|NN کود|VB کی|P کوشش|NN کرتا|VB نظر|NN آیا|VB تو|SC میری|G مسکراہٹ|NN ہنسی|NN میں|P تبدیل|NN ہوگئی|AA ۔|SM
+مجھے|PP دیکھتے|VB ہی|I انہوں|PP نے|P بھی|I بے|PN اختیار|NN ہنسنا|VB شروع|NN کر|VB دیا|AA ۔|SM
+نجانے|VB کیوں|QW مجھے|PP ان|PD بچوں|NN میں|P اپنا|GR بچپن|NN ،|PM جو|REP کہیں|AKP کھو|VB گیا|AA ہے|TA ،|PM نظر|NN آ|VB رہا|AA تھا|TA ۔|SM
+یونہی|NN قہقہے|NN لگاتے|VB لگاتے|VB وہ|PP میری|G نظروں|NN سے|SE اوجھل|ADJ ہو|VB گئے|AA ۔|SM
+جب|AP سب|Q لوگ|NN بیدار|ADJ ہو|VB چکے|AA تو|I ناشتہ|NN وغیرہ|NN تیار|ADJ کیا|VB گیا|AA ۔|SM
+ناشتے|NN کے|P بعد|NN سب|Q تیار|ADJ ہو|VB گئے|AA اور|CC جنگل|NN کی|P سیر|NN (|PN ہائیکنگ|NN )|NN کرنے|VB نکل|VB پڑے|AA ۔|SM
+جنگل|NN زیادہ|ADV گھنا|VB نہ|NEG تھا|TA ،|PM راستے|NN میں|P جگہ|NN جگہ|NN خوبصورت|ADJ چراہ|NN گاہیں|NN آئیں|VB ۔|SM
+سبزہ|NN کی|P بھرمار|NN تھی|TA ،|PM کہیں|AKP میدان|NN آ|VB جاتا|AA پھر|ADV جنگل|NN شروع|NN ہو|VB جاتا|AA ۔|SM
+راستے|NN بھر|VB میں|P میرے|G دوست|NN خوبصورت|ADJ مناظر|NN کیمرے|NN کی|P آنکھ|NN میں|P محفوظ|ADJ کرتے|VB رہے|AA اور|CC میں|P اپنی|GR یادداشت|NN کے|P صفحوں|NN پر|P نقش|NN تحریر|NN کرتاچلا|VB گیا|AA ۔|SM
+ہم|PP آلودگی|NN ،|PM شور|NN ،|PM گنجان|NN آبادی|NN ،|PM خود|RP غرضی|NN سے|SE بہت|ADV دور|NN تھے|TA اور|CC قدرت|NN سے|SE بہت|ADV قریب|NN قدرت|NN کتنی|Q خوب|ADJ صورت|NN ہے|TA ۔|SM
+آج|NN مجھے|PP اپنی|GR انکھوں|NN پر|P رشک|NN ہو|VB رہا|AA تھا|TA جن|REP کی|P بدولت|NN میں|P اس|PD قدر|NN خوبصورتی|NN سے|SE محظوظ|ADJ ہو|VB رہا|AA تھا|TA ۔|SM
+راستے|NN میں|P ایسی|AD ایسی|AD دل|NN فریب|NN جگہیں|NN آئیں|VB کہ|SC خدا|NN کے|P حضور|PN سجدے|NN میں|P گرنے|VB کو|P دل|NN کرتا|VB تھا|TA ۔|SM
+میں|P سوچ|VB رہا|AA تھا|TA ،|PM کہ|SC اگر|SC یہ|PD جگہ|NN اتنی|Q خوب|ADJ صورت|NN ہے|TA تو|I جنت|NN کیسی|AKP ہو|VB گی|TA ۔|SM
+ہم|PP چلتے|VB رہے|AA ،|PM بھاگتے|VB رہے|AA ،|PM گھومتے|VB رہے|AA ،|PM جب|AP تک|P ہماری|G ٹانگوں|NN نے|P ہمارا|G ساتھ|NN دیا|AA ۔|SM
+آخر|ADJ کوئی|Q ڈیڑھ|NN دو|CA گھنٹے|NN بعد|NN ہم|PP نے|P ایک|CA جگہ|NN قیام|NN کیا|VB ۔|SM
+ساتھ|NN میں|P بسکٹ|NN اور|CC کھانے|NN پینے|VB کا|P دوسرا|OR سامان|NN لائے|VB تھے|TA ۔|SM
+کھانے|NN کے|P بعد|NN میرے|G دوست|NN ان|PP خوشگوار|ADJ لمحات|NN کو|P کیمرے|NN میں|P محفوظ|ADJ کرنے|VB میں|P مشغول|ADJ ہو|VB گئے|AA اور|CC میں|P اپنی|GR ڈائری|NN لے|VB کر|KER تھوڑا|Q دور|NN جا|VB کر|KER ان|PD یادوں|NN کو|P اپنی|GR تحریر|NN میں|P سمونے|VB لگا|AA ۔|SM
+اور|CC یہ|PP وہ|PP آخری|ADJ پیرا|VB ہے|VB جو|REP میں|PP نے|P وہاں|AP بیٹھ|VB کر|KER لکھا|VB ۔|SM
+میں|P اس|PD وقت|NN ایک|CA پتھر|NN پر|P بیٹھا|VB ہوں|TA جو|REP میرے|G حجم|NN سے|SE تقریبا|ADV 50|CA گنا|U بڑ|ADJ اہو|PN گا|TA ۔|SM
+اس|PP کے|P ارد|NN گرد|NN بھی|I اس|PD جیسے|A ،|PM کچھ|Q اس|PP سے|SE چھوٹے|ADJ اور|CC کچھ|Q بڑے|ADJ پتھر|NN ہیں|TA ۔|SM
+نجانے|VB کتنے|Q سالوں|NN شاید|ADV صدیوں|NN سے|SE یہ|PD پتھر|NN ایک|CA دوسرے|PN کی|P ہمسائیگی|NN میں|P یوں|AP پڑے|VB ہیں|TA ۔|SM
+میرے|G آنکھوں|NN کو|P سامنے|NN ایک|CA ندی|NN ہےجو|PN آخر|ADJ کار|NN بل|NN کھاتی|VB دریائے|PN سواں|NN میں|P جا|AA گرتی|VB ہے|TA ۔|SM
+دریائے|PN سواں|NN بھی|I بل|NN کھاتا|VB ہوا|VB پہاڑ|NN کی|P اوٹ|NN میں|P چھپ|VB جاتا|AA ہے|TA ۔|SM
+پہاڑی|NN علاقوں|NN کی|P یہ|PP خصلت|NN مجھے|PP بہت|ADV بھاتی|VB ہے|TA ،|PM یہ|PP "بل|UNK کھانے|VB والی|WALA "خصلت|UNK ۔|SM
+ندی|NN ،|PM دریا|NN اور|CC گاؤں|NN کی|P گلیاں|NN بھی|I بل|NN کھاتی|VB ہوئیں|VB ۔|SM
+ٹھنڈی|ADJ ٹھنڈی|ADJ ہوا|VB میرے|G پسینے|NN سے|SE بھیگے|VB بدن|NN سے|SE ٹکراتی|VB ہے|TA تو|SC عجب|NN سا|A لطف|NN و|CC سرو|NN ر|PN اور|CC سکون|NN حاصل|ADJ ہوتا|VB ہے|TA ۔|SM
+میرے|G ارد|NN گرد|NN بالکل|ADV یکسر|ADJ خاموشی|NN ہے|TA ۔|SM
+بس|NN ہوا|VB کی|P سنسناہٹ|NN ہے|TA ،|PM یا|CC کبھی|AKP کبھی|AKP بھنورے|NN کی|P آواز|NN سنائی|VB دیتی|AA ہے|TA ۔|SM
+دل|NN کرتا|VB ہے|TA کہ|VB یہیں|NN کا|P ہو|VB جاؤں|AA ۔|SM
+یہ|PD منظر|NN ،|PM یہ|PP لمحہ|NN کہیں|AKP بیت|NN نہ|NEG جائے|AA ۔|SM
+کاش|NN گھڑی|NN کی|P سوئیاں|NN ٹھہر|VB جائیں|AA اور|CC میں|P یہیں|PP بیٹھا|VB رہوں|NN ۔|SM
+کاش|NN یہ|PD وقت|NN کبھی|AKP نہ|NEG گزرے|VB ۔|SM

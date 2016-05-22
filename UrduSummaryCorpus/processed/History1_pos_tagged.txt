@@ -1,0 +1,58 @@
+﻿صبح|UNK صبح|NN جب|AP میں|P چوک|NN سے|SE گزرتا|VB تو|SC سڑک|NN کے|P دونوں|OR اطراف|NN مزدور|NN اپنی|GR مزدوری|NN کے|P انتظار|NN میں|P رہتے|VB ۔|SM
+میں|P ان|PP کو|P دیکھتا|VB اور|CC کچھ|Q سوچے|VB بغیر|NN ہی|I یہاں|AP سے|SE گزر|VB جاتا|AA ۔|SM
+لیکن|SC کبھی|AKP کبھی|AKP جب|AP میں|P 11|CA بجے|NN واپس|ADJ آتا|VB اورمیرا|PN چکر|NN بھی|I چوک|NN کی|P طرف|NN لگتا|VB تو|SC وہاں|AP کچھ|Q مزدور|NN ابھی|AP تک|P موجود|ADJ ہوتے|VB ۔|SM
+پھر|ADV یہ|PP سوچتا|VB شاید|ADV ان|PP کو|P ابھی|AP تک|P کوئی|Q کام|NN نہیں|NEG ملا|VB ،|PM یہ|PP سوچتے|VB سوچتے|VB اپنا|GR راستہ|NN لیتا|AA اور|CC چلا|VB جاتا|AA ۔|SM
+آج|NN جب|AP میں|P کلاس|NN میں|P گیا|AA تو|SC بچوں|NN نے|P پوچھا|VB ’’|UNK سر|NN جی|PN کل|Q چھٹی|NN ہے|TA ’’|UNK ۔|SM
+میں|PP نے|P پوچھا|VB کیوں|QW چھٹی|NN ہے|TA تو|SC کہنے|VB لگے|AA ‘‘|UNK مزدور|NN کا|P عالمی|ADJ دن|NN ہے|TA ’’|UNK ۔|SM
+میں|PP نے|P ان|PP سے|SE کچھ|Q سوال|NN کیے|VB تو|I کسی|KD بچے|NN نے|P کوئی|Q خاطر|NN خواہ|SC جواب|NN نہیں|NEG دیا|AA ۔|SM
+مجھے|PP جتنا|Q معلوم|ADJ تھا|TA وہ|PP میں|PP نے|P ان|PP کو|P بتا|VB دیا|AA ۔|SM
+لیکن|SC گھر|NN پہنچ|VB کر|KER سوچا|VB اس|PP پر|P کچھ|Q لکھتے|VB ہیں|TA لیکن|SC لکھنے|VB سے|SE پہلے|NN کچھ|Q تفصیلات|NN کا|P پتہ|NN کر|VB لیں|AA ۔|SM
+جو|REP کوشش|NN کی|P اس|PP کا|P نتیجہ|NN یہ|PP ہے|TA ۔|SM
+پس|SC منظر|NN ۔|SM
+یوم|PN مئی|PN ،|PM مزدور|NN کا|P عالمی|ADJ دن|NN یا|CC لیبر|NN ڈے|PN ،|PM ہم|PP کیوں|QW مناتے|VB ہیں|TA ۔|SM
+ہوتا|VB یہ|PP تھا|TA کہ|SC مزدور|NN کی|P زندگی|NN ایک|CA گدھے|NN کے|P برابر|ADJ تھی|TA ۔|SM
+ایک|CA جانور|NN کی|P طرح|NN مزدور|NN سے|SE کام|NN لیا|VB جاتا|AA تھا|TA ۔|SM
+دن|NN میں|P 1616|CA گھنٹے|NN کام|NN لیا|VB جاتا|AA ۔|SM
+تنخواہ|NN بھی|I کچھ|Q خاص|ADJ نہیں|NEG تھی|TA ۔|SM
+اوورٹائم|NN کا|P تصور|NN ہی|I نہیں|NEG تھا|TA ۔|SM
+ڈیوٹی|NN کے|P دوران|NN اگر|SC کوئی|Q مزدور|NN زخمی|ADJ ہو|VB جاتا|AA یا|CC مر|VB جاتا|AA تو|SC اس|PP کے|P تمام|Q اخراجات|NN خود|RP مزدور|NN کے|P ذمہ|NN تھے|TA ۔|SM
+فیکٹری|NN یا|CC مل|VB کی|P طرف|NN سے|SE ایسا|PP کوئی|Q قانون|NN نہیں|NEG تھا|TA کہ|SC مزدور|NN کو|P زخمی|ADJ ہونے|VB کی|P صورت|NN میں|P اس|PP کا|P علاج|NN کروایا|VB جاتا|AA ۔|SM
+مزدور|NN کی|P ملازمت|NN کا|P فیصلہ|NN مالک|NN کی|P صوابدیدی|ADJ پر|P ہوتا|VB ۔|SM
+وہ|PP جس|REP کو|P چاہتا|AA ملازمت|NN پر|P رکھتا|VB اور|CC جس|REP کو|P چاہتا|AA ملازمت|NN سے|SE ہٹا|VB دیتا|VB ۔|SM
+ہفتے|NN میں|P سات|CA دن|NN کام|NN کرنا|VB پڑتا|VB ،|PM چھٹی|NN کا|P کوئی|Q تصور|NN ہی|I نہیں|NEG تھا|TA ۔|SM
+یکم|OR مئی|PN یا|CC مزدور|NN کا|P عالمی|ADJ دن|NN کی|P تاریخ|NN ۔|SM
+ان|PD تمام|Q مسائل|NN کو|P حل|NN کرنے|VB کے|P لیے|ADV امریکہ|PN اور|CC یورپ|PN میں|P مزدوروں|NN نے|P مختلف|ADJ تحریکیں|NN چلائیں|VB ۔|SM
+1884ء|UNK میں|P فیڈریشن|PN آف|PN آرگنائزڈ|PN ٹریڈرز|PN اینڈ|PN لیبریونینز|PN نے|P اپنا|GR ایک|CA اجلاس|NN منعقد|ADJ کیا|VB جس|REP میں|P انہوں|PP نے|P ایک|CA قرارداد|NN پیش|NN کی|VB ۔|SM
+قرارداد|NN میں|P کچھ|Q مطالبے|NN رکھے|VB گے|TA جن|REP میں|P سب|Q سے|SE اہم|ADJ مطالبہ|NN ‘مزدوروں|UNK کے|P اوقات|NN کار|NN کو|P 16|CA گھنٹوں|NN سے|SE کم|ADJ کر|VB کے|P 8|CA گھنٹے|NN کیا|VB جائے|AA ۔|SM
+مزدوروں|NN کا|P کہنا|VB تھا|TA 8|CA گھنٹے|NN کام|NN کے|P لیے|ADV ،|PM 8گھنٹے|UNK آرام|NN کے|P لیے|ADV اور|CC 8|CA گھنٹے|NN ہماری|G مرضی|NN کے|P ۔|SM
+یہ|PD مطالبہ|NN یکم|OR مئی|PN سے|SE لاگو|ADJ کرنے|VB کی|P تجویز|NN پیش|NN کی|VB گئی|AA ۔|SM
+لیکن|SC اس|PD مطالبہ|NN کو|P تمام|Q قانونی|ADJ راستوں|NN سے|SE منوانے|VB کی|P کوشش|NN ناکام|ADJ ہونے|VB کی|P صورت|NN میں|P یکم|OR مئی|PN کو|P ہی|I ہڑتال|NN کا|P اعلان|NN کیا|VB گیا|AA اور|CC جب|AP تک|P مطالبات|NN نا|ADV مانے|VB جائیں|AA یہ|PD تحریک|NN جاری|ADJ رہے|VB گی|TA ۔|SM
+16|CA گھنٹے|NN کام|NN کرنے|VB والے|WALA مزدوروں|NN میں|P 8|CA گھنٹے|NN کام|NN کا|P نعرہ|NN بہت|ADV مقبول|ADJ ہوا|VB ۔|SM
+اسی|PD وجہ|NN سے|SE اپریل|PN 1886|CA ء|NN تک|P 2|CA لاکھ|NN 50|CA ہزار|CA سے|SE زیادہ|ADV مزدور|NN اس|PD ہڑتال|NN میں|P شامل|ADJ ہونے|VB کے|P لیے|ADV تیار|ADJ ہو|VB گے|TA ۔|SM
+اس|PD تحریک|NN کا|P آغاز|NN امریکہ|PN کہ|SC شہر|NN ‘‘|UNK شگاگو|NN ’’|UNK سے|SE ہوا|VB ۔|SM
+ہڑتال|NN سے|SE نپٹنے|VB کے|P لیے|ADV جدید|ADJ اسلحہ|NN سے|SE لیس|ADJ پولیس|NN کی|P تعداد|NN شہر|NN میں|P بڑھا|VB دی|VB گئی|AA ۔|SM
+یہ|PD اسلحہ|NN اور|CC دیگر|NN سامان|NN پولیس|NN کو|P مقامی|ADJ سرمایہ|NN داروں|NN نے|P مہیا|ADJ کیا|VB تھا|TA ۔|SM
+تاریخ|NN کا|P آغاز|NN یکم|OR مئی|PN سے|SE شروع|NN ہوگیا|VB ۔|SM
+پہلے|NN روز|NN ہڑتال|NN بہت|ADV کامیاب|ADJ رہی|AA دوسرے|OR دن|NN یعنی|ADV 2|CA مئی|PN کو|P بھی|I ہڑتال|NN بہت|ADV کامیاب|ADJ اور|CC پر|P امن|NN رہی|VB ۔|SM
+لیکن|SC تیسرے|OR دن|NN ایک|CA فیکٹری|NN کے|P اندر|NN پولیس|NN نے|P پر|P امن|NN اور|CC نہتے|ADJ مزدوروں|NN پر|P فائرنگ|NN کر|VB دی|AA جس|REP کی|P وجہ|NN سے|SE چار|CA مزدور|NN ہلاک|ADJ اور|CC بہت|ADV سے|SE زخمی|ADJ ہو|VB گے|TA ۔|SM
+اس|PD واقعہ|NN کے|P خلاف|NN تحریک|NN کے|P منتظمین|NN نے|P اگلے|ADJ ہی|I روز|NN 4|CA مئی|PN کو|P ایک|CA بڑے|ADJ اتجاجی|UNK جلسے|NN کا|P اعلان|NN کیا|VB ۔|SM
+اگلے|ADJ روز|NN جلسہ|NN پر|P امن|NN جاری|ADJ تھا|TA لیکن|SC آخری|ADJ مقرر|ADJ کے|P خطاب|NN کے|P دوران|NN پولیس|NN نے|P اچانک|ADV فائرنگ|NN شروع|NN کرکے|NN بہت|ADV سے|SE مزدور|NN ہلاک|ADJ اور|CC زخمی|ADJ کر|VB دے|AA ۔|SM
+پولیس|NN نے|P یہ|PD الزام|NN لگایا|VB کہ|SC مظاہرین|NN میں|P سے|SE ان|PP پر|P گرینیڈ|PN سے|SE حملہ|NN کیا|VB گیا|AA ہے|VB جس|REP کی|P وجہ|NN سے|SE ایک|CA پولیس|NN ہلاک|ADJ اور|CC کئی|Q زخمی|ADJ ہوگے|VB ہیں|TA ۔|SM
+اس|PD حملے|NN کو|P بہانہ|NN بناکر|PN پولیس|NN نے|P گھر|NN گھر|NN چھاپے|NN مار|VB ے|NN اور|CC بائیں|NN بازو|NN اور|CC مزدور|NN رہنماؤں|NN کو|P گرفتار|ADJ کر|VB لیا|AA ۔|SM
+ایک|CA جعلی|ADJ مقدمے|NN میں|P آ|VB ٹھ|PN مز|PN دور|NN رہنماؤں|NN کو|P سزا|NN ئے|AA موت|NN دے|VB دی|VB گئی|AA ۔|SM
+البرٹ|PN پار|NN سن‘|UNK آ|VB گسٹ|PN سپائز|PN ‘ایڈولف|UNK فشر|PN اور|CC جارج|PN اینجل|PN کو|P 11|CA نومبر|PN 1887ء|UNK کو|P پھانسی|VB دے|VB دی|VB گئی|AA ۔|SM
+لوئیس|PN لنگ|PN نے|P جیل|NN میں|P خود|RP کشی|NN کر|VB لی|AA اور|CC باقی|ADJ تینوں|OR کو|P 1893ئمیں|UNK معافی|NN دیکر|NN رہا|VB کر|VB دیا|AA گیا|AA ۔|SM
+مئی|PN کی|P اس|PD مزد|NN ور|PN تحریک|NN نے|P آ|VB نے|P والے|WALA دنوں|NN میں|P طبقاتی|ADJ جدوجہد|NN کے|P متعلق|NN شعور|NN میں|P انتہائی|ADJ اضافہ|NN کیا|VB ۔|SM
+ایک|CA نوجوان|ADJ لڑکی|NN ایما|NN گولڈ|PN نے|P کہا|VB ’’|UNK کہ|SC مئی1886ء|UNK کے|P واقعات|NN کے|P بعد|NN میں|P محسوس|ADJ کرتی|VB ہوں|TA کہ|SC میرے|G سیاسی|ADJ شعور|NN کی|P پیدائش|NN اس|PD واقعے|NN کے|P بعد|NN ہو|VB ئی|AA ہے|TA ‘‘|UNK ۔|SM
+البرٹ|PN پا|VB رسن|NN کی|P بیوہ|NN لوسی|PN پارسن|PN نے|P کہا|VB ’’|UNK دنیا|NN کے|P غریبوں|NN کو|P چاہیے|AA کہ|SC اپنی|GR نفرت|NN کو|P ان|PP طبقوں|NN کی|P طرف|NN موڑ|NN دیں|AA جو|REP انکی|ADJ غربت|NN کے|P ذمہ|NN دار|ADJ ہیں|TA یعنی|ADV سر|NN ما|PN یہ|PP دار|NN طبقہ|NN ‘‘|UNK ۔|SM
+جب|AP مزدوروں|NN پر|P فائر|PN نگ|NN ہو|VB رہی|AA تھی|TA تو|SC ایک|CA مزدور|NN نے|P اپناسفید|ADJ جھنڈاایک|PN زخمی|ADJ مزدور|NN کے|P خون|NN میں|P سرخ|ADJ کرکے|NN ہوا|VB میں|P لہرا|VB دیا|AA ‘اسکے|UNK بعد|NN مزدور|NN تحریک|NN کا|P جھنڈاہمیشہ|NN سرخ|ADJ رہا|AA ۔|SM
+1889|CA ء|NN میں|P ریمنڈ|PN لیوین|PN کی|P تجویز|NN پر|P یکم|OR مئی|PN 1890ء|UNK کو|P یوم|PN مئی|PN کے|P طور|NN پر|P منانے|VB کا|P اعلان|NN کیا|VB گیا|AA ۔|SM
+اس|PD دن|NN کی|P تقریبات|NN بہت|ADV کامیاب|ADJ رہیں|AA ۔|SM
+اسکے|G بعد|NN یہ|PD دن|NN ’’|UNK عالمی|ADJ یوم|PN مزدور|NN ‘‘|UNK کے|P طور|NN پر|P منایا|VB جانے|AA لگا|VB سوائے|NN امریکہ‘|UNK کینیڈا|PN اورجنوبی|PN افریقہ|PN کے|P ۔|SM
+جنوبی|PN افریقہ|PN میں|P غالبا|ADV نسل|NN پرست|NN حکومت|NN کے|P خاتمے|NN کے|P بعد|NN یوم|PN مئی|PN وہاں|AP بھی|I منایا|VB جانے|AA لگا|AA ۔|SM
+مزدور|NN اور|CC دیگر|NN استحصال|NN زدہ|ADJ طبقات|NN کی|P حکومت|NN لینن|PN کی|P سربراہی|NN میں|P اکتوبر|PN انقلاب|NN کے|P بعد|NN سوویت|ADJ یونین|NN میں|P قائم|ADJ ہوئی|VB ۔|SM
+اسکے|G بعد|NN مزدور|NN طبقے|NN کی|P عالمی|ADJ تحریک|NN بڑی|ADJ تیزی|NN سے|SE پھیلی|VB اور|CC چالیس|CA پچاس|CA سالوں|NN میں|P دنیا|NN کی|P تقریبا|ADV نصف|FR آبادی|NN پر|P مزدور|NN طبقے|NN کا|P انقلابی|ADJ سرخ|ADJ پرچم|NN لہرانے|VB لگا|AA ۔|SM
+لیکن|SC اس|PD کوشش|NN کے|P باعث|NN فیکٹری|NN اور|CC میل|U کے|P ملازمین|NN کو|P تو|I کسی|KD حد|NN تک|P تخفظات|NN مل|VB گئے|AA لیکن|SC ایک|CA عام|ADJ مزدور|NN جو|REP صبح|NN چوک|NN پر|P اپنی|GR مزدوری|NN کا|P انتظار|NN کرتا|VB ہے|TA ۔|SM
+جو|REP صبح|NN مزدوری|NN کرتا|VB ہے|TA اور|CC رات|NN کو|P اس|PP کا|P چولہا|NN جلتا|NN ہے|TA ۔|SM
+کسی|KD بھی|I سرکاری|ADJ یا|CC پرائیوٹ|NN چھٹی|NN کے|P ساتھ|NN ہی|I اس|PP کے|P گھر|NN میں|P فاقے|NN کی|P آمد|NN ہوتی|VB ہے|TA ۔|SM
+ایسے|PP مزدوروں|NN کی|P زندگی|NN میں|P یکم|OR مئی|PN کی|P کیا|QW اہمیت|NN ہوگی|VB ۔|SM

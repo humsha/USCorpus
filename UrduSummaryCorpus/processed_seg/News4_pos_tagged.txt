@@ -1,0 +1,47 @@
+﻿اس|UNK وقت|NN پاکستانی|ADJ قوم|NN ایک|CA افراتفری|NN کا|P شکار|NN ہے|TA ۔|SM
+اس|PD تنزل|NN مسلسل|ADJ کے|P نتیجے|NN میں|P ہماری|G بطور|ADV قوم|NN شناخت|NN بھی|I ایک|CA سوالیہ|ADJ نشان|NN بن|VB گئی|AA ہے|TA ۔|SM
+پاکستانی|ADJ کون|KP ہے|TA ۔|SM
+کس|KP کو|P پاکستانی|ADJ کہا|VB جائے|AA گا|TA ۔|SM
+اصلی|ADJ پاکستانی|ADJ کون|KP ہے|TA ۔|SM
+جب|AP پاکستان|PN بنا|VB تو|I بہت|ADV سے|A لوگ|NN لٹےپٹے|UNK ادھر|AP آئے|VB اور|CC مہاجرین|NN کہلائے|VB ۔|SM
+بہاری|NN ،|PM کشمیری|NN اور|CC بڑوئے|UNK اور|CC جانے|VB کیا|VB کیا|VB ۔|SM
+یہ|PP سارے|ADJ الفاظ|NN ابھی|AP تک|P ہماری|G زبان|NN سے|SE محو|NN نہیں|NEG ہوئے|VB ۔|SM
+پاکستانی|NN ،|PM وہ|PP لوگ|NN جو|REP رہتے|VB ،|PM مرتے|VB جیتے|VB پاکستان|PN میں|P ہی|I ہیں|TA ،|PM کام|NN بھی|I ادھر|AP ہی|I کرتے|VB ہیں|TA اور|CC سیاست|NN بھی|I ،|PM ٹیکس|NN اکثر|ADJ نہیں|NEG دیتے|AA ۔|SM
+پھر|ADV سن|VB ستر|CA میں|P بھٹو|NN صاھب|NN کی|P افراتفریح|NN کی|P وجہ|NN سے|SE جب|AP لوگوں|NN نے|P ملک|NN سے|SE نکلنا|VB شروع|NN کیا|VB تو|SC "باہرلے"|UNK کا|P لفظ|NN معرض|NN وجود|NN میں|P آیا|VB ۔|SM
+خیر|NN یار|NN اسے|PP طنزا|NN بھی|I استعمال|NN کرتے|VB ہیں|TA ۔|SM
+جی|PN ،|PM جی|PN ،|PM آپ|PP تو|SC باہرلے|ADJ ہیں|VB جی|PN ۔|SM
+خیر|NN باہرلے|ADJ تین|CA قسم|NN میں|P تقسیم|NN ہوئے|AA پھر|ADV ۔|SM
+بیرون|ADJ ملک|NN رہنے|VB والے|WALA پاکستانی|NN ،|PM دوھری|ADJ شہریت|NN والے|WALA اور|CC غیر|ADJ ملکی|ADJ شہریت|NN والے|WALA ۔|SM
+بیرون|ADJ ملک|NN پاکستانی|NN ۔|SM
+انکو|PN اورسیز|PN پاکستانی|NN بھی|I کہا|VB جاتا|AA ہے|TA ۔|SM
+انکے|NN پاس|NN پاکستانی|ADJ پاسپورٹ|NN ہوتا|VB ہے|TA اور|CC جہاں|AP پر|P رہتے|VB ہیں|TA وہاں|AP پر|P تیسرے|OR درجے|NN کے|P شہری|NN ہوتے|VB ہیں|TA ۔|SM
+کوئی|Q بھی|I معاملہ|NN ہو|VB تو|SC ان|PP کو|P پاکستان|PN ایمبیسی|NN سے|SE رجوع|NN کرنا|VB پڑتا|AA ہے|TA ۔|SM
+دنیا|NN میں|P کہیں|AKP بھی|I ہوں|TA ان|PP کو|P بےتوقیری|ADJ کا|P سامنے|NN بھی|I کرنا|VB پڑتا|AA ہے|TA ۔|SM
+بس|NN پاسپورٹ|NN نکالا|VB نہیں|NEG کہ|SC امیگریشن|NN افسر|NN کا|P منہ|NN بدلا|VB نہیں|NEG ۔|SM
+میں|P خود|RP کتنی|Q بار|NN کھجل|NN ہوچکا|VB ہوں|TA ۔|SM
+جبکہ|SC میرے|G ساتھ|NN پورے|ADJ کا|P پور|PN ڈیلیگیشن|PN دو|CA گھنٹے|NN تکے|NN میرا|G انتطار|NN کرتا|VB کہ|SC خان|NN صاحب|I ذرا|NN امیگریشن|NN سے|SE فارغ|ADJ ہو|VB لیں|AA ۔|SM
+ہم|PP لوگ|NN ادھر|AP ووٹ|NN نہیں|NEG ڈال|VB سکتے|AA ،|PM سیاست|NN نہیں|NEG کر|VB سکتے|AA ۔|SM
+صرف|ADV کام|NN کرو|VB ،|PM کھانا|NN کھاؤ|VB ،|PM ٹیکس|NN دو|CA ،|PM کام|NN ختم|ADJ اور|CC ہم|PP بھی|I فارخ|NN ۔|SM
+مگر|SC پاکستان|PN جائیں|AA تو|SC پھر|ADV جیب|NN سے|SE ادھر|AP کا|P پرس|NN نکال|VB کر|KER دوسرا|OR ڈال|VB لیا|AA جس|REP میں|P پاکستانی|ADJ اردو|PN والا|WALA شناختی|ADJ کارڈ|NN ہوتا|VB ہے|TA ۔|SM
+اور|CC بس|NN پاکستانی|ADJ ہوگئے|VB پورے|ADJ کے|P پورے|ADJ ۔|SM
+اللہ اللہ|UNK خیر|NN سلہ|NN ۔|SM
+دوھری|ADJ شہریت|NN والے|WALA پاکستانی|NN ۔|SM
+یہ|PP وہ|PP اصحاب|NN ہیں|VB جو|REP ادھر|AP کی|P مقامی|ADJ شہریت|NN بھی|I لیتے|AA ہیں|TA ۔|SM
+ا|PN دھر|VB سیاست|NN بھی|I کرتے|VB ہیں|TA ،|PM ووٹ|NN دیتے|AA ہیں|TA اور|CC لیتے|AA بھی|I ہیں|TA ۔|SM
+یہ|PP صاحبان|NN دو|CA چہروں|NN کی|P طرح|NN دو|CA پاسپورٹ|NN بھی|I رکھتے|VB ہیں|TA ۔|SM
+جب|AP پاکستان|PN آتے|VB ہیں|TA تو|SC پاکستانی|ADJ پاسپورٹ|NN نکال|VB لیتے|AA ہیں|TA اور|CC جب|AP ملک|NN سے|SE باہر|NN ہوتے|VB ہیں|TA پاکستانی|ADJ پاسپورٹ|NN غایب|ADJ ،|PM گویا|SC ڈبل|ADJ مزہ|NN ۔|SM
+غیر|ADJ ملکی|ADJ شہریت|NN والے|WALA ۔|SM
+یہ|PP وہ|PP لوگ|NN ہیں|VB جن|REP کے|P پاس|NN کبھی|AKP پاکستانی|ADJ شہریت|NN تھی|TA مگر|SC انہوں|PP نے|P اسے|PP ترک|NN کر|VB دیا|AA اور|CC کسی|KD دوسرے|ADJ ملک|NN کی|P شہریت|NN اختیار|NN کر|VB لی|AA ۔|SM
+یہ|PP بس|NN غیر|ADJ ملکی|ADJ ہی|I ہوتے|VB ہیں|TA ۔|SM
+انکو|PN پاکستان|PN جانے|AA کے|P لئے|NN بھی|I پاکستان|PN کا|P ویزہ|PN ایمبیسی|NN سے|SE لینا|VB پڑتا|AA ہے|TA ۔|SM
+پاکستان|PN میں|P بھی|I انکے|NN لئے|NN اپنا|GR اندراج|NN پولیس|NN میں|P کروانا|VB لازمی|ADJ ہے|TA ۔|SM
+کسی|KD بھی|I معاملے|NN میں|P یہ|PD لوگ|NN اپنے|GR سفارتخانے|PN کے|P ماتحت|ADJ ہی|I ہوتے|VB ہیں|TA ۔|SM
+جس|REP طرح|NN ایک|CA شاعر|NN صاحب|NN کا|P آج|NN انڈیا|PN نے|P پاکستان|PN کے|P ثقافتی|ADJ میلے|NN سے|SE واپس|ADJ بلوالیا|VB ۔|SM
+جس|REP طرح|NN مجھے|PP پولینڈ|PN والوں|WALA نے|P ویزہ|PN دینے|VB سے|SE انکار|NN کر|VB دیا|AA تھا|TA ۔|SM
+مطلب|NN فل|PN غیر|ADJ ملکی|ADJ ،|PM یہ|PD لوگ|NN پاکستان|PN میں|P سیاست|NN تو|SC کیا|VB ،|PM جائیداد|NN تک|P نہیں|NEG خرید|VB سکتے|AA ۔|SM
+تا|CC وقتیکہ|NN باقائدہ|ADJ اجازت|NN نہ|NEG لے|VB لیں|AA ۔|SM
+سوال|NN اگر|SC یہ|PP ہو|VB کہ|SC ان|PP میں|P سے|SE کون|KP محب وطن|UNK ہے|TA تو|SC جواب|NN یہ|PP ہوگا|VB کہ|SC جو|REP وطن|NN سے|SE محبت|NN کا|P اظہار|NN کرے|VB ،|PM جو|REP پاکستان|PN کے|P لئے|NN کچھ|Q کرے|VB ،|PM وہ|PP پاکستان|PN کے|P لئے|NN اچھا|ADJ ،|PM وہی|PP محب|NN وطن|NN ،|PM چاہے|VB وہ|PP اندر|NN والا|WALA ،|PM ہو|VB کہ|SC باہر|NN والا|WALA ،|PM اکہری|ADJ شہریت|NN والا|WALA یا|CC دوھری|ADJ والا|WALA ،|PM اور|CC بھلے|NN وہ|PP گورا|NN ہی|I کیوں|QW نہ|NEG ہو|VB اس|PP کو|P بھی|I نشان|NN پاکستان|PN ایوارڈ|PN جاتا|AA ہے|TA ۔|SM
+مگر|SC جو|REP حرامدے|UNK کام|NN کرے|VB گا|TA اسکو|NN جوتے|NN بھی|I پڑتے|VB ہیں|TA ۔|SM
+ذرداری|NN گو|SC پاکستان|PN کا|P صدر|NN بن|VB گیا|AA ہے|TA مگر|SC لوگ|NN اسے|PP کتا|NN کہنے|VB میں|P ہچکچاتے|VB ہیں|TA ۔|SM
+اسی|PD طرح|NN رحمان|NN ملک|NN کی|P دہشت|NN گردی|NN ،|PM حسین|ADJ حقانی|NN کی|P واردات|NN ،|PM ہو|VB یا|CC شیخ|NN الاسلام|PN کا|P فساد|NN ،|PM سب|Q قابل|NN مذمت|NN ،|PM مگر|SC ایک|CA بات|NN ہے|TA ۔|SM
+جیسی|A نیت|NN ویسی|PP مراد|NN ،|PM شیخ|NN الاسلام|PN مولانا|PN طاہرالقادری|NN المشور|PN کینڈیوی|UNK کے|P ساتھ|NN بھی|I جو|REP ہوا|VB ،|PM وہی|PP ہوا|VB ،|PM جو|REP ہونا|VB چاہئے|AA تھا|TA ۔|SM

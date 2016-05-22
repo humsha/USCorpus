@@ -1,0 +1,16 @@
+﻿انٹرنیٹ|UNK کی|P دنیا|NN میں|P ایس ای او|UNK کی|P اہمیت|NN دن بدن|UNK بڑھتی|VB جارہی|AA ہے|TA ۔|SM
+جبکہ|SC انگلش|PN میں|P تو|SC اس|PD موضوع|NN پر|P بےشمار|ADJ ویب سائٹس|UNK اور|CC مضامین|NN پڑھنے|VB کو|P ملیں|VB گے|TA ۔|SM
+حالانکہ|SC بہت|ADV زیادہ|ADV مواد|NN صرف|ADV ایک|CA اندازے|NN کے|P مطابق|NN لکھا|VB جاتا|AA ہے|TA اور|CC عملی|ADJ طور|NN پر|P صفر|CA نتائج|NN حاصل|ADJ ہوتے|VB ہیں|TA ۔|SM
+اردو|PN زبان|NN میں|P ان|PD موضوعات|NN پر|P کام|NN کی|P کافی|Q کمی|NN ہے|TA ،|PM اور|CC جو|REP کچھ|Q ابھی|AP تک|P پڑھنے|VB کو|P ملا|VB وہ|PP زیادہ|ADV تر|ADV انگلش|PN سے|SE اردو|PN میں|P ترجمہ|NN کیا|VB ہوا|VB ہے|TA ۔|SM
+جبکہ|SC لکھاری|NN کا|P اس|PP میں|P کوئی|Q ذاتی|ADJ تجربہ|NN نظر|NN نہیں|NEG آتا|VB ۔|SM
+دراصل|ADV اس|PD وسیع|ADJ و|CC عریض|NN موضوع|NN کو|P کوزے|NN میں|P تو|I بند|ADJ نہیں|NEG کیا|VB جا|AA سکتا|AA ۔|SM
+البتہ|SC اس|PP کے|P تجرباتی|ADJ مراحل|NN سے|SE گزر|VB کر|KER جب|AP صحیح|ADJ نتائج|NN حاصل|ADJ ہو|VB تو|SC انکو|PN ضرور|ADV آگاہی|NN کو|P طور|NN پر|P استعمال|NN کیا|VB جا|AA سکتا|AA ہے|TA ۔|SM
+مجھے|PP اس|PD موضع|PN پر|P لکھنے|VB کیلئے|AA جب|AP موقع|NN ملا|VB تو|I نہ|NEG صرف|ADV اپنے|GR تجربات|NN کی|P روشنی|NN میں|P لکھنا|VB شروع|NN کیا|VB بلکہ|SC اسکے|G انتہائی|ADV اہم|ADJ پہلووں|NN پر|P کو|P بھی|I اجاگر|VB کرنے|VB کی|P کوشش|NN کی|VB ۔|SM
+اور|CC اردو|PN زبان|NN میں|P ایک|CA نئی|ADJ ویب سائٹ|UNK کا|P اجرا|NN بھی|I کر|VB دیا|AA ۔|SM
+ایس ای او ین|UNK اردو|PN ڈاٹ|PN کام|NN پر|P گاہے|NN بگاہے|VB تقریبا|ADV اس|PP کے|P تمام|Q پہلووں|NN پر|P مضامیں|NN شامل|ADJ ہونگے|AA ۔|SM
+جیسے|A سرچ|PN انجن|NN آپٹیمائزیشن|PN بنیادی|ADJ طور|NN پر|P انٹرنیٹ|NN مارکیٹینگ|PN کا|P حصہ|NN ہے|TA ۔|SM
+اور|CC ایسی|AD خصوصیت|NN کا|P حامل|ADJ ہے|TA کہ|SC اس|PD طریقہ|NN کار|NN سے|SE کسی|KD بھی|I ویب سائٹ|UNK پر|P مطلوبہ|ADJ الفاظ|NN کی|P ورڈ|PN یا|CC کی|P فریز|NN پھر|ADV کے|P مطابق|NN سرچ|PN انجن|NN کی|P تلاش|NN کے|P پہلے|NN صفحہ|NN پر|P نمودار|NN ہو|VB کر|KER بہت|ADV سے|SE مفت|ADJ ویزیٹر|PN حاصل|ADJ کئے|Q جا|AA سکتے|AA ہیں|TA ۔|SM
+کسی|KD بھی|I ویب سائٹ|UNK کے|P مد مقابل|UNK ویب|PN سائٹس|PN کا|P موازنہ|NN کیئے|NN بغیر|NN آپٹیمازیشن|PN نا|ADV ممکن|ADJ ہے|TA ۔|SM
+جب|AP تک|P آپ|PP اپنی|GR ویب سائٹ|UNK کا|P ٹارگٹ|NN کی|P ورڈ|PN منتخب|ADJ نہیں|NEG کریں|VB گے|TA اس|PD وقت|NN تک|P ویب|PN سائٹ|NN کو|P تلاش|NN کے|P قابل|ADJ نہیں|NEG بنیایا|VB جا|AA سکتا|AA ۔|SM
+اسی|PD طرح|NN گوگل|NN یا|CC کسی|KD بھی|I سرچ انجن|UNK میں|P اس|PP کی|P ورڈ|NN کے|P ٹاپ|NN ٹین|PN کا|P موازنہ|NN کرنا|VB بھی|I ضروری|ADJ ہے|TA ۔|SM
+تا|CC کہ|SC آپکی|G ویب سائٹ|UNK پہلے|NN اس|PD مقابلہ|NN میں|P پہلے|NN صفحہ|NN پر|P جگہ|NN بنا|VB سکے|AA ۔|SM

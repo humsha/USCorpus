@@ -1,0 +1,24 @@
+﻿انسان|UNK جب|AP اپنی|GR اصل|NN کو|P بھول|VB کر|KER کسی|KD نئی|ADJ خو|PN د|CA ساختہ|ADJ روش|NN پرچلتا|VB ہے|TA تو|SC اس|PD نئی|ADJ راہ|NN کے|P ثمرات|NN اس|PP کا|P مقدر|NN بن|VB جاتے|AA ہیں|TA ۔|SM
+جبکہ|SC یہ|PD معاملہ|NN انفرادی|ADJ نوعیت|NN سے|SE نکل|VB کر|VB اجتماعی|ADJ صورت|NN اختیار|NN کر|VB لے|AA تو|SC اس|PP کے|P نتائج|NN بھی|I وسعت|NN اختیار|NN کرجاتے|VB ہیں|TA اور|CC پھر|ADV جب|AP کبھی|AKP لاچاری|NN سے|SE پالا|VB پڑ|AA جائے|AA ۔|SM
+ہونٹوں|NN سے|SE مسکان|NN چھن|VB جائے|AA ،|PM چہروں|NN سے|SE رونق|NN اڑ|VB جائے|AA ،|PM بے|PN بسی|PN کا|P دوردورہ|NN ہو|VB تو|SC پھربھی|ADV آنکھوں|NN سے|SE ندامت|NN جھلکتی|VB نظر|NN نہ|NEG آئے|VB تو|SC پھر|ADV بربادی|NN کے|P سوا|NN کوئی|Q منزل|NN نہیں|NEG ۔|SM
+کس|KP کی|P مجال|NN ہے|TA کہ|SC اللہ|PN کی|P زمین|NN پراس|P کے|P حکم|NN کے|P بغیرکوئی|ADJ پتہ|NN بھی|I سرک|NN سکے|AA ۔|SM
+مگر|SC حیف|NN ہے|VB اے|PN انسان|NN تیری|ADJ خود|RP مختاری|ADJ پہ|SC کہ|SC تو|I اپنی|GR خواہشوں|NN کی|P غلامی|NN میں|P اپنی|GR بربادی|NN کا|P سامان|NN خود|RP پیدا|NN کرتا|VB ہے|TA ۔|SM
+اور|CC اگر|SC بار|NN بار|NN کی|P ٹھوکروں|NN کو|P بھی|I نہ|NEG خاطر|NN میں|P لائے|VB تو|SC کون|KP اسے|PP کسی|KD گہری|ADJ کھائی|NN میں|P گرنے|VB سے|SE روک|VB سکتا|AA ہے|TA ۔|SM
+آج|NN جب|AP ہم|PP اپنا|GR مطمع|ADJ نظر|NN بدل|VB چکے|AA ،|PM اپنے|GR اسلاف|PN کے|P طریق|NN بھول|VB چکے|AA ۔|SM
+،|PM بے|PN شک|NN ہمارے|G اعمال|NN ہماری|G زندگی|NN کی|P راہیں|NN متعین|ADJ کر|VB رہے|AA ہیں|TA ،|PM اور|CC جیسا|A بوئیں|VB گے|TA ویسا|ADV ہی|I کاٹنا|VB پڑے|AA گااور|NN پھر|ADV وہی|PP پانی|NN کا|P ناتواں|ADJ قطرہ|NN جسے|REP کوئی|Q خاطر|NN میں|P بھی|I نہ|NEG لائے|VB ،|PM بپھر|VB تا|CC ہے|TA تو|SC بربادی|NN کا|P ساماں|NN پیدا|NN کرتا|VB ہے|TA ۔|SM
+مگر|SC جب|AP حکم|NN ہو|VB چکا|AA ،|PM اور|CC وہ|PP ایک|CA ہی|I جیسا|A نوالہ|NN جب|AP دو|CA مختلف|ADJ لوگوں|NN کے|P حلق|NN سے|SE اترتا|VB ہے|TA تو|I کسی|KD کیلئے|AA غذا|NN بن|VB جاتا|AA ہے|TA اور|CC کسی|KD کیلئے|AA وباء|NN بن|VB جاتا|AA ہے|TA ۔|SM
+اور|CC جب|AP ایک|CA ہی|I جیسا|A مینہ|NN آسماں|NN سے|SE برستا|VB ہے|TA تو|SC کہیں|AKP رحمت|NN بن|VB جاتا|AA ہے|TA اور|CC کہیں|AKP زحمت|NN ،|PM مگر|SC کیوں|QW ۔|SM
+جب|AP یہ|PP مینہ|NN کسی|KD گندگی|NN کے|P ڈھیر|NN پر|P برسے|VB گا|TA تو|SC کیا|VB غلاظت|NN و|CC زحمت|NN نہیں|NEG بنے|VB گا|TA ۔|SM
+اور|CC کیا|QW یہی|PD مینہ|NN کسی|KD ہل|NN چلا|VB کر|KER تیار|ADJ کیئے|VB گئے|AA کھیت|NN پر|P برسے|VB گا|TA تو|SC رحمت|NN نہیں|NEG بنے|VB گا|TA ۔|SM
+کیا|QW ہماری|G زندگیاں|NN خود|RP روہ|NN جھاڑیوں|NN کی|P طرح|NN گندگی|NN کے|P ڈھیر|NN تو|I نہیں|NEG بن|VB رہیں|AA ۔|SM
+کیا|QW کبھی|AKP ان|PP کو|P سیراب|NN کرنے|VB کیلئے|AA کچھ|Q سامان|NN کیا|VB ۔|SM
+آج|NN ہم|PP اپنے|GR انجام|NN کو|P بھول|VB کر|VB خلفشار|NN اور|CC پریشانی|NN سے|SE دوچار|NN ہیں|TA ۔|SM
+اپنی|GR اصل|ADJ سے|SE دور|NN ہوچکے|VB ہیں|TA اور|CC اطاعت|NN کے|P بغیر|NN ہی|I عطا|NN مانگتے|VB ہیں|TA ۔|SM
+اپنی|GR خواہشات|NN اور|CC ہوس|VB کے|P غلام|NN ہوچکے|VB ہیں|TA ۔|SM
+اللہ|PN کی|P دی|VB ہوئی|VB نعمت|NN کا|P شکر|NN ادا|NN کرنے|VB سے|SE قاصر|ADJ ہیں|TA ۔|SM
+کہ|SC کسی|KD صاحب|NN ثروت|NN کے|P سامنے|NN کوئی|Q غربت|NN سے|SE مر|VB رہا|AA ہے|TA تواللہ|NN شکر|NN تو|SC پھر|ADV ہی|I ادا|NN ہو|VB گا|TA کہ|SC اس|PD غریب|ADJ کی|P مدد|NN کی|VB جائے|AA ۔|SM
+اللہ|PN کی|P زمین|NN پر|P جب|AP ناانصافی|NN ہو|VB ،|PM ظلم|NN و|CC ستم|NN بڑھ|VB جائے|AA ،|PM اللہ|PN کی|P نافرمانی|NN ہو|VB اور|CC برائی|NN کوآگے|NN بڑھ|VB کر|VB روکنے|VB والا|WALA نہ|NEG ہو|VB ،|PM اپنے|GR گریبان|NN میں|P جھانکنے|VB کی|P بجائے|ADV دوسروں|PP کو|P برا|ADJ بھلا|ADJ کہا|VB جائے|AA ،|PM تو|SC پھر|ADV کس|KP اچھے|ADJ وقت|NN کی|P امید|NN رکھی|VB جا|AA سکتی|AA ہے|TA ۔|SM
+اورپھر|SC صر|ADJ ف|PN اک|NN احساس|NN و|CC ندامت|NN کا|P دروازہ|NN کھلاہے|VB کہ|SC اپنی|GR اصلاح|NN کر|VB لیں|AA اور|CC جھک|VB جائیں|AA اللہ|PN کے|P حضور|NN یہ|PP جان|VB کر|KER کہ|SC ہر|Q شے|NN کی|P باز|NN گشت|NN وہیں|AP سے|SE آتی|VB ہے|TA ۔|SM
+دوا|NN ءبھی|PN شفا|VB ءاسی|PN کے|P حکم|NN سے|SE بنتی|VB ہے|TA او|PN ر|PN وہی|PP کریم|NN ہے|TA کہ|SC اپنا|GR کرم|NN کردے|NN ۔|SM
+وہی|PP غفورالرحیم|NN ہے|TA کہ|SC ہماری|G خطائیں|NN بخش|ADJ دے|AA ،|PM وہی|PP سلام|NN ہے|TA کہ|SC سلامتی|NN عطافرمائے|VB ۔|SM
+آمین|NN ۔|SM

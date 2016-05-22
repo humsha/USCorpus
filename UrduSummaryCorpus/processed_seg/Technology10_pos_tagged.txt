@@ -1,0 +1,13 @@
+﻿مائیکروسافٹ|UNK کے|P مشہور|ADJ زمانہ|NN آپریٹنگ|ADJ سسٹم|NN ونڈوز|PN کا|P نیا|ADJ ورژن|NN اب|AP کمپنی|NN ویب سائیٹ|UNK پر|P پری|NN آرڈر|PN کے|P لیے|ADV دستیاب|ADJ ہے|TA ۔|SM
+مائیکروسافٹ|PN ونڈوز|PN 8.1|CA اب|AP پری|NN آرڈر|PN کے|P لیے|ADV دستیاب|ADJ ہے|TA ۔|SM
+ونڈوز|PN 8.1|CA کو|P اس|PD ماہ|NN 18|CA تاریخ|NN کو|P لانچ|NN کیا|VB جارہا|AA ہے|TA ۔|SM
+اسکی|ADJ قیمت|NN کم|Q و|CC بیش|ADJ 120|CA امریکی|ADJ ڈالر|NN مقرر|ADJ کی|VB گئ|AA ہے|TA جبکہ|SC پروفیشنل|PN ورژن|NN کی|P قیمت|NN 200|CA ڈالر|VB ہے|TA ۔|SM
+مائیکروسافٹ|NN کی|P جانب|NN سے|SE اگست|PN کے|P اختتام|NN پر|P اعلان|NN کیا|VB گیا|AA تھا|TA کہ|SC ونڈوز|PN 8.1|CA تیاری|NN کے|P آخری|ADJ مراحل|NN تک|P پہنچ|VB چکی|AA ہے|TA اور|CC اب|AP اسکا|G کوڈ|PN مائیکروسافٹ|NN کے|P ہارڈوئیر|NN شراکت|NN داروں|NN کو|P بھیجا|VB جارہا|AA ہے|TA ۔|SM
+تاکہ|SC وہ|PP نئی|ADJ کمپیوٹر|NN ،|PM لیپ ٹاپس|UNK اور|CC ٹیبلٹس|NN پر|P اسے|PP انسٹال|NN کر|VB سکیں|AA ۔|SM
+ونڈوز|PN کے|P اس|PD نئے|ADJ ورژن|NN کا|P انٹرفیس|PN موجودہ|ADJ ونڈوز|PN 8|CA سے|SE کچھ|Q زیادہ|ADV مختلف|ADJ نہیں|NEG ۔|SM
+تاہم|SC اس|PP میں|P بہت|ADV سے|SE نئے|ADJ فیچرز|NN اور|CC ایپلی|PN کیشنز|PN کو|P شامل|ADJ کرنے|VB کے|P ساتھ ساتھ|UNK موجودہ|ADJ ورژن|NN کی|P خامیوں|NN کو|P بھی|I دور|NN کیا|VB گیا|AA ہے|TA ۔|SM
+ونڈوز|PN 8.1|CA میں|P روایتی|ADJ سٹارٹ|NN بٹن|NN کو|P واپس|ADJ شامل|ADJ کیا|VB گیا|AA ہے|TA ۔|SM
+اسکے|G علاوہ|NN اس|PP میں|P انٹرنیٹ|ADJ ایکسپلورر|NN 11|CA ،|PM بنگ|PN سرچ|NN اور|CC سکائی|PN ڈرائیو|NN کلاؤڈ|PN کنکٹویٹی|PN کے|P نئے|ADJ فیچرز|NN بھی|I شامل|ADJ کیے|VB گئے|AA ہیں|TA ۔|SM
+اگر|SC آپ|PP اس|PD وقت|NN ونڈوز|PN 8|CA استعمال|NN کر|VB رہے|AA ہیں|TA تو|SC آپ|PP کو|P یہ|PP نیا|ADJ ورژن|NN خریدنے|VB کی|P ضرورت|NN نہیں|NEG ۔|SM
+17|CA اکتوبر|PN کو|P موجودہ|ADJ ونڈوز|PN 8|CA صارفین|NN کو|P یہ|PP اپڈیٹ|NN مفت|ADJ فراہم|ADJ کر|VB دیا|AA جائے|AA گا|TA ۔|SM
+تاہم|SC ونڈوز|PN 7|CA ،|PM ایکس|PN پی|VB یا|CC دیگر|NN پرانے|ADJ ورژن|NN استعمال|NN کرنے|VB والے|WALA صارفین|NN کو|P اسے|PP خریدنا|VB ہوگا|VB ۔|SM

@@ -1,0 +1,52 @@
+﻿انسانیت|UNK کی|P نہج|NN کبھی|AKP بھی|I ایک|CA ڈگر|NN پر|P گامزن|ADJ نہیں|NEG رہی|AA بلکہ|SC تغیر|NN و|CC تبدل|NN کا|P عمل|NN دخل|NN ہر|Q لحظہ|NN نظر|NN آتا|VB ہے|TA ۔|SM
+جبکہ|SC فطرت|NN بھی|I کچھ|Q اسی|PD تقاضے|NN کو|P مد|NN نظر|NN رکھتے|VB ہوئے|AA مہربان|ADJ نظر|NN آتی|VB ہے|TA کہ|SC اگر|SC ایک|CA طرف|NN دن|NN ہے|TA تو|SC دوسری|ADJ طرف|NN رات|NN ،|PM ایک|CA طرف|NN دھوپ|NN ہے|TA تو|SC دوسری|ADJ طرف|NN چھاوں|NN ،|PM ایک|CA طرف|NN آفتاب|NN ہے|TA تو|SC دوسری|ADJ طرف|NN مہتاب|NN ،|PM ایک|CA طرف|NN آہ|NN ہے|TA تو|SC دوسری|ADJ طرف|NN قاہ|NN ۔|SM
+حتی|SC کہ|SC ایک|CA طرف|NN اگر|SC قربتوں|NN پر|P وصل|NN کی|P مہربانی|NN ہے|TA تو|SC دوسرے|ADJ ہی|I لمحے|NN فراق|PN کا|P قہر|NN ۔|SM
+ماحول|NN ،|PM آب|NN و|CC ہوا|VB ،|PM بلندی|NN و|CC پستی|NN ہر|Q حال|NN میں|P نہ|NEG صرف|ADV انسان|NN پر|P اپنے|GR اثرات|NN چھوڑتے|VB ہیں|TA بلکہ|SC اسکے|G چاہتے|AA نہ|NEG چاہتے|AA لحظہ|NN بہ|P لحظہ|NN اپنا|GR تاثر|NN قائم|ADJ رکھے|VB ہوئے|VB ہیں|TA ۔|SM
+تبدیلی|NN کا|P عنصر|NN افراد|NN پر|P کیونکر|AKP اثر|NN انداز|NN ہوتا|VB ہے|TA ۔|SM
+ایک|CA دلچسپ|ADJ اور|CC چونکا|NN دینے|VB والا|WALA انکشاف|NN ہے|TA ۔|SM
+کیونکہ|SC یکسانیت|NN کے|P گرداب|NN سے|SE دوری|NN ایک|CA صحتمند|ADJ انسانی|ADJ فطری|ADJ تقاضا|NN ہے|TA ۔|SM
+جبکہ|SC تبدیلی|NN کے|P محرکات|NN جابجا|ADV موجود|ADJ ہیں|TA ۔|SM
+جسکے|NN باعث|NN اسے|PP پھلنے|VB پھولنے|VB کا|P موقع|NN غیر|ADJ ارادی|ADJ طور|NN پر|P بھی|I ملتا|VB رہتا|VB ہے|TA ۔|SM
+لہذا|SC ،|PM ا|PN گر|VB افراد|NN کی|P تربیت|NN نہ|NEG کی|VB جائے|AA تو|SC کیا|QW ایک|CA بچہ|NN چلنا|VB ،|PM بولنا|VB اور|CC کھانا|NN پینا|VB کیسے|AKP سیکھ|VB سکتا|AA ہے|TA ،|PM حالانکہ|SC تمام|Q محرکات|NN موجود|ADJ ہیں|TA ۔|SM
+بظاہر|ADV زندگی|NN کا|P کاروبار|NN بطور|ADV ردعمل|NN نظر|NN آتا|VB ہے|VB جو|REP بعد|NN میں|P انسانی|ADJ رویوں|NN کی|P صورت|NN اختیار|NN کر|VB لیتا|AA ہے|TA ۔|SM
+جبکہ|SC تربیت|NN ایک|CA ایسا|PP عنصر|NN ہے|VB جو|REP جبلی|ADJ تقاضوں|NN سے|SE بالاتر|ADJ اپنے|GR نقوش|NN چھوڑتا|VB چلا|VB جاتا|AA ہے|TA ۔|SM
+جسکے|NN باعث|NN مثبت|ADJ تبدیلی|NN جنم|NN لیتی|VB ہے|TA ۔|SM
+یہ|PP ایک|CA ایسا|PP ہی|I عمل|NN ہے|TA جیسے|A جنگلات|NN کے|P مقابلے|NN میں|P باغات|NN ا|PN گائے|VB جائیں|AA ،|PM چاہے|VB جنگلات|NN کتنے|Q ہی|I بھلے|NN معلوم|ADJ کیوں|QW نہ|NEG ہو|VB جو|REP حسن|NN انسانی|ADJ ہاتھوں|NN کے|P ترتیب|NN دیئے|VB باغات|NN میں|P ہے|TA وہ|PP جنگلات|NN میں|P کہاں|AKP ۔|SM
+اکتسابی|ADJ عمل|NN ،|PM تربیت|NN کا|P اعجاز|NN ہے|TA کہ|SC ایک|CA ہی|I جیسے|A افراد|NN دنیا|NN کے|P مختلف|ADJ شعبوں|NN کے|P بانی|NN و|CC سربراہ|NN ہیں|TA ۔|SM
+حالانکہ|SC انکی|ADJ طبعی|ADJ حالت|NN ایک|CA جیسی|A ہے|TA ،|PM اگر|SC ایک|CA ڈاکٹر|NN ہے|TA تو|SC دوسرا|OR انجنیئر|PN ،|PM ایک|CA آرٹسٹ|NN ہے|TA تو|SC دوسرا|OR پہلوان|NN ،|PM جبکہ|SC کوئی|Q گلوکار|NN ہے|TA تو|I کوئی|Q موسیقار|NN ،|PM کوئی|Q کمپیوٹر|NN پروگرامر|NN ہے|TA تو|I کوئی|Q کمپیوٹر|NN انجنیئر|PN وغیرہ|NN وغیرہ|NN ۔|SM
+جبکہ|SC یہ|PD تربیت|NN اختیاری|ADJ کا|P شاخسانہ|NN ہے|TA کہ|SC ایک|CA جیسے|A افراد|NN مختلف|ADJ شعبہ|NN زندگی|NN پر|P حکومت|NN کر|VB رہے|AA ہیں|TA ۔|SM
+مگر|SC ایک|CA انکشاف|NN جو|REP کہ|SC اس|PD متن|NN کو|P آگے|NN بڑھاتا|VB ہے|TA کہ|SC افراد|NN کی|P ایک|CA غیر|ADJ ارادی|NN ،|PM غیر|ADJ اختیاری|ADJ تربیت|NN بھی|I ہو|VB رہی|AA ہے|VB جسکے|NN اہداف|NN انسانی|ADJ چور|NN دروازے|NN سے|SE پورے|ADJ ہوتے|VB ہیں|TA ۔|SM
+جی|PN ہاں|INT یہ|PP ایسا|PP چور|NN دروازہ|NN ہے|VB جسکا|PN کہ|SC بعض|Q اوقات|NN متاثر|ADJ ہونے|VB والے|WALA کو|P بھی|I علم|NN نہیں|NEG ہوتا|VB ۔|SM
+وہ|PP ایک|CA سلسلہ|NN ہے|TA تسلسل|NN کے|P ساتھ|NN ترغیب|NN کا|P یعنی|ADV مسلسل|ADJ ترغیب|NN کا|P عمل|NN ایک|CA ایسا|PP جادو|NN اثر|NN نتائج|NN کا|P حامل|ADJ عنصر|NN ہے|TA کہ|SC جو|REP تیر|NN کبھی|AKP خطا|NN نہیں|NEG جاتا|AA ۔|SM
+کیونکہ|SC جو|REP ہپناٹزم|PN کے|P ماہر|NN ہیں|TA وہ|PP اپنی|GR ترغیب|NN کے|P ہتھیار|NN سے|SE وہ|PP جادو|NN اثر|NN نتائج|NN حاصل|ADJ کرتے|VB ہیں|TA کہ|SC عقل|NN دنگ|NN رہ|VB جاتی|AA ہے|TA ۔|SM
+اسی|PD دروازے|NN کے|P سہارے|NN وہ|PP لاکھوں|NN کے|P مجمعے|NN کو|P مبہوت|NN کر|VB دیتے|AA ہیں|TA کہ|SC جسکا|PN جواب|NN نہیں|NEG ۔|SM
+اسی|PP کے|P بل|NN بوتے|VB وہ|PP لوگوں|NN کے|P اندر|NN روابط|NN تلاش|NN کرتے|VB ہیں|TA اور|CC اس|PD زبان|NN کو|P اچھی|ADJ طرح|NN سے|SE سمجھتے|VB ہیں|VB جو|REP اپنے|GR راستے|NN میں|P آنے|VB والی|WALA کسی|KD رکاوٹ|NN کو|P آسانی|NN سے|SE عبور|NN کر|VB لیتی|VB ہے|TA ۔|SM
+لہذا|SC انکی|ADJ معاملات|NN پر|P گرفت|NN اور|CC کامیابی|NN کا|P گراف|NN ہمیشہ|ADV آسمان|NN کی|P بلندیوں|NN پر|P رہتا|VB ہے|TA ۔|SM
+انسانی|ADJ ذہنوں|NN کی|P ارادی|NN قوت|NN کو|P اپنی|GR مرضی|NN کے|P مطابق|NN ردعمل|NN میں|P تبدیل|NN کرنے|VB والی|WALA صلاحیت|NN کے|P بل|NN بوتے|VB بہت|ADV سے|SE لوگوں|NN نے|P دنیا|NN پر|P حکمرانی|NN کی|VB ہے|TA ۔|SM
+جبکہ|SC آج|NN کے|P میڈیا|NN کا|P ہتھیا|VB ر|PN بھی|I یہی|PD قوت|NN ہے|TA ۔|SM
+اگر|SC ایک|CA طرف|NN کسی|KD بھی|I خوبصورت|ADJ انداز|NN میں|P فلمائی|VB گئی|AA اشتہاری|ADJ فلم|NN ،|PM ایڈورٹائزمنٹ|PN اپنا|GR کام|NN اس|PD وقت|NN کرتی|VB ہے|TA کہ|SC جب|AP آپ|PP خریداری|NN کرتے|VB وقت|NN کسی|KD بھی|I چیز|NN کو|P غیر|ADJ ارادی|ADJ طور|NN پر|P چن|VB لیتے|AA ہیں|TA تو|SC دوسری|ADJ طرف|NN خوبصورت|ADJ انداز|NN میں|P فلمائے|VB گئے|AA ڈرامے|NN ہیں|TA جوکہ|SC کسی|KD بھی|I تہذیب|NN کے|P زہر|NN آلودہ|ADJ رسم|NN و|CC رواج|NN کو|P اسباق|NN کی|P شکل|NN دے|VB کر|VB اقساط|NN میں|P فلم|NN بند|ADJ کئے|Q جاتے|AA ہیں|TA اور|CC اپنی|GR رنگینی|NN کے|P باعث|NN دلربا|NN ہوتے|VB ہوئے|AA روزمرہ|ADV کا|P حصہ|NN بن|VB جاتے|AA ہیں|TA ۔|SM
+جبکہ|SC تیسری|OR طرف|NN ایک|CA مثالی|ADJ صورت|NN کو|P کسی|KD نفرت|NN کے|P دوش|NN چلانے|VB کی|P کاوش|NN نظر|NN آتی|VB ہے|TA کہ|SC ایک|CA ایسا|PP تاثر|NN ابھرے|VB جو|REP دوسروں|PP کو|P اس|PD طرف|NN راغب|ADJ ہونے|VB سے|SE روکے|VB ۔|SM
+بہرکیف|PN ،|PM ایک|CA انتہائی|ADJ میسر|ADJ آلہ|NN جسکے|NN اگر|SC فوائد|NN گنوائے|VB جائیں|AA تو|SC ممکن|ADJ نہیں|NEG ایک|CA نشست|NN میں|P بات|NN مکمل|ADJ ہو|VB ۔|SM
+البتہ|SC چیدہ|ADJ چیدہ|ADJ اہمیت|NN کی|P حامل|ADJ خصوصیات|NN کا|P تذکرہ|NN ضروری|ADJ ہے|TA ۔|SM
+معاملات|NN ،|PM ماحول|NN ،|PM اشتہارات|NN ،|PM دلچسپی|NN کی|P حامل|ADJ گفتگو|NN اور|CC دوستوں|NN کے|P حلقے|NN وغیرہ|NN ایسے|ADJ عناصر|NN ہیں|TA کہ|SC جنکے|ADJ اثرات|NN افراد|NN بغیر|NN کسی|KD مزاحمت|NN کے|P براہ|NN راست|NN قبول|ADJ کرتے|VB ہیں|TA اور|CC انہی|PD کی|P بدولت|NN جو|REP ردعمل|NN ظاہر|ADJ ہوتا|VB ہے|TA وہ|PP غیر|ADJ ارادی|NN کیفیت|NN کا|P حامل|ADJ ہوتا|VB ہے|TA ۔|SM
+ترغیب|NN کے|P معاملات|NN ہمیں|PP زندگی|NN میں|P جا|VB بجا|VB نظر|NN آتے|VB ہیں|TA مگر|SC شخصی|ADJ تربیت|NN کا|P تقاضا|NN ہے|TA کہ|SC آگاہی|NN کے|P عمل|NN سے|SE گزرا|VB جائے|AA تاکہ|SC چور|NN دروازے|NN سے|SE ڈاکہ|NN ڈالنے|VB والے|WALA سے|SE نبٹا|VB جا|AA سکے|AA ۔|SM
+جبکہ|SC تنویمی|NN عمل|NN کی|P ایک|CA جداگانہ|ADJ حیثیت|NN ہے|TA کہ|SC انسانی|ADJ حواس|NN کو|P تقریبا|ADV معطل|ADJ کرکے|NN کسی|KD کے|P لاشعوری|ADJ عمل|NN یا|CC غیر|ADJ ارادی|NN فعل|NN کو|P قابو|NN کرنا|VB ،|PM ایسے|ADJ معاملات|NN بھی|I سلسلہ|NN زندگی|NN میں|P بغور|ADV مشاہدہ|NN کرنے|VB سے|SE دیکھے|VB جا|AA سکتے|AA ہیں|TA ۔|SM
+اگر|SC کسی|KD کو|P مسلسل|ADJ برا|ADJ بھلا|ADJ کہا|VB جائے|AA تو|SC یہ|PP بھی|I اسی|PD طرح|NN ہے|TA نتائج|NN پیدا|NN کرے|VB گا|TA اور|CC اگر|SC اچھی|ADJ ترا|NN غیب|NN سے|SE کسی|KD کی|P زندگی|NN سنوارنی|VB ہو|VB تو|SC یہ|PP بھی|I ممکن|ADJ ہے|TA ۔|SM
+جو|REP والدین|NN بچوں|NN کا|P برا|ADJ بھلا|ADJ کہتے|VB ہیں|TA اسکے|G اثرات|NN کا|P انکو|PN بخوبی|ADV اندازہ|NN ہو|VB گا|TA ۔|SM
+اگر|SC کسی|KD کو|P اچھائی|NN کی|P طرف|NN مائل|ADJ کرنا|VB ہوتو|PN یہی|PD آلہ|NN انتہائی|ADJ میسر|ADJ ہوگا|VB ۔|SM
+ایک|CA تحقیق|NN کے|P مطابق|NN انسانی|ADJ جسم|NN کی|P بیماریاں|NN بھی|I ترغیب|NN کے|P اثرات|NN بخوبی|ADV قبول|ADJ کرتی|VB ہیں|TA اوررفتہ|SC رفتہ|ADJ کوچ|NN کر|VB جاتی|AA ہیں|TA ۔|SM
+ماضی|NN میں|P خود|RP تنویمی|NN کے|P عمل|NN سے|SE بے|PN حساب|NN لاعلاج|NN امراض|NN چھٹکارا|NN حاصل|ADJ کیا|VB گیا|AA ،|PM حتی|SC کہ|SC کینسر|NN جیسا|A موذی|ADJ مرض|NN بھی|I ترغیب|NN کی|P زبان|NN سمجھتاہے|VB ۔|SM
+جسکی|ADJ بہت|ADV سی|A مثالیں|NN ماضی|NN کا|P حصہ|NN بن|VB چکی|AA ہیں|TA (|PN ایم|PN کوئے|PN کے|P تجربات|NN )|EXP ۔|SM
+اسی|PD طرح|NN ایک|CA اچھی|ADJ تحریر|NN ایک|CA اچھی|ADJ ترغیب|NN ہے|TA تو|SC ایک|CA بری|ADJ تحریر|NN ایک|CA جسکا|PN اندازہ|NN کسی|KD بھی|I موضوع|NN پر|P ایک|CA مکمل|ADJ کتاب|NN پڑہنے|VB کے|P بعد|NN بخوبی|ADV لگایا|VB جا|AA سکتا|AA ہے|TA کہ|SC شخصیت|NN پر|P اس|PP نے|P کیا|QW اثرات|NN چھوڑے|VB ہیں|TA ۔|SM
+کالج|NN دور|NN میں|P ایک|CA ہم|PP جماعت|NN نے|P ہپناٹزم|PN کا|P تذکرہ|NN کیا|VB اور|CC بتایا|VB کہ|SC بازار|NN سے|SE ایک|CA کتاب|NN خریدی|NN ہے|TA اوراس|CC میں|P لکھی|VB مشق|NN کر|VB رہا|AA ہوں|TA ۔|SM
+ایک|CA سفید|ADJ کاغذ|NN پرایک|ADJ سیاہ|ADJ نقطہ|NN لگا|VB کر|VB مسلسل|ADJ دیکھتا|VB ہوں|TA اور|CC اب|AP حال|NN یہ|PP ہے|TA دیکھتے|VB دیکھتے|VB وہ|PP نقطہ|NN دھندلا|VB جاتا|AA ہے|TA مگر|SC مجھے|PP معلوم|ADJ نہیں|NEG اسکے|G بعد|NN کیا|VB کرنا|VB ہے|TA ،|PM تو|I مجھے|PP اسکی|G حالت|NN پر|P ہنسی|NN آئی|VB کہ|SC نیم|ADJ حکیم|NN اور|CC خطرہ|NN جان|PN ،|PM کس|KD کام|NN کے|P پیچھے|NN پڑ|AA گئے|AA ہو|VB ۔|SM
+بازاری|NN قسم|NN کی|P کتابیں|NN پڑھنے|VB کے|P بعد|NN کیا|QW عقل|NN کے|P پردے|NN کھل|VB جائیں|AA گے|TA یا|CC پھرکسی|ADV قسم|NN کا|P کوئی|Q نقصان|NN کر|VB بیٹھیں|VB گے|TA ۔|SM
+اسطرح|NN کی|P کسی|KD بھی|I مشق|NN کا|P مقصد|NN صرف|ADV ایک|CA کیفیت|NN پیدا|NN کرنے|VB سے|SE بڑھ|VB کر|KER نہیں|NEG ،|PM کیونکہ|SC ایک|CA نیم|ADJ خوابی|NN کی|P کیفیت|NN یہ|PP دراصل|ADV ایک|CA ایسا|PP شعوری|NN مزاحمت|NN سے|SE پاک|ADJ ماحول|NN ہے|VB کی|P ترغیب|NN فورا|NN اپنا|GR کام|NN کرتی|VB ہے|TA ۔|SM
+لہذا|SC کسی|KD بھی|I قسم|NN کی|P تکرار|NN یا|CC بار|NN بار|NN ترغیب|NN غنودگی|NN جیسی|A کیفیت|NN پیدا|NN کرتی|VB ہے|TA کہ|SC انسانی|ADJ ذہن|NN کسی|KD بھی|I کمپیوٹر|NN کیطرح|NN پروگرام|NN ہونے|VB کیلئے|AA تیارہو|VB جاتا|AA ہے|TA ۔|SM
+کیونکہ|SC اس|PD طرح|NN سے|SE شعوری|NN گرفت|NN کم|ADJ ہو|VB جاتی|AA ہے|TA ۔|SM
+مگر|SC ایسی|AD مشقیں|NN جن|REP کے|P اثرات|NN اتنی|Q اہمیت|NN کے|P حامل|ADJ ہوں|TA کسی|KD بھی|I طرح|NN سے|SE دورخی|ADJ تلوار|NN سے|SE کم|ADJ نہیں|NEG ۔|SM
+لہذا|SC نوجوانوں|NN کو|P جو|REP اسے|PP شوقیہ|NN سیکھنے|VB کی|P کوشش|NN کرتے|VB ہیں|TA ان|PD عوامل|NN میں|P بہت|ADV احتیاط|NN کی|P ضرورت|NN ہے|TA ۔|SM
+آج|NN اگر|SC معاملات|NN زندگی|NN پر|P سواری|NN کرنا|VB مقصود|NN ہو|VB تو|SC دیدہ|ADJ دل|NN وا|NN کیجئے|AA اور|CC چند|Q ایک|CA مثبت|ADJ ترغیبات|NN کو|P روزمرہ|ADV میں|P شامل|ADJ کر|VB لیجئے|AA پھر|ADV دیکھیں|VB کہ|SC کیا|QW گل|NN کھلاتی|VB ہیں|TA ۔|SM
+جبکہ|SC انکا|PN اعادہ|NN دن|NN میں|P ایک|CA بار|NN بھی|I کافی|ADJ ہے|TA ۔|SM
+یاد|NN رکھیں|VB عبادت|NN کی|P تراغیب|NN اللہ|PN کے|P ذکر|NN کے|P حلقے|NN ہیں|TA اور|CC مساجد|NN کے|P ماحول|NN ہیں|TA ۔|SM
+اسی|PD طرح|NN صحت|NN کی|P تراغیب|NN ہسپتالوں|NN کے|P ماحول|NN نہیں|NEG بلکہ|SC کھیل|NN کے|P میدان|NN اور|CC آبشاریں|NN اور|CC باغات|NN ہیں|TA ۔|SM

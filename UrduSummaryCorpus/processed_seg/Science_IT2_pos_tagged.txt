@@ -1,0 +1,46 @@
+﻿ماحولیاتی|UNK آلودگی|NN اور|CC پوری|ADJ دنیا|NN کے|P بڑھتے|VB ہوئے|AA درجۂ|ADJ حرارت|NN (|PN یعنی|ADV ’’|UNK گلوبل|PN وارمنگ|PN ‘‘|UNK یا|CC ’’|UNK عالمی|ADJ تپش|NN ‘‘|UNK )|PN کا|P تذکرہ|NN آج|NN کل|Q بہت|ADV عام|ADJ ہوچکا|VB ہے|TA ۔|SM
+اور|CC اس|PD حوالے|NN سے|SE اکثر|ADV آپ|PP نے|P ’’|UNK گرین|PN ہاؤس|PN ایفیکٹ|NN ‘‘|UNK کا|P نام|NN سنا|VB اور|CC پڑھا|VB ہو|VB گا|TA ۔|SM
+شاید|ADV آپ|PP کو|P یہ|PP بھی|I معلوم|ADJ ہو|VB کہ|SC گرین|PN ہاؤس|PN ایفیکٹ|NN سے|SE مراد|NN ،|PM زمین|NN کا|P بتدریج|ADV بڑھتا|VB ہوا|VB درجۂ|ADJ حرارت|NN ہے|TA ۔|SM
+لیکن|SC آپ|PP نے|P کبھی|AKP اس|PD بات|NN پر|P غور|NN کیا|VB ہے|TA کہ|SC آخر|NN زمین|NN کا|P درجہ|NN حرارت|NN بڑھنے|VB کے|P اس|PD عمل|NN کو|P ’’|UNK گرین|PN ہاؤس|PN ایفیکٹ|NN ‘‘|UNK کہتے|VB ہی|I کیوں|QW ہیں|TA ۔|SM
+اگر|SC نہیں|NEG ،|PM تو|I آج|NN کا|P سائنسی|ADJ لفظ|NN اور|CC اس|PP کی|P وضاحت|NN آپ|PP ہی|I کیلئے|VB ہیں|TA ۔|SM
+سائنس|NN کی|P زبان|NN میں|P بات|NN کریں|VB تو|SC گرین|PN ہاؤس|PN ایفیکٹ|NN سے|SE مراد|NN کچھ|Q یوں|AP لی|VB جاتی|AA ہے|TA ۔|SM
+زمینی|ADJ سطح|NN اور|CC نچلے|ADJ کرۂ|VB ہوائی|ADJ کے|P گرمانے|VB (|PN یعنی|ADV ان|PP کا|P درجہ|NN حرارت|NN بڑھ|VB جانے|VB )|PN کا|P عمل|NN ،|PM جو|REP فضا|NN میں|P کاربن|NN ڈائی|PN آکسائیڈ|PN گیس|NN کے|P اضافے|NN اور|CC آبی|ADJ بخارات|NN کی|P موجودگی|NN کے|P نتیجے|NN میں|P ہوتا|VB ہے|TA ۔|SM
+آبی|ADJ بخارات|NN اور|CC کاربن|NN ڈائی|PN آکسائیڈ|PN میں|P قدرتی|ADJ طور|NN پر|P صلاحیت|NN ہوتی|VB ہے|TA کہ|SC یہ|PP سورج|PN سے|SE آنے|VB والی|WALA زیریں|ADJ سرخ|ADJ (|PN انفرا|PN ریڈ|PN )|EXP شعاعوں|NN کو|P جذب|NN کر|VB لیتے|AA ہیں|TA اور|CC انہیں|PP زمین|NN کی|P طرف|NN دوبارہ|ADV سے|SE خارج|ADJ کر|VB دیتے|AA ہیں|TA ۔|SM
+اسی|PD وجہ|NN سے|SE زمینی|ADJ سطح|NN اور|CC فضا|NN ،|PM دونوں|OR کی|P گرمی|NN میں|P اضافہ|NN ہو|VB جاتا|AA ہے|TA ۔|SM
+یاد|NN رہے|VB کہ|SC یہ|PP زیریں|ADJ سرخ|ADJ شعاعیں|NN ہی|I ہیں|VB جو|REP گرمی|NN کا|P باعث|NN بنتی|VB ہیں|TA ۔|SM
+اسی|PD لئے|NN انہیں|PP ’’|UNK گرمی|NN والی|WALA شعاعیں|NN ‘‘|UNK بھی|I کہا|VB جا|AA سکتا|AA ہے|TA ۔|SM
+کاربن|NN ڈائی|PN آکسائیڈ|PN گیس|NN اور|CC آبی|ADJ بخارات|NN کے|P علاوہ|NN ،|PM دوسری|ADJ گیسیں|NN بھی|I فضا|NN میں|P شامل|ADJ ہو|VB کر|VB گرمی|NN میں|P اضافے|NN کا|P سبب|NN بن|VB سکتی|AA ہیں|TA ۔|SM
+جن|REP میں|P میتھین|NN اور|CC کلورو|PN فلورو|PN کاربن|NN گیسیں|NN زیادہ|ADV مشہور|ADJ ہیں|TA ۔|SM
+(|PN سی|A ایف|NN سی|A کا|P استعمال|NN پہلے|NN ریفریجریٹروں|NN اور|CC ڈیپ|PN فریزروں|NN وغیرہ|NN میں|P ٹھنڈک|NN کیلئے|VB کیا|VB جاتا|AA تھا|TA ۔|SM
+لیکن|SC جب|AP سے|SE ان|PP کے|P ماحول|NN دشمن|NN اثرات|NN کے|P بارے|NN میں|P پتا|NN چلا|VB ہے|TA ،|PM تب|AP سے|SE دنیا|NN بھر|VB میں|P ان|PP کے|P استعمال|NN پر|P پابندی|NN لگائی|VB جا|VB چکی|AA ہے|TA ۔|SM
+تمام|Q گیسیں|NN جو|REP زمینی|ADJ درجہ|NN حرارت|NN میں|P اضافے|NN کا|P باعث|NN بنیں|VB ،|PM انہیں|PP اسی|PD مناسبت|NN سے|SE ’’|UNK گرین|PN ہاؤس|PN گیسیں|NN ‘‘|UNK بھی|I کہا|VB جاتا|AA ہے|TA ۔|SM
+سچ|NN تو|SC یہ|PP ہے|TA کہ|SC ہم|PP فضا|NN میں|P دوسری|ADJ گیسوں|NN کے|P اخراج|NN پر|P تو|I پابندی|NN لگا|VB سکتے|AA ہیں|TA ،|PM لیکن|SC کاربن|NN ڈائی|PN آکسائیڈ|PN وہ|PP گیس|NN ہے|VB جس|REP کے|P اخراج|NN پر|P مکمل|ADJ پابندی|NN عائد|ADJ نہیں|NEG کی|VB جا|AA سکتی|AA ۔|SM
+ارے|INT بھئی|ADJ جب|AP ہم|PP سانس|NN باہر|NN نکالتے|VB ہیں|TA تو|SC اس|PP کے|P ساتھ|NN ہم|PP خود|RP بھی|I ہوا|VB میں|P کاربن|NN ڈائی|PN آکسائیڈ|PN خارج|ADJ کر|VB رہے|AA ہوتے|VB ہیں|TA ۔|SM
+دن|NN کے|P وقت|NN پودے|NN اور|CC درخت|NN ،|PM ہوا|VB کی|P کاربن|NN ڈائی|PN آکسائیڈ|PN جذب|NN کر|VB کے|P آکسیجن|NN خارج|ADJ کرتے|VB ہیں|TA ۔|SM
+جبکہ|SC رات|NN میں|P وہ|PP آکسیجن|NN جذب|NN کر|VB کے|P کاربن|NN ڈائی|PN آکسائیڈ|PN خارج|ADJ کرتے|VB ہیں|TA ۔|SM
+البتہ|SC یہ|PP اخراج|NN ،|PM دن|NN میں|P جذب|NN کی|VB گئی|AA کاربن|NN ڈائی|PN آکسائیڈ|PN کے|P مقابلے|NN میں|P بہت|ADV کم|ADJ ہوتا|VB ہے|TA ۔|SM
+اسی|PD طرح|NN جب|AP پیٹرول|NN ،|PM ڈیزل|NN ،|PM مٹی|NN کا|P تیل|NN ،|PM کوئلہ|NN ،|PM لکڑی|NN اور|CC قدرتی|ADJ گیس|NN وغیرہ|NN (|EXP جنہیں|REP مجموعی|ADJ طور|NN پر|P ’’|UNK فوسل|NN فیول|NN ‘‘|UNK یعنی|ADV ’’|UNK رکازی|NN ایندھن|NN ‘‘|UNK کہا|VB جاتا|AA ہے|TA )|EXP جلائے|VB جاتے|AA ہیں|TA ،|PM تو|SC ان|PP کے|P استعمال|NN سے|SE بھی|I کاربن|NN ڈائی|PN آکسائیڈ|PN کی|P بہت|ADV سی|A مقدار|NN فضا|NN میں|P شامل|ADJ ہو|VB جاتی|AA ہے|TA ۔|SM
+اب|AP چونکہ|SC رکازی|NN ایندھن|NN کا|P استعمال|NN دنیا|NN بھر|VB میں|P بہت|ADV زیادہ|ADV ہو|VB رہا|AA ہے|TA ۔|SM
+اور|CC ایک|CA طرح|NN سے|SE یہ|PP ہماری|G بنیادی|ADJ ضروریات|NN میں|P بھی|I شامل|ADJ ہے|TA ۔|SM
+لہذا|SC اسے|PP کم|ADJ از|P کم|ADJ فوری|ADJ طور|NN پر|P بالکل|ADV ختم|ADJ نہیں|NEG کیا|VB جا|AA سکتا|AA ۔|SM
+البتہ|SC اسے|PP کم سےکم|UNK کرنے|VB کی|P کوششیں|NN ضرور|ADV کی|VB جا|AA رہی|AA ہیں|TA ۔|SM
+امید|NN ہے|TA کہ|SC اب|AP تک|P آپ|PP بخوبی|ADV یہ|PP سمجھ|VB گئے|AA ہوں|VB گے|TA کہ|SC گرین|PN ہاؤس|PN ایفیکٹ|NN کیا|VB ہے|TA ۔|SM
+لیکن|SC اسے|PP ’’|UNK گرین|PN ہاؤس|PN ایفیکٹ|NN ‘‘|UNK کیوں|QW کہتے|VB ہیں|TA ۔|SM
+یہ|PP جاننے|VB کیلئے|AA ہمیں|PP یورپ|PN کا|P رخ|NN کرنا|VB ہوگا|VB جہاں|AP کے|P اکثر|ADV ملکوں|NN میں|P سال|NN کے|P بیشتر|ADJ حصے|NN کے|P دوران|NN ٹھنڈک|NN رہتی|VB ہے|TA ۔|SM
+اس|PD ٹھنڈک|NN والے|WALA ماحول|NN میں|P گرم|ADJ علاقوں|NN کے|P پودے|NN نہیں|NEG اگائے|VB جا|AA سکتے|AA جنہیں|REP اپنی|GR مناسب|ADJ نشوونما|NN کیلئے|AA زیادہ|ADV حرارت|NN درکار|ADJ ہوتی|VB ہے|TA ۔|SM
+لہذا|SC ،|PM مصنوعی|ADJ طور|NN پر|P گرم|ADJ علاقوں|NN جیسا|A ماحول|NN پیدا|NN کرنے|VB کی|P غرض|NN سے|SE وہاں|AP خاص|ADJ طرح|NN کی|P جگہیں|NN بنائی|VB جاتی|AA ہیں|VB جنہیں|REP سب|Q طرف|NN سے|SE شفاف|ADJ پلاسٹک|NN والی|WALA چادروں|NN یا|CC شیشے|NN کی|P مدد|NN سے|SE ،|PM کچھ|Q یوں|AP بند|ADJ کر|VB دیا|AA جاتا|AA ہے|TA کہ|SC ان|PP کے|P اندر|NN سورج|PN کی|P روشنی|NN پہنچتی|VB رہے|AA ۔|SM
+ان|PD جگہوں|NN پر|P ہوا|VB کے|P داخلے|NN کا|P انتظام|NN بھی|I خاص|ADJ طرح|NN کا|P ہوتا|VB ہے|TA ۔|SM
+جس|REP کی|P بدولت|NN اردگرد|NN کی|P ہوا|VB ان|PP کے|P اندر|NN صرف|ADV اتنی|Q ہی|I مقدار|NN میں|P پہنچ|VB پاتی|VB ہے|VB جتنی|Q کہ|SC ضرورت|NN ہو|VB ۔|SM
+اس|PD سارے|ADJ اہتمام|NN کی|P وجہ|NN سے|SE ان|PD جگہوں|NN کے|P اندر|NN پہنچنے|VB والی|WALA سورج|PN کی|P روشنی|NN ،|PM اپنے|GR ساتھ|NN گرمی|NN بھی|I لاتی|VB ہے|TA ۔|SM
+لیکن|SC وہ|PP گرمی|NN واپس|ADJ باہر|NN کے|P ماحول|NN میں|P جانے|VB نہیں|NEG پاتی|VB ۔|SM
+بلکہ|SC ایک|CA طرح|NN سے|SE ان|PD جگہوں|NN کے|P اندر|NN ’’|UNK بند|ADJ ‘‘|UNK ہو|VB کر|KER انہیں|PP آس پاس|UNK کے|P علاقے|NN کی|P نسبت|NN خاصا|ADJ گرم|ADJ کر|VB دیتی|AA ہے|TA ۔|SM
+ان|PD جگہوں|NN کا|P اندرونی|ADJ ماحول|NN جو|REP نسبتا|ADV گرم|ADJ ہوتا|VB ہے|TA اور|CC گرم|ADJ علاقوں|NN میں|P پیدا|NN ہونے|VB والے|WALA پودے|NN اگانے|VB کیلئے|AA مناسب|ADJ رہتا|VB ہے|TA ۔|SM
+چونکہ|SC یہ|PP جگہیں|NN خاص|ADJ طور|NN پر|P پودے|NN (|PN نباتات|NN )|EXP اگانے|VB ہی|I کیلئے|AA تیار|ADJ کی|VB جاتی|AA ہیں|TA ۔|SM
+اور|CC پودوں|NN کے|P پتے|NN سبز|ADJ (|PN گرین|PN )|EXP ہوتے|VB ہیں|TA ،|PM اسی|PD لئے|NN ایسی|AD کسی|KD جگہ|NN کو|P انگریزی|PN میں|P گرین|PN ہاؤس|PN کہا|VB جاتا|AA ہے|TA ۔|SM
+آج|NN کل|Q بعض|Q گرین|PN ہاؤسز|PN ایسے|PP بھی|I بنائے|VB جا|AA رہے|AA ہیں|TA جہاں|AP پودوں|NN کی|P نشوونما|NN کو|P بہتر|ADJ بنانے|VB اور|CC وہاں|AP کے|P اندرونی|ADJ درجہ|NN حرارت|NN کو|P خاصی|Q حد|NN تک|P اردگرد|NN سے|SE زیادہ|ADV رکھنے|VB کیلئے|AA خصوصی|ADJ انتظامات|NN کے|P ذریعے|NN کاربن|NN ڈائی|PN آکسائیڈ|PN کی|P اضافی|ADJ مقدار|NN بھی|I داخل|NN کی|VB جاتی|VB رہتی|VB ہے|TA ۔|SM
+ایسا|PP بطور|ADV خاص|ADJ ان|PD علاقوں|NN میں|P موجود|ADJ گرین|PN ہاؤسز|PN میں|P کیا|VB جاتا|AA ہے|VB جو|REP بہت|ADV سرد|ADJ ہوں|TA ۔|SM
+جب|AP ’’|UNK گرین|PN ہاؤس|PN ‘‘|UNK کی|P یہ|PD اصطلاح|NN ہمارے|G بزرگوں|NN کے|P سامنے|NN پہنچی|VB تو|SC انہوں|PP نے|P اس|PP کے|P مفہوم|NN پر|P توجہ|NN دی|VB اور|CC اردو|PN میں|P اس|PP کا|P ترجمہ|NN ’’|UNK نبات|NN خانہ|NN ‘‘|UNK کیا|VB ۔|SM
+جو|REP اصولا|PN بالکل|ADV درست|ADJ ہے|TA ۔|SM
+اسی|PD مناسبت|NN سے|SE ’’|UNK گرین|PN ہاؤس|PN ایفیکٹ|NN ‘‘|UNK کو|P اردو|PN میں|P ’’|UNK نبات|NN خانے|NN کا|P اثر|NN ‘‘|UNK یا|CC ’’|UNK نبات|NN خانہ|NN اثر|NN ‘‘|UNK کہنا|VB زیادہ|ADV موزوں|ADJ رہے|VB گا|TA ۔|SM
+یہ|PP بھی|I بتاتے|VB چلیں|VB کہ|SC اردو|PN زبان|NN میں|P گرین|PN ہاؤس|PN اور|CC گرین|PN ہاؤس|PN ایفیکٹ|NN کی|P متبادل|NN معیاری|ADJ اصطلاحات|NN یہی|PD (|PN نبات|NN خانہ|NN اور|CC نبات|NN خانہ|NN اثر|NN )|EXP ہیں|TA ۔|SM
+البتہ|SC استاد|NN گرامی|NN سید|NN قاسم|NN محمود|NN ،|PM رواں|ADJ اردو|PN کی|P غرض|NN سے|SE گرین|PN ہاؤس|PN کو|P ’’|UNK سبز|ADJ مکان|NN ‘‘|UNK اور|CC گرین|PN ہاؤس|PN ایفیکٹ|NN کو|P ’’|UNK سبز|ADJ مکانی|NN اثر|NN ‘‘|UNK لکھا|VB کرتے|VB تھے|TA ۔|SM

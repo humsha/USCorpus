@@ -1,0 +1,16 @@
+﻿واکایاما|UNK یونیورسٹی|NN میں|P محققین|NN ایک|CA ایسا|PP نظام|NN تیار|ADJ کر|VB رہے|AA ہیں|VB جو|REP طبع|NN شدہ|ADJ مواد|NN کے|P رنگ|NN ،|PM رنگ|NN آمیزی|NN ،|PM اور|CC رنگوں|NN کے|P تفاوت|NN میں|P کمی|NN بیشی|NN کرتا|VB ہے|TA ۔|SM
+اور|CC بصری|ADJ معذوریوں|NN کا|P شکار|NN صارفین|NN کی|P مدد|NN کے|P لیے|ADV استعمال|NN ہو|VB سکتا|AA ہے|TA ۔|SM
+مثلا|ADV ایسے|ADJ لوگ|NN جو|REP کم|ADJ نظری|NN کے|P حامل|ADJ ہوں|VB یا|CC رنگ|NN کوری|NN کا|P شکار|NN ہوں|TA ۔|SM
+ایک|CA ترجمان|NN نے|P کہا|VB ،|PM ‘‘|UNK اس|PD تحقیق|NN میں|P ہم|PP ایک|CA پروجیکٹر|NN اور|CC ایک|CA کیمرہ|NN استعمال|NN کر|VB کے|P طبع|NN شدہ|ADJ مواد|NN پر|P روشنی|NN ڈالتے|VB ہیں|TA اور|CC اس|PD طرح|NN اس|PP کی|P رنگ|NN آمیزی|NN اور|CC رنگوں|NN کے|P تفاوت|NN کو|P آزادانہ|ADJ طور|NN پر|P تبدیل|NN کر|VB سکتے|AA ہیں|TA ’’|UNK ۔|SM
+‘‘|UNK امیج|NN پروسیسنگ|PN میں|P تبدیلی|NN کر|VB کے|P ہم|PP رنگ|NN آمیزی|NN کو|P بھی|I تبدیل|NN کر|VB سکتے|AA ہیں|TA ۔|SM
+ہم|PP تصویر|NN کو|P یک|CA رنگی|NN بھی|I بنا|VB سکتے|AA ہیں|TA ۔|SM
+اس|PP کی|P چمک|NN کو|P یکساں|ADJ کر|VB سکتے|AA ہیں|TA یا|CC رنگوں|NN کے|P تفاوت|NN میں|P اضافہ|NN کر|VB سکتے|AA ہیں|TA ۔|SM
+ترجمان|NN نے|P کہا|VB ‘‘|UNK اگر|SC طبع|NN شدہ|ADJ مواد|NN کو|P حرکت|NN بھی|I دی|VB جائے|AA ،|PM تو|SC یہ|PD نظام|NN اس|PP کا|P سراغ|NN لگا|VB سکتا|AA ہے|TA اور|CC رنگوں|NN کو|P نمایاں|ADJ کر|VB سکتا|AA ہے|TA "|PM ۔|SM
+اس|PP کا|P ایک|CA ممکنہ|ADJ اطلاق|NN ایسے|ADJ نظام|NN میں|P ہو|VB سکتا|AA ہے|VB جو|REP انسانی|ADJ بینائی|NN میں|P اضافہ|NN کرنے|VB کے|P قابل|ADJ ہو|VB ۔|SM
+مثال|NN کے|P طور|NN پر|P ،|PM اگر|SC ایک|CA شخص|NN رنگ|NN کوری|NN کا|P شکار|NN ہے|TA ،|PM تو|SC یہ|PD نظام|NN رنگ|NN آمیزی|NN میں|P مطابقت|NN پذیری|NN پیدا|NN کر|VB سکتا|AA ہے|TA تاکہ|SC رنگوں|NN کو|P پہچاننا|VB آسان|ADJ ہو|VB ۔|SM
+باوجودیکہ|ADV رنگوں|NN کے|P مجموعے|NN گڈ|PN مڈ|PN کر|VB دینے|VB والے|WALA ہی|I کیوں|QW نہ|NEG ہوں|TA ۔|SM
+رنگ|NN کوری|NN یا|CC رنگوں|NN میں|P تمیز|NN نہ|NEG کر|VB سکنا|VB مردوں|NN کی|P ایک|CA عام|ADJ پیدائشی|ADJ بیماری|NN ہے|TA ۔|SM
+اس|PP کے|P مریض|NN مختلف|ADJ رنگوں|NN میں|P تمیز|NN نہیں|NEG کر|VB سکتے|AA ۔|SM
+شدید|ADJ قسم|NN کی|P بیماری|NN میں|P رنگوں|NN کی|P زیادہ|ADV تعداد|NN میں|P تمیز|NN نہیں|NEG کی|VB جا|AA سکتی|AA ۔|SM
+حتی|SC کہ|SC ٹریفک|NN اشارے|NN بھی|I انہیں|PP ایک|CA ہی|I رنگ|NN کے|P لگتے|AA ہیں|TA یا|CC اشیاء|NN کے|P خاکوں|NN کو|P نمایاں|ADJ کر|VB کے|P سفید|ADJ موتیے|NN کے|P شکار|NN کسی|KD شخص|NN کی|P مدد|NN کی|VB جا|AA سکتی|AA ہے|TA ۔|SM
+تاکہ|SC وہ|PP دوسرے|ADJ افراد|NN کے|P تاثرات|NN دیکھ|VB سکے|AA ۔|SM

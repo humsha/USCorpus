@@ -1,0 +1,8 @@
+﻿کولون|UNK ،|PM جرمنی|PN ۔|SM
+سونی|PN کے|P ایس|PN سی|A ای|PN کمپیوٹر|NN انٹرٹینمٹ|NN ڈویژن|PN کے|P سربراہ|NN نے|P منگل|PN کو|P کہا|VB ،|PM سونی|PN کے|P پاس|NN اپنے|GR نئے|ADJ پلے|NN اسٹیشن|NN 4|CA کے|P لیے|ADV پوری|ADJ دنیا|NN سے|SE 1|CA ملین|CA سے|SE زیادہ|ADV پیشگی|ADJ آرڈر|PN موجود|ADJ ہیں|TA ۔|SM
+ایس|PN سی|A ای|PN کے|P چیف|ADJ ایگزیکٹو|PN اینڈریو|PN ہاؤس|PN نے|P مزید|ADJ کہا|VB کہ|SC کنسول|PN شمالی|ADJ امریکہ|PN میں|P 15|CA نومبر|PN سے|SE دستیاب|ADJ ہو|VB گا|TA اور|CC یورپ|PN میں|P 29|CA نومبر|PN کو|P اسٹورز|PN پر|P پہنچے|VB گا|TA ۔|SM
+انہوں|PP نے|P اضافہ|NN کیا|VB کہ|SC چھٹیوں|NN کے|P سیزن|NN میں|P کنسول|PN پوری|ADJ دنیا|NN کے|P 32|CA ممالک|NN میں|P دستیاب|ADJ ہو|VB گا|TA ۔|SM
+مائیکروسافٹ|NN کارپوریشن|PN نے|P کہا|VB ہے|TA کہ|SC وہ|PP اپنے|GR تازہ|ADJ ترین|ADJ کنسول|PN کو|P نومبر|PN میں|P کسی|KD وقت|NN فروخت|NN کے|P لیے|ADV پیش|NN کرے|VB گا|TA ۔|SM
+جس|REP سے|SE سال|NN کے|P آخر|NN کے|P چھٹیوں|NN اور|CC تحائف|NN دینے|VB کے|P سیزن|NN میں|P مسابقت|NN شدید|ADJ ہو|VB رہی|AA ہے|TA ۔|SM
+سونی|PN نے|P سات|CA برسوں|NN میں|P اپنے|GR پہلے|NN نئے|ADJ کنسول|PN پلے|NN اسٹیشن|NN 4|CA کی|P قیمت|NN مائیکروسافٹ|NN کے|P نئے|ADJ ایکس|PN باکس|NN ون|PN کے|P 399|CA ڈالر|NN کے|P مقابلے|NN میں|P 100|CA ڈالر|NN کم|ADJ رکھی|VB ہے|TA ۔|SM
+سونی|PN نے|P کہا|VB وہ|PP اپنے|GR پلے|NN اسٹیشن|NN 3|CA اور|CC پلے|NN اسٹیشن|NN ویٹا|PN کی|P ریٹیل|PN قیمتیں|NN امریکہ|PN میں|P کم|ADJ کر|VB کے|P 199|CA ڈالر|NN اور|CC یورپ|PN میں|P کم|ADJ کر|VB کے|P 199|CA یورو|PN (|PN 270|CA ڈالر|NN )|EXP کر|VB دے|AA گا|TA ۔|SM

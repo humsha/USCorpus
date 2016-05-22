@@ -1,0 +1,19 @@
+﻿یوں|UNK توآئے|NN دن|NN کوئی|Q نا|ADV کوئی|Q واقعہ|NN رونما|ADJ ہوتا|VB ہے|TA ۔|SM
+کبھی|AKP لڑکیوں|NN کو|P گولی|NN مار|VB کر|KER زندہ|ADJ درگور|NN کیا|VB جاتا|AA ہے|TA تو|I کسی|KD کو|P جلا|VB کر|KER مار|VB دیا|AA جاتا|AA ہے|TA ۔|SM
+پھر|ADV قانون|NN اور|CC اسلام|NN کے|P نام|NN پر|P حاصل|ADJ ہونے|VB والے|WALA پاکستان|PN پر|P ایک|CA نہیں|NEG پانچ|CA انگلیاں|NN اٹھتی|VB ہیں|TA ۔|SM
+صفحے|NN پر|P صفحے|NN کالے|ADJ کیے|VB جاتے|AA ہیں|TA ۔|SM
+جس|REP کا|P جتنا|Q بس|NN چلتا|VB ہے|TA وہ|PP اپنی|GR نفرت|NN کا|P اظہار|NN بھی|I اسی|PD طرح|NN کرتا|VB ہے|TA ۔|SM
+میری|G طرح|NN کئی|Q ایسے|PP ہوں|VB گے|TA جو|REP اپنی|GR تسلی|NN کے|P لیے|ADV لکھتے|VB ہوں|VB گے|TA کہ|SC شاید|ADV لکھ|VB کر|KER ہم|PP نے|P شہیدوں|NN میں|P نام|NN لکھوا|VB لیا|AA ہے|TA ۔|SM
+ابھی|AP سیلاب|NN کے|P بارے|NN میں|P سوچا|VB ہی|I جا|AA رہا|AA تھا|TA کہ|SC ایک|CA ایسی|AD وڈیو|NN نے|P سوچنے|VB پر|P مجبور|ADJ کر|VB دیا|VB کہ|SC کیا|QW ان|PP کو|P انصاف|NN مل|VB سکے|AA گا|TA ۔|SM
+یا|CC کچھ|Q وقت|NN گزر|VB جانے|AA کے|P بعد|NN یہ|PP بھی|I ماضی|NN کا|P حصہ|NN بن|VB جاہیں|AA گے|TA ۔|SM
+اسلام|NN آباد|ADJ میں|P طلبا|NN اور|CC سول|PN سوسائٹی|NN کی|P تنظیموں|NN نے|P احتجاجی|ADJ مظاہرے|NN کئے|Q ۔|SM
+سابق|ADJ جج|NN کاظم|PN علی|PN ملک|NN پر|P مشتمل|ADJ تحقیقاتی|ADJ ٹریبونل|NN نے|P چھیاسٹھ|CA افراد|NN کے|P بیانات|NN قلمبند|ADJ کئے|Q ۔|SM
+ٹرریبونل|UNK کے|P سامنے|NN سابق|ADJ ڈی|PN پی|VB او|PN سیالکوٹ|NN وقار|PN چوہان|PN ،|PM سابق|ADJ ایس|PN پی|VB انوسٹی|PN گیشن|PN افضل|PN ورک|NN ،|PM علامہ|NN اقبال|NN میڈیکل|ADJ کالج|NN کے|P آفیسرز|PN ،|PM ڈسٹرکٹ|NN ایمرجنسی|NN اور|CC ریسکیو|PN ڈبل|ADJ ون|PN ڈبل|ADJ ٹو|PN کے|P اسٹیشن|NN انچارج|NN اور|CC دس|CA اہلکاروں|NN کے|P علاوہ|NN موضع|PN بٹر|NN سے|SE تعلق|NN رکھنے|VB والے|WALA آٹھ|CA مردوں|NN اور|CC چالیس|CA خواتین|NN نے|P اپنے|GR بیانات|NN قلمبند|ADJ کرائے|VB ۔|SM
+دونوں|OR بھائیوں|NN کے|P قتل|NN کے|P الزام|NN میں|P پولیس|NN اہلکاروں|NN سمیت|NN سولہ|CA افراد|NN کو|P گرفتار|ADJ کرلیا|VB گیا|AA ہے|TA ۔|SM
+نیشنل|PN پریس|NN کلب|NN اسلام|NN آباد|ADJ کے|P باہر|NN پاکستان|PN انٹرنیشنل|PN ہیومن|PN رائٹس|PN اور|CC انجمن|NN طلباء|NN اسلام|NN کے|P کارکنوں|NN نے|P سیالکوٹ|NN کے|P پرتشدد|ADJ واقعے|NN کے|P خلاف|NN احتجاجی|ADJ مظاہرہ|NN کیا|VB ۔|SM
+مظاہرین|NN نے|P حکومت|NN سے|SE مطالبہ|NN کیا|VB کہ|SC واقعہ|NN میں|P ملوث|ADJ ریسکیو|PN ڈبل|ADJ ون|PN ڈبل|ADJ ٹو|PN اور|CC موقع|NN پر|P موجود|ADJ پولیس|NN اہلکاروں|NN کے|P خلاف|NN بھی|I قتل|NN کا|P مقدمہ|NN درج|ADJ کیا|VB جائے|AA اور|CC انہیں|PP قرار|NN واقعی|ADV سزا|NN دی|VB جائے|AA ۔|SM
+موقع|NN پر|P موجود|ADJ ہر|Q تماشائی|ADJ کو|P بھی|I سزا|NN ملنی|VB چاہیے|AA ۔|SM
+آپ|PP کے|P خیال|NN میں|P یہ|PP سب|Q کچھ|Q ممکن|ADJ ہو|VB گا|TA یا|CC پھر|ADV وہی|PP ہم|PP اور|CC ہمارا|G قانون|NN ۔|SM
+جس|REP سے|SE نا|ADV پہلے|NN کبھی|AKP انصاف|NN کی|P توقع|NN تھی|TA اور|CC نا|ADV ہی|I اب|AP ہے|TA ۔|SM
+ایسے|PP میں|P ہم|PP کیا|VB کر|VB سکتے|AA ہیں|TA ۔|SM
+سوچنا|VB ہے|VB ضرور|ADV ۔|SM

@@ -1,0 +1,17 @@
+﻿بجلی|UNK اور|CC گیس|NN کا|P بحران|NN ہمارے|G معاشی|ADJ و|CC سماجی|ADJ زوال|NN پذیری|NN کا|P سبب|NN اعظم|NN بنتا|VB جا|AA رہا|AA ہے|TA ۔|SM
+ہماری|G بیورو|PN کریسی|PN کمیشن|NN مافیا|PN بن|VB چکی|AA ہے|TA اور|CC اپنی|GR کمیشن|NN کے|P واسطے|NN یہ|PD بحران|NN ختم|ADJ کرنے|VB کو|P تیار|ADJ نہیں|NEG ہے|TA ۔|SM
+تو|SC دوسری|ADJ طرف|NN حکمران|NN اپنے|GR آقاوں|NN اور|CC عزیز|NN و|CC اقارب|NN کو|P نوازنے|VB کے|P لئے|NN ان|PP بحرانوں|NN کے|P سد|NN باب|NN کے|P لئے|NN کچھ|Q کرنے|VB سے|SE قاصر|ADJ ہیں|TA ۔|SM
+گزشتہ|ADJ دور|NN حکومت|NN میں|P بجلی|NN کے|P بحران|NN پر|P قابو|NN پانے|VB کے|P لئے|NN ایک|CA پالیسی|NN بنائی|VB گئی|AA کہ|SC لوگوں|NN سے|SE ٹنگسٹن|PN بلب|NN لے|VB کر|KER اس|PP کی|P جگہ|NN پر|P انہیں|PP انرجی|NN سیور|NN فراہم|ADJ کر|VB دئیے|AA جائیں|AA تا|CC کہ|SC بجلی|NN کے|P استعمال|NN میں|P کمی|NN ہو|VB اور|CC اس|PD طرح|NN ایک|CA ہزار|CA میگا|PN واٹ|PN بجلی|NN بچے|NN گی|TA جو|REP ایک|CA چھوٹے|ADJ لیول|PN کے|P ڈیم|NN کی|P ضرورت|NN کو|P پورا|ADJ کر|VB دے|AA گی|TA ۔|SM
+اس|PD واسطے|NN حکومت|NN وقت|NN نے|P انرجی|NN سیورز|PN امپورٹ|NN کرنے|VB کے|P لئے|NN بھاگ|VB دوڑ|NN شروع|NN کر|VB دی|VB تا|CC کہ|SC کمیشن|NN حاصل|ADJ ہو|VB سکے|AA اور|CC عوام|NN میں|P مقبولیت|NN بڑھ|VB سکے|AA ۔|SM
+اس|PD مقصد|NN کے|P لئے|NN سال|NN 2014|CA کی|P ابتدا|NN ہوتے|VB ہی|I گیپکو|PN گوجرانوالہ|NN الیکٹرک|PN سپلائی|PN کمپنی|NN کے|P لئے|NN 36|CA لاکھ|NN انرجی|NN سیور|NN بھیجے|VB گئے|AA ہیں|TA ۔|SM
+جو|REP واپڈا|PN اہلکار|NN مبینہ|ADJ طور|NN پر|P گھر|NN گھر|NN جا|VB کر|KER لوگوں|NN سے|SE 2|CA عدد|NN ٹنگسٹن|PN بلب|NN بل|NN اور|CC شناختی|ADJ کارڈ|NN کی|P کاپی|NN کے|P عوض|NN 2|CA عدد|NN انرجی|NN سیور|NN 23|CA واٹ|PN فی|Q عدد|NN اور|CC 2|CA سالہ|ADJ گارنٹی|PN کے|P ساتھ|NN تقسیم|NN کریں|VB گے|TA ۔|SM
+لیکن|SC اہلکار|NN کسی|KD چودھری|NN کے|P ڈیرے|NN پر|P جا|VB کر|VB دکان|NN سجاتے|VB ہیں|TA اور|CC لوگوں|NN کو|P وہاں|AP پر|P طلب|NN کر|VB کے|P ان|PP سےضروری|NN لوازمات|NN حاصل|ADJ کر|VB کے|P انرجی|NN سیور|NN فراہم|ADJ کئے|Q جا|AA رہے|AA ہیں|TA ۔|SM
+یہاں|AP دلچسپ|ADJ امر|NN یہ|PP ہے|TA کہ|SC شہری|ADJ آبادی|NN میں|P زیادہ|ADV تر|ADV لوگ|NN پہلے|NN ہی|I انرجی|NN سیور|NN استعمال|NN کر|VB رہے|AA ہیں|TA ۔|SM
+اب|AP وہ|PP دکان|NN سے|SE نئے|ADJ بلب|NN خرید|NN کر|VB گیپکو|PN اہلکاروں|NN سے|SE انرجی|NN سیور|NN لے|VB رہے|AA ہیں|TA ۔|SM
+ایک|CA خرچہ|NN صارف|NN کرے|VB کہ|SC چالیس|CA روپے|NN کے|P بلب|NN خریدے|VB اور|CC پھر|ADV سرکاری|ADJ خرچے|NN والے|WALA انرجی|NN سیور|NN حاصل|ADJ کرے|VB جو|REP صارف|NN سے|SE ہی|I ٹیکس|NN کی|P شکل|NN میں|P لیےگئے|ADV ہیں|TA ۔|SM
+بلب|NN خرید|NN کر|VB گیپکو|PN اہلکاروں|NN کو|P دینے|VB کے|P بعد|NN یہ|PP بلب|NN گیپکو|PN اہلکاروں|NN سے|SE واپس|ADJ سٹوروں|NN میں|P جائیں|AA گے|TA جہاں|AP پر|P یہ|PP پھر|ADV کرپشن|NN کی|P ایک|CA راہ|NN ہموار|ADJ کریں|VB گے|TA ۔|SM
+اگر|SC یہ|PP بلب|NN کارآمد|NN نہیں|NEG ہیں|TA تو|SC انہیں|PP اکٹھا|ADJ کرنے|VB کی|P ضرورت|NN ہی|I نہیں|NEG ہے|TA ۔|SM
+صرف|ADV ہر|Q صارف|NN کو|P 2|CA عدد|NN انرجی|NN سیور|NN دے|VB دیے|AA جائیں|AA ۔|SM
+اور|CC ان|PP سے|SE ٹنگسٹن|PN بلب|NN جمع|ADJ کرنے|VB کی|P چنداں|ADJ ضرورت|NN نہیں|NEG ہے|TA ۔|SM
+اگر|SC حکومت|NN کو|P یہ|PP بلب|NN کارآمد|NN نہیں|NEG لگتے|AA ہیں|TA اور|CC یہ|PD بجلی|NN کے|P ضیاع|NN کا|P باعث|NN بنتے|VB ہیں|TA تو|SC فوری|ADJ طور|NN پر|P ایک|CA قانون|NN بنا|VB کر|KER ایسے|PP بلب|NN کی|P پیدوار|NN ،|PM فروخت|NN اور|CC استعمال|NN پر|P پابندی|NN لگا|VB دی|VB جاۓ|AA ۔|SM
+لیکن|SC خدارا|ADJ قوم|NN کے|P خون|NN پسینے|NN کی|P کمائی|NN کو|P یوں|AP نہ|NEG ضائع|ADJ کرو|VB اور|CC کچھ|Q ہوش|NN کہ|SC ناخن|NN لو|AA ۔|SM

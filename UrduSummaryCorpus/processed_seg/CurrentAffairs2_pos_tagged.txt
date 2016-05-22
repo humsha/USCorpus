@@ -1,0 +1,55 @@
+﻿الیکشن|UNK تو|SC سلیکشن|PN تھا|TA ایسا|PP ہی|I ہونا|VB تھا|TA سو|VB ہو|VB گیا|AA ۔|SM
+اندازہ|NN تھا|TA ،|PM اس|PD لئے|NN کوئی|Q حیرت|NN کی|P بات|NN نہیں|NEG ۔|SM
+بات|NN ہارنے|VB والی|WALA سیاسی|ADJ تنظیموں|NN کی|P کریں|VB تو|SC ہلکی|ADJ پھلکی|NN کمزور|ADJ سی|A احتجاجی|ADJ آواز|NN بلوچستان|NN سے|SE سنائی|VB دی|AA ۔|SM
+پختون خواہ|UNK میں|P ہارنے|VB والے|WALA بھی|I خاموش|ADJ بیٹھ|VB گئے|AA ۔|SM
+ہمیں|PP صبح|NN بیداری|NN کی|P عادت|NN ہے|TA ۔|SM
+جب|AP بھی|I پاکستان|PN گیا|AA اور|CC سوچا|VB ذرا|NN بازار|NN کا|P چکر|NN لگا|VB کر|VB آوں|NN یا|CC کسی|KD دوسست|UNK کو|P کہا|VB کہ|SC آٹھ|CA نو|CA بجے|NN ملاقات|NN کیلئے|AA آتا|VB ہوں|TA تو|SC حیرت|NN سے|SE جواب|NN ملا|VB دماغ|NN خراب|ADJ ہے|TA دس|CA گیارہ|CA بجے|NN تو|SC ہم|PP سو|VB کر|VB اٹھیں|VB گے|TA ،|PM اتنی|Q سویرے|NN ملاقات|NN نہیں|NEG ہو|VB سکتی|AA ۔|SM
+ہمارے|G لئے|NN آٹھ|CA ،|PM نو|CA بجے|NN تو|I دوپہر|NN قریب|NN کا|P وقت|NN ہوتا|VB ہے|TA ۔|SM
+پاکستان|PN میں|P شاید|ADV مزدور|NN طبقہ|NN ہی|I صبح|NN سویرے|NN بیدار|ADJ ہوتا|VB ہے|TA ۔|SM
+تاجر|NN حضرات|NN ان|PP کا|P عملہ|NN سرکاری|ADJ وائٹ|PN کالر|NN ملازم|NN بھی|I اطمینان|NN سے|SE ہی|I دوپہر|NN کے|P قریب|NN کام|NN پر|P جاتے|AA ہیں|TA ۔|SM
+کاروباری|ADJ سرگرمیاں|NN شام|NN ڈھلے|VB ہی|I دیکھنے|VB کو|P ملیں|VB ۔|SM
+پاکستان|PN کی|P ترقی|NN نہ|NEG کرنے|VB کی|P وجہ|NN ہماری|G نظر|NN میں|P ہمیشہ|ADV سستی|NN آلسی|NN تن|NN آسانی|NN حیلے|NN بہانے|NN لمبی|ADJ تان|NN کر|KER سونا|NN ہی|I رہا|AA ہے|TA ۔|SM
+آداب|NN سحر|NN گاہی|NN سے|SE نا آشنا|UNK کفار|NN تو|SC آدھا|FR پونا|PN گھنٹا|NN پہلے|NN ہی|I اپنے|GR کام|NN کی|P جگہ|NN پہنچ|VB جاتے|AA ہیں|TA ۔|SM
+اور|CC کام کاج|UNK ذمہ داری|UNK سے|SE نباتے|VB ہیں|TA ،|PM حیلہ بہانے|UNK کرکے|NN سارا|ADJ الزام|NN خدا|NN پر|P نہیں|NEG ڈالتے|VB ۔|SM
+نہ|NEG ہی|I شان بےنیازی|UNK سے|SE اللہ|PN توکل|NN کا|P مظاہرہ|NN کرتے|VB ہوئے|AA اللہ|NN مالک|NN ہے|VB جی|PN کہہ|VB کر|KER ہاتھ|NN جھاڑ|NN دیتے|AA ہیں|TA ۔|SM
+جیسے|A ان|PP کے|P فرائض|NN بھی|I اللہ|PN ہی|I ادا|NN کرے|VB گا|TA ۔|SM
+آپ|PP الیکشن|NN والے|WALA دن|NN دیکھئے|VB صبح سویرے|UNK اپنے|GR فرائض|NN اور|CC مفادات|NN سے|SE مخلص|ADJ پاکستانی|ADJ کس|KD طرح|NN صبح سویرے|UNK بیدار|VB ہوئے|VB اور|CC پریس|NN کانفرنس|NN کی|VB ۔|SM
+پہلا|OR قدم|NN اٹھاتے|VB ہوئے|AA سب|Q کے|P ہاتھ|NN پاؤں|NN باندھے|VB اور|CC ایک|CA طرف|NN پھینک|VB کر|KER اپنا|GR کام|NN انتہائی|ADJ فرض شناسی|UNK سے|SE انجام|VB دیا|AA ۔|SM
+ایم کیو ایم|UNK کی|P پریس|NN کانفرنس|NN دیکھئے|VB سوشل|ADJ میڈیا|NN پر|P دستیاب|ADJ ہے|TA ۔|SM
+فوج|NN ،|PM رینجرز|PN ،|PM پولیس|NN پر|P الزام|NN لگا|VB دیا|AA گیا|AA کہ|SC ہمارے|G ووٹرز|PN کو|P روکا|VB جا|AA رہا|AA ہے|TA ۔|SM
+بکسے|NN دیر|NN سےپہنچ|UNK رہے|AA ہیں|TA ۔|SM
+وغیرہ|NN وغیرہ|NN ۔|SM
+پیش بندی|UNK کے|P بعد|NN عوام|NN نے|P سیکورٹی|ADJ فورس|PN کو|P غیرت|NN دلانے|VB کیلئے|AA خواتین|NN کی|P چوڑیاں|NN پیش|NN کیں|VB ۔|SM
+لیکن|SC سیکورٹی|ADJ فورس|PN بلیک میل|UNK ہو|VB چکیں|VB تھیں|TA ۔|SM
+چوڑیاں|NN وصولیں|VB اور|CC خاموش|ADJ تماشائی|ADJ بن|VB گئے|AA اور|CC شیطانی|ADJ ذہانت|NN نے|P کھل|VB کر|KER کھیل|NN کھیلا|VB ۔|SM
+شام|NN ڈھلے|VB جماعت اسلامی|UNK نے|P ایک|CA بار|NN پھر|ADV اپنے|GR پاؤں|NN پر|P کلہاڑی|NN ماری|VB اور|CC ہر|Q طرف|NN سے|SE طعنوں|NN کا|P شکار|NN ہو|VB گئی|AA ۔|SM
+ہمیشہ|ADV کی|P طرح|NN اپنا|GR ہی|I نقصان|NN کیا|VB ۔|SM
+غلاظت|NN میں|P گندے|ADJ ہی|I ہو|VB جاتے|AA تو|SC شاید|ADV کچھ|Q سیٹیں|NN خیرات|NN میں|P مل|VB ہی|I جاتیں|AA ۔|SM
+اور|CC پھر|ADV دیکھئے|VB اسے|PP کہتے|VB ہیں|TA ذہانت|NN قائد ملت|UNK عظیم|ADJ لیڈر|NN قوم|NN کے|P مائی باپ|UNK نےٹیلیفونک|UNK خطاب|NN میں|P چنگھاڑنا|VB شروع|NN ہوگئے|VB کہ|SC ہمارے|G مینڈیٹ|NN کو|P نہیں|NEG مانتے|VB تو|SC کراچی|PN کو|P علیحدہ|ADJ کردیں|VB ۔|SM
+کراچی|PN ان|PP کی|P اماں جی|UNK جہیز|NN میں|P لائیں|VB تھیں|TA ۔|SM
+سب|Q سے|SE پہلے|NN دھاندلی|NN کا|P واویلا|PN مچانے|VB والی|WALA بھی|I ایم کیو ایم|UNK اور|CC آخر|NN میں|P فتح|NN کا|P جشن|NN بھی|I یہی|PD جماعت|NN منا|VB رہی|AA ہے|TA ۔|SM
+دھاندلی|NN ہی|I ہوئی|VB تھی|TA اور|CC ایم کیو ایم|UNK کے|P ووٹرز|PN کو|P روکا|VB جا|AA رہا|AA تھا|TA تو|SC جیتے|VB کیسے|AKP ۔|SM
+سوات|NN کی|P ریاست|NN نے|P پاکستان|PN کے|P ساتھ|NN الحاق|NN کیا|VB تھا|TA ۔|SM
+جو|REP کچھ|Q سوات|NN والوں|WALA کے|P ساتھ|NN ہوا|VB سب|Q کو|P معلوم|ADJ ہے|TA لیکن|SC سوات|NN سے|SE آواز|NN نہیں|NEG آئی|VB کہ|SC ہمیں|PP سینڈویچ|PN بنا|VB کر|KER مار|VB ہی|I رہے|AA ہو|VB تو|SC ہمیں|PP علیحدہ|ADJ ہی|I کر|VB دو|CA ۔|SM
+دیکھا|VB جائے|AA تو|I سارے|ADJ پاکستان|PN میں|P الیکشن|NN میں|P دھاندلی|NN ہوئی|VB ہے|TA ،|PM کسی|KD جگہ|NN کم|ADJ کسی|KD جگہ|NN زیادہ|ADV ۔|SM
+اگر|SC ایماندار|NN معاشرے|NN میں|P ایسا|PP ایک|CA دو|CA جگہ|NN ہو|VB جائے|AA تو|I سارے|ADJ الیکشن|NN ہی|I مشکوک|ADJ قرار|NN دے|VB دیئے|VB جائیں|AA گے|TA ۔|SM
+لیکن|SC کیونکہ|SC ہمارا|G باوا آدم|UNK نرالہ|NN ہے|TA ۔|SM
+اس|PD لئے|NN تاویلوں|NN سے|SE کام|NN چل|VB رہا|AA ہے|TA ،|PM کہ|SC کوئی|Q بات|NN نہیں|NEG چند|Q جگہوں|NN پر|P دھاندلی|NN ہوئی|VB ہے|TA ۔|SM
+سب|Q ٹھیک|ADJ ہے|TA ،|PM اتنا|Q تو|I چلتا|VB ہے|TA ۔|SM
+اور|CC اب|AP جو|REP دھاندلی|NN پر|P شور|NN مچائیں|VB گے|TA ان|PP کی|P زبان|NN کچھ|Q دے|VB دلا|VB کر|KER خاموش|ADJ کر|VB دی|VB جائے|AA گی|TA یا|CC پھر|ADV غنڈہ گردی|UNK سے|SE بند|ADJ کر|VB دی|VB جائے|AA گی|TA ۔|SM
+میڈیا|NN خاموش|ADJ ہے|TA ،|PM دانشور|NN فنکارانہ|ADJ لفاظی|NN سے|SE گند|NN چھپانے|VB میں|P لگے|VB ہوئے|VB ہیں|TA ۔|SM
+سب|Q کچھ|Q وہی|PP جانتے|VB ہیں|VB جنہیں|REP سوشل|ADJ میڈیا|NN تک|P رسائی|NN حاصل|ADJ ہے|TA ۔|SM
+لیکن|SC کتنے|Q فیصد|NN پاکستانی|ADJ عوام|NN کو|P سوشل|ADJ میڈیا|NN تک|P رسائی|NN حاصل|ADJ ہے|TA ۔|SM
+جنہیں|REP حاصل|ADJ ہے|TA ان|PP کی|P کون|KP سنے|VB گا|TA ۔|SM
+سوشل|ADJ میڈیا|NN پر|P کراچی|PN کے|P علاوہ|NN دیگر|NN علاقوں|NN کے|P وڈیوز|NN بھی|I میسر|ADJ ہیں|TA ۔|SM
+اور|CC الیکشن|NN کمیشن|NN کے|P فخرو جی|UNK کا|P ارشاد|NN ہے|VB ہم|PP نے|P شفاف|ADJ الیکشن|NN کروا|VB دیا|AA ۔|SM
+ٗعرض|UNK ہے|TA ،|PM کہ|SC طاہرالقادری|NN پر|P ہم|PP بہت|ADV طنز|NN کرتے|VB ہیں|TA لیکن|SC بات|NN تو|SC طاہرالقادری|NN کی|P ہی|I سچی|ADJ نکلی|VB ۔|SM
+سچ|NN تو|I سچ|NN ہی|I ہے|TA چاھے|NN ہمارے|G ناپسندیدہ|ADJ شخص|NN کی|P زبان|NN سے|SE ہی|I کیوں|QW نہ|NEG نکلے|VB ۔|SM
+اس|PD قوم نما|UNK ہجوم|NN سے|SE واریاں|NN ہو|VB رہی|AA ہیں|TA ۔|SM
+یہ|PP صدقے|NN واریاں|NN تو|I خیر|NN نہیں|NEG ۔|SM
+اب|AP اگر|SC چوکیدار|NN گھر|NN پر|P سینہ|NN تان|NN کر|VB قابض|ADJ ہو|VB گیا|AA تو|SC پھر|ADV پندرہ|CA سال|NN بعد|NN شعور|NN کی|P آنکھیں|NN کھولنے|VB والی|WALA نسل|NN کو|P بھی|I یہی|PD کچھ|Q دکھاؤ|VB گے|TA ۔|SM
+پلان|PN میکر|NN خاموش|ADJ تماشائی|ADJ بنا|VB ہوا|VB ہے|TA ۔|SM
+جب|AP دل|NN چاھے|NN گا|TA ،|PM ٹنٹوا|UNK دبا|VB دے|AA گا|TA ۔|SM
+مسلم|PN لیگ|PN کی|P جیت|VB اعلی|ADJ فنکاری|NN کی|P مرہون منت|UNK ہے|TA تو|SC ایم کیو ایم|UNK کی|P گھٹیا|VB فنکاری|NN کی|P مرہون منت|UNK ہے|TA ۔|SM
+آپ|PP کا|P متفق|ADJ ہونا|VB ضروری|ADJ نہیں|NEG ۔|SM
+اس|PD سیاسی|ADJ دنگل|NN کے|P اختتام|NN کو|P دیکھ|VB میرے|G ذہن|NN میں|P بار بار|UNK ایک|CA ہی|I جملہ|NN گردش|NN کر|VB رہا|AA ہے|TA کہ|SC ہم|PP پاکستانی|ADJ خدا|NN کا|P نام|NN لےلے|VB کر|KER اتنا|Q ننگا|NN جھوٹ|NN بولتے|VB ہیں|TA کہ|SC شاید|ADV ہی|I کوئی|Q جاندار|NN بولتا|VB ہو|VB سوائے|NN شیطان|NN کے|P ۔|SM

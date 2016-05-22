@@ -1,0 +1,21 @@
+﻿سعودی|UNK عرب|PN میں|P پاکستانی|ADJ شہریوں|NN نے|P کہاہے|VB کہ|SC چھپ|VB چھپا|VB کر|KER کام|NN کرنے|VB والے|WALA پاکستانی|ADJ اپنی|GR تنخواہ|NN کا|P 80فیصد|UNK حصہ|NN کفیلوں|NN کو|P دے|VB رہے|AA ہیں|TA ۔|SM
+صرف|ADV بیس|CA فیصد|NN اپنے|GR گھروں|NN کو|P بجھوانے|VB میں|P کامیاب|ADJ ہوتے|VB ہیں|TA ۔|SM
+جب|AP تک|P کفیل|NN کو|P پیسے|NN نہیں|NEG دینگے|AA تو|SC باہر|NN کام|NN کر|VB نے|P کی|P اجازت|NN نہیں|NEG دیگا|AA ۔|SM
+سفارت|NN خانے|NN کا|P عملہ|NN اپنی|GR مرضی|NN سے|SE کام|NN کرتا|VB ہے|TA ۔|SM
+کوئی|Q پوچھنے|VB والا|WALA نہیں|NEG ۔|SM
+غیر|ADJ ملکی|ADJ میڈیا|NN سے|SE بات|NN چیت|NN کرتے|VB ہوئے|AA پاکستانی|ADJ شہری|NN ظہور|NN عباسی|PN نے|P کہاکہ|ADV پہلے|NN تو|SC ان|PP کا|P سٹیٹس|PN قانونی|ADJ تھا|TA ۔|SM
+تاہم|SC نئے|ADJ قوانین|NN کے|P بعد|NN وہ|PP بھی|I غیر|ADJ قانونی|ADJ قرار|NN دئیے|VB گئے|AA ہیں|TA ۔|SM
+انھوں|NN نے|P کہا|VB کہ|SC اب|AP ان|PP کے|P پاس|NN اور|CC کوئی|Q چارہ|NN نہیں|NEG ہے|TA کہ|SC وہ|PP چھپ|VB کر|KER ہی|I کام|NN کریں|VB ۔|SM
+کیونکہ|SC پاکستان|PN میں|P ان|PP کے|P مالی|ADJ حالات|NN ایسے|PP نہیں|NEG ہیں|TA کہ|SC واپس|ADJ آکر|NN وہ|PP اپنے|GR بچوں|NN کا|P پیٹ|PN پال|PN سکیں|AA ۔|SM
+ظہور|NN عباسی|PN نے|P بتایا|VB کہ|SC جب|AP تک|P کفیل|NN کو|P پیسے|NN نہیں|NEG دیں|AA گے|TA تو|SC وہ|PP باہر|NN کام|NN کرنے|VB کی|P اجازت|NN نہیں|NEG دیگا|AA ۔|SM
+اور|CC ایسا|PP نہ|NEG کرنے|VB کی|P صورت|NN میں|P وہ|PP پولیس|NN کو|P اطلاع|NN بھی|I دے|VB سکتا|AA ہے|TA ۔|SM
+جس|REP کے|P بعد|NN پولیس|NN گرفتار|ADJ کرکے|NN وطن|NN واپس|ADJ بجھوا|VB دیگی|NN ۔|SM
+ایک|CA اور|CC پاکستانی|ADJ محمد|PN فیاض|NN نے|P کہاکہ|ADV چھپ|VB چھپا|VB کر|KER کام|NN کرنے|VB والے|WALA پاکستانی|ADJ اپنی|GR تنخواہ|NN کا|P اسی|PD فیصد|NN حصہ|NN کفیلوں|NN کو|P دے|VB رہے|AA ہیں|TA ۔|SM
+جبکہ|SC صرف|ADV بیس|CA فیصد|NN اپنے|GR گھروں|NN کو|P بجھوانے|VB میں|P کامیاب|ADJ ہوتے|VB ہیں|TA ۔|SM
+انھوں|NN نے|P دعوی|NN کیا|VB کہ|SC جو|REP پاکستانی|ADJ قانونی|ADJ طور|NN پر|P کفیلوں|NN کے|P پاس|NN کام|NN کررہے|VB ہیں|TA ان|PP میں|P سے|SE اکثریت|NN کو|P پیسے|NN نہیں|NEG مل|VB رہے|AA اور|CC تنخواہ|NN کا|P مطالبہ|NN کرنے|VB پر|P پولیس|NN کے|P حوالے|NN کرنے|VB کی|P دھمکی|NN دیتے|AA ہیں|TA ۔|SM
+غیر|ADJ قانونی|ADJ طور|NN پر|P مقیم|ADJ پاکستانیوں|NN کی|P حالت|NN زار|NN سے|SE متعلق|NN پاکستانی|ADJ سفارت|NN خانے|NN کے|P رویے|NN کے|P بارے|NN میں|P محمد|PN فیاض|NN نے|P کہاکہ|ADV دو|CA دو|CA روز|NN تک|P پاکستانی|ADJ سفارت|NN خانے|NN کے|P باہر|NN لائنوں|NN میں|P لگے|VB ہوتے|VB ہیں|TA ۔|SM
+تاہم|SC ان|PP کا|P کوئی|Q پرسان|NN حال|NN نہیں|NEG ہے|TA ۔|SM
+انہوں|PP نے|P کہا|VB کہ|SC سفارت|NN خانے|NN کا|P عملہ|NN اپنی|GR مرضی|NN سے|SE کام|NN کرتا|VB ہے|TA اور|CC انھیں|PP کوئی|Q پوچھنے|VB والا|WALA نہیں|NEG ہے|TA ۔|SM
+محمد|PN فیاض|NN نے|P کہاکہ|ADV سفارت|NN خانے|NN کے|P عملے|NN کی|P سنجیدگی|NN کا|P اندازہ|NN لگایا|VB جاسکتا|AA ہے|TA کہ|SC جو|REP سفارت|NN خانے|NN کے|P باہر|NN لوگوں|NN کی|P مدد|NN نہیں|NEG کرتے|VB وہ|PP حراستی|ADJ مرکز|NN میں|P قید|NN پاکستانیوں|NN کی|P مدد|NN کو|P کہاں|AKP پہنچتے|VB ہوں|VB گے|TA ۔|SM
+سعودی|PN عرب|PN میں|P مقیم|ADJ صحافی|NN راشد|PN حسین|ADJ کا|P کہنا|VB ہے|TA کہ|SC سعودی|PN عرب|PN میں|P کفیلوں|NN کے|P خلاف|NN کارروائی|NN کرنے|VB کا|P قانون|NN تو|I موجود|ADJ ہے|TA لیکن|SC اس|PP پر|P عمل|NN درآمد|NN ہونے|VB کی|P مثالیں|NN بہت|ADV کم|ADJ ہیں|TA ۔|SM
+انہوں|PP نے|P کہا|VB کہ|SC اب|AP سعودی|PN عرب|PN میں|P اس|PD بات|NN کا|P بھی|I مطالبہ|NN کیا|VB جارہا|AA ہے|TA کہ|SC اگر|SC ایک|CA طرف|NN غیر|ADJ قانونی|ADJ طور|NN پر|P مقیم|ADJ غیر|ADJ ملکیوں|NN کے|P خلاف|NN کارروائی|NN ہو|VB رہی|AA ہے|TA تو|SC دوسری|ADJ ان|PP کفیلوں|NN کے|P خلاف|NN بھی|I کارروائی|NN کی|VB جائے|AA جو|REP پیسے|NN لیکر|VB ویزے|NN بیچتے|VB ہیں|TA اور|CC بعد|NN میں|P ان|PD غیر|ADJ ملکیوں|NN سے|SE پیسے|NN لے|VB کر|KER انھیں|PP دوسری|ADJ جگہ|NN کام|NN کرنے|VB کی|P اجازت|NN دیتے|AA ہیں|TA ۔|SM

@@ -1,0 +1,39 @@
+﻿اس|UNK مرتبہ|NN کرک|PN نامہ|NN سے|SE غیر|ADJ حاضری|NN کچھ|Q زیادہ|ADV ہی|I طویل|ADJ ہوگئی|VB ہے|VB جس|REP کا|P سبب|NN ذاتی|ADJ مصروفیت|NN تھی|TA ۔|SM
+کہیں|AKP قارئین|NN یہ|PP نہ|NEG سمجھ|VB لیں|AA کہ|SC پاکستان|PN کی|P شکست|NN نے|P افسردہ|ADJ کردیا|VB تھا|TA جس|REP کے|P سبب|NN لکھنے|VB کو|P من|U نہ|NEG کیا|VB کیونکہ|SC پاکستان|PN کی|P شکست|NN تو|I صاف|ADJ دکھائی|VB دے|VB رہی|AA تھی|TA ۔|SM
+اور|CC پہلے|NN ٹیسٹ|NN میں|P کامیابی|NN کے|P باوجود|NN پاکستانی|ADJ ٹیم|NN کی|P کارکردگی|NN میں|P جھول|NN تھا|TA اور|CC اسی|PP لیے|ADV میں|PP نے|P لکھا|VB تھا|TA کہ|SC "کیا|UNK جیت|VB نے|P خامیوں|NN کو|P چھپا|VB دیا|AA ہے|TA ۔|SM
+"|PM کیونکہ|SC 221|CA رنز|NN کی|P ریکارڈ|NN ساز|NN کارکردگی|NN نے|P حقیقتا|ADV خامیوں|NN اور|CC غلطیوں|NN پر|P پردہ|NN ڈال|VB دیا|AA جنہیں|REP دوسرے|ADJ ٹیسٹ|NN کی|P شکست|NN نے|P برہنہ|ADJ کر|VB کے|P رکھ|VB دیا|AA ہے|TA اور|CC اب|AP ہر|Q کوئی|Q اپنا|GR تن|NN ڈھانپٹنے|VB کی|P کوششوں|NN میں|P مصروف|ADJ ہے|TA ۔|SM
+بدقسمتی|NN یہ|PP ہے|TA کہ|SC متبادل|NN بلے|NN باز|NN زمبابوے|NN میں|P بدترین|ADJ کارکردگی|NN دکھانے|VB والے|WALA کھلاڑیوں|NN سے|SE بھی|I گئے|VB گزرے|VB ہیں|TA ۔|SM
+زمبابوے|NN کے|P خلاف|NN پہلا|OR ٹیسٹ|NN پاکستانی|ADJ ٹیم|NN نے|P یونس|PN خان|NN کی|P غیر|ADJ معمولی|ADJ اننگز|NN کی|P بدولت|NN جیتا|VB تھا|TA ۔|SM
+جبکہ|SC اس|PD میچ|NN میں|P دیگر|NN بیٹسمین|NN اور|CC خاص|ADJ طور|NN پر|P پاکستان|PN کا|P ٹاپ|NN آرڈر|PN بری|ADJ طرح|NN ناکام|ADJ ہوا|VB تھا|TA ۔|SM
+جس|REP کے|P بعد|NN میں|PP نے|P پچھلی|ADJ تحریر|NN میں|P سوال|NN اٹھایا|VB تھا|TA کہ|SC پاکستان|PN کا|P ٹاپ|NN آرڈر|PN زمبابوے|NN جیسی|A ٹیم|NN کے|P خلاف|NN بھی|I کیوں|QW نا|ADV کام|NN ہو|VB رہا|AA ہے|VB جس|REP کے|P پہلے|NN تین|CA بیٹسمین|NN پہلی|OR اننگز|NN میں|P 27|CA اور|CC دوسری|ADJ باری|NN میں|P 23|CA کے|P اسکور|NN پر|P پویلین|NN لوٹ|VB گئے|AA ۔|SM
+پہلے|NN ٹیسٹ|NN میں|P زمبابوے|NN ٹیم|NN اپنی|GR ناتجربہ|ADJ کاری|NN کے|P باعث|NN شکست|NN کھاگئی|VB ۔|SM
+مگر|SC دوسرے|ADJ میچ|NN میں|P قومی|ADJ ٹیم|NN کی|P متواتر|ADJ ناکام|ADJ کارکردگی|NN نے|P زمبابوے|NN کو|P جشن|NN منانے|VB کا|P موقع|NN فراہم|ADJ کردیا|VB ۔|SM
+میں|PP نے|P لکھا|VB تھا|TA کہ|SC پہلے|NN ٹیسٹ|NN کی|P کامیابی|NN کےبعد|NN کوچ|NN ڈیو|PN واٹمور|PN کو|P ٹیم|NN کی|P خامیوں|NN پر|P قابو|NN پانے|VB کے|P لیے|ADV بھی|I کوئی|Q فارمولا|NN آزمانا|VB ہوگا|VB ۔|SM
+کیونکہ|SC قومی|ADJ ٹیم|NN کی|P خامیاں|NN جنوبی|PN افریقہ|PN اور|CC سری|PN لنکا|PN کے|P خلاف|NN مصیبتوں|NN کا|P پھندہ|ADJ بن|VB سکتی|AA ہیں|TA ۔|SM
+مگر|SC کھلاڑیوں|NN نے|P زمبابوے|NN کے|P ہاتھوں|NN رسائی|NN کی|P داستان|NN تحریر|NN کر|VB کے|P واٹمور|PN کو|P مشکل|NN میں|P ڈال|VB دیا|AA ہے|VB جو|REP خود|RP کو|P یہ|PP کہہ|VB کر|KER تسلی|NN دے|VB رہے|AA ہیں|TA کہ|SC پاکستان|PN زمبابوے|NN کے|P خلاف|NN ٹیسٹ|NN سیریز|NN نہیں|NEG ہارا|VB بلکہ|SC برابری|NN پر|P ختم|ADJ کرکے|NN آیا|VB ہے|TA ۔|SM
+جبکہ|SC چند|Q ماہ|NN پہلے|NN تک|P ماہر|NN کی|P حیثیت|NN سے|SE ٹی|PN وی|PN چینل|NN پر|P بیٹھ|VB کر|KER پی|VB سی|A بی|PN اور|CC قومی|ADJ ٹیم|NN کے|P بخیے|NN ادھیڑنے|VB والے|WALA سابق|ADJ کپتان|NN معین|ADJ خان|NN کو|P مینیجر|NN کا|P عہدہ|NN ملتے|VB ہی|I "|PM سب|Q اچھا|ADJ "|PM نظر|NN آ|VB رہا|AA ہے|TA ۔|SM
+جنہیں|REP پاکستانی|ADJ ٹیم|NN کی|P شکستوں|NN پر|P نہ|NEG تشویش|NN ہے|TA اور|CC نہ|NEG شرمندگی|NN ۔|SM
+بلکہ|SC سابق|ADJ وکٹ|PN کیپر|PN نے|P ٹیم|NN کی|P کارکردگی|NN کو|P "|PM تسلی|NN بخش"|UNK قرار|NN دیا|AA ہے|TA کہ|SC پاکستانی|ADJ ٹیم|NN صرف|ADV دو|CA میچز|NN میں|P ہی|I خراب|ADJ کھیلی|VB ہے|TA ۔|SM
+بقیہ|ADJ پورا|ADJ ٹور|NN تو|SC ٹیم|NN نے|P اچھی|ADJ کارکردگی|NN دکھائی|VB ہے|TA ۔|SM
+اس|PD سادگی|NN پہ|SC کون|KP نہ|NEG مر|VB جائے|AA اے|NN خدا|NN ۔|SM
+پاکستانی|ADJ ٹیم|NN کے|P شکست|NN کے|P اسباب|NN کیا|VB تھے|TA ۔|SM
+کن|KD کھلاڑیوں|NN نے|P اچھی|ADJ کارکردگی|NN پیش|NN کی|VB اور|CC وہ|PP کون|KP سے|SE کھلاڑی|NN تھے|TA ۔|SM
+جن|REP کی|P کارکردگی|NN کا|P معیار|NN گرگیا|VB اور|CC اس|PP کے|P علاوہ|NN اور|CC بھی|I بہت|ADV کچھ|Q ہمارے|G قارئین|NN جان|NN چکے|AA ہیں|TA ۔|SM
+کیونکہ|SC گزشتہ|ADJ چند|Q دنوں|NN سے|SE اس|PD شکست|NN کا|P ماتم|NN کرنے|VB کے|P علاوہ|NN ٹی|PN وی|PN چینلوں|NN پر|P براجمان|NN "ماہرین"|UNK قومی|ADJ ٹیم|NN کے|P پوسٹ|PN مارٹم|PN کا|P عمل|NN بھی|I مکمل|ADJ کر|VB چکے|AA ہیں|TA ۔|SM
+اور|CC اکثریت|NN کا|P ماننا|VB ہے|TA کہ|SC ناکامی|NN کی|P اصل|ADJ وجہ|NN مصباح|ADJ الحق|PN کی|P دفاعی|ADJ حکمت|NN عملی|ADJ ہے|TA ۔|SM
+اور|CC کپتان|NN کا|P سب|Q سے|SE بڑا"جرم"|UNK میچ|NN کو|P فنش|NN نہ|NEG کرنا|VB ہے|TA ۔|SM
+جس|REP کے|P باعث|NN پاکستان|PN کو|P زمبابوے|NN کے|P ہاتھوں|NN 24|CA رنز|NN کی|P شکست|NN برداشت|NN کرنا|VB پڑا|AA ۔|SM
+کیونکہ|SC 79|CA رنز|NN کی|P ناقابل|NN شکست|NN اننگز|NN کھیلنے|VB والا|WALA مصباح|ADJ اگر|SC تن|NN تنہا|ADJ لڑتا|VB ہوا|VB پاکستان|PN کو|P فتح|NN دلوا|VB دیتا|AA تو|SC شاید|ADV وہ|PP ناقدین|NN کی|P نظر|NN میں|P معتبر|ADJ بن|VB جاتا|AA ۔|SM
+لیکن|SC شکست|NN کا|P "ذمہ|UNK دار"|UNK کپتان|NN اب|AP ناقدین|NN کی|P توپوں|NN کی|P زد|NN میں|P ہے|VB جو|REP مصباح|ADJ پر|P تنقید|NN کرتے|VB ہوئے|AA ہر|Q مرتبہ|NN یہ|PP بھول|VB جاتے|AA ہیں|TA کہ|SC پاکستانی|ADJ ٹیم|NN صرف|ADV مصباح|ADJ الحق|PN پر|P مشتمل|ADJ نہیں|NEG بلکہ|SC اس|PP میں|P پانچ|CA اسپیشلسٹ|PN بیٹسمینوں|NN سمیت|NN دس|CA کھلاڑی|NN اور|CC بھی|I ہیں|VB جو|REP مل|VB کر|KER بھی|I پاکستانی|ADJ ٹیم|NN کو|P مشکلات|NN سے|SE نہیں|NEG نکال|VB پاتے|VB ۔|SM
+مگر|SC ان|PP بیٹسمینوں|NN پر|P تنقید|NN کرنے|VB کے|P بجائے|ADV ہر|Q مرتبہ|NN چومکھی|NN لڑائی|NN لڑنے|VB والے|WALA کپتان|NN کے|P لتے|VB لیے|ADV جاتے|AA ہیں|TA ۔|SM
+اپنی|GR چالیسویں|NN سالگرہ|NN کی|P طرف|NN بڑھتے|VB ہوئے|AA کپتان|NN کو|P منصب|NN سے|SE ہٹا|VB دینا|VB اپنی|GR کرسیاں|NN بچانے|VB کا|P آسان|ADJ ترین|ADJ حل|NN ہے|TA ۔|SM
+اور|CC شائقین|NN کو|P بھی|I "نیا|UNK کپتان|NN ،|PM نیا|ADJ جوش"|UNK کے|P نعرے|NN سے|SE کچھ|Q دنوں|NN کے|P لیے|ADV بہلایا|VB جاسکتا|AA ہے|TA ۔|SM
+لیکن|SC ایسا|PP کرنا|VB قومی|ADJ ٹیم|NN کو|P لاحق|ADJ بیماری|NN کا|P مستقل|ADJ اور|CC کارآمد|NN علاج|NN نہیں|NEG ہے|VB بلکہ|SC کپتان|NN بدلنے|VB کے|P بجائے|ADV نظام|NN تبدیل|NN کرنے|VB کی|P ضرورت|NN جو|REP آہستہ|ADJ آہستہ|ADJ پاکستان|PN کرکٹ|NN کو|P صلاحیت|NN کے|P حوالے|NN سے|SE بنجر|ADJ کرتا|VB جا|AA رہا|AA ہے|TA ۔|SM
+اور|CC اس|PP سے|SE بڑی|ADJ بے|PN بسی|PN اور|CC کیا|VB ہو|VB سکتی|AA ہے|TA کہ|SC زمبابوے|NN کے|P خلاف|NN ناکام|ADJ ہونے|VB والے|WALA کھلاڑیوں|NN کو|P صرف|ADV اس|PP لیے|ADV تبدیل|NN نہیں|NEG کیا|VB جا|AA سکتا|AA کہ|SC ٹیم|NN سے|SE باہر|NN بیٹھے|VB کھلاڑی|NN ان|PP سے|SE کم|ADJ تر|ADV کارکردگی|NN کے|P حامل|ADJ ہیں|TA ۔|SM
+جبکہ|SC مصباح|ADJ الحق|PN اور|CC یونس|PN خان|NN جیسے|A سینئرز|PN صرف|ADV اس|PP لیے|ADV اب|AP تک|P کھیل|VB رہے|AA ہیں|TA کہ|SC پاکستان|PN کرکٹ|NN کے|P پاس|NN ان|PD دونوں|OR بلے|NN بازوں|NN کا|P متبادل|NN موجود|ADJ نہیں|NEG ہے|TA اور|CC جنہیں|REP متبادل|NN قرار|NN دیا|VB جا|AA رہا|AA ان|PP کے|P خود|RP تبدیل|NN ہونے|VB کا|P وقت|NN آ|VB گیا|AA ہے|TA ۔|SM
+زمبابوے|NN کے|P خلاف|NN بدترین|ADJ کارکردگی|NN دکھانے|VB والے|WALA کھلاڑی|NN جنوبی|PN افریقہ|PN کے|P خلاف|NN سیریز|NN میں|P بھی|I جگہ|NN حاصل|ADJ کرلیں|VB گے|TA ۔|SM
+کیونکہ|SC بیک|PN اپ|NN میں|P ان|PP سے|SE بھی|I گئے|VB گزرے|VB کھلاڑی|NN ہیں|TA اور|CC ٹیم|NN میں|P جگہ|NN پکی|VB ہونے|VB کا|P خمار|NN ان|PD کھلاڑیوں|NN کو|P اپنے|GR اصل|ADJ مقام|NN سے|SE دور|NN لیے|ADV جا|AA رہا|AA ہے|TA ۔|SM
+شکستوں|NN کا|P تدارک|NN کرنے|VB اور|CC کارکردگی|NN میں|P تسلسل|NN لانے|VB کے|P لیے|ADV نظام|NN کی|P تبدیلی|NN ناگزیر|ADJ ہے|VB جو|REP پاکستان|PN کرکٹ|NN کو|P تواتر|NN کے|P ساتھ|NN باصلاحیت|NN کھلاڑی|NN فراہم|ADJ نہیں|NEG کررہا|VB ۔|SM
+جس|REP کے|P سبب|NN پاکستان|PN کرکٹ|NN تنزلی|NN کی|P جانب|NN گامزن|ADJ ہے|TA ۔|SM
+کپتان|NN بدلنا|VB مسائل|NN کا|P حل|NN نہیں|NEG بلکہ|SC نظام|NN کو|P بدلنا|VB ہوگا|TA تاکہ|SC ماضی|NN جیسا|A عروج|NN دوبارہ|ADV پاکستان|PN کرکٹ|NN کو|P میسر|ADJ آ|VB سکے|AA ۔|SM
+کپتان|NN کو|P بدلنے|VB کی|P بجائے|ADV اپنی|GR سوچ|NN اور|CC نظام|NN کو|P بدلو|VB کیونکہ|SC پاکستان|PN کرکٹ|NN جب|AP ایک|CA مربوط|ADJ نظام|NN کے|P تحت|NN چلنا|VB شروع|NN ہو|VB گئی|AA تو|SC پھر|ADV کپتان|NN کوئی|Q بھی|I ہو|VB ،|PM مثبت|ADJ نتائج|NN کی|P فراوانی|NN نہیں|NEG رک|VB سکے|AA گی|TA ۔|SM

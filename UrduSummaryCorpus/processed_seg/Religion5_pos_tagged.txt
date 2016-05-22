@@ -1,0 +1,37 @@
+﻿چونکہ|UNK ہم|PP مسلمانوں|NN کے|P گھر|NN پیدا|NN ہوئے|VB ،|PM لہذا|SC جبری|ADJ مسلمان|PN قرار|NN پائے|VB ۔|SM
+جبری|ADJ یوں|AP کہ|SC ،|PM پیدا|NN ہوئے|VB اور|CC دادا|NN جی|PN نے|P کان|NN میں|P اذان|NN انڈیل|VB دی|AA ۔|SM
+کہ|SC چل|VB بیٹا|NN ساری|Q زندگی|NN مولبیوں|UNK کو|P سنتا|VB رہ|VB ۔|SM
+بولنے|VB کے|P قابل|ADJ ہوئے|VB تو|SC انہوں|PP نے|P کلمہ|NN پڑھا|VB دیا|AA ۔|SM
+مطلب|NN پکا|VB مسلمان|PN ،|PM اور|CC ہم|PP نہ|NEG جانتے|VB ہوئے|AA بھی|I "کوئی|UNK معبود|NN نہیں|NEG سوائے|NN اللہ|PN کے|P اور|CC محمد|NN اللہ|PN کے|P رسول|PN ہیں"|UNK ہم|PP کہتے|VB رہتے|VB اور|CC دادا|NN جی|PN خوش|ADJ ہوتے|VB رہتے|VB ۔|SM
+چلنے|VB کے|P قابل|ADJ ہوئے|VB تو|SC انہوں|PP نے|P ایک|CA ہاتھ|NN میں|P اپنی|GR لاٹھی|NN لی|AA اور|CC دوسرے|PP میں|P میرا|G ہاتھ|NN تھامے|VB مسجد|NN لے|VB گئے|AA ۔|SM
+لو|PN جی|PN پکے|VB مسلمان|NN ۔|SM
+پھر|ADV اسکول|NN میں|P بھیجنے|VB سے|SE پہلے|NN مسجد|NN "|PM قرآن|PN "|PM پڑھنے|VB کو|P بھیج|VB دیا|AA ۔|SM
+اور|CC ہم|PP حافظ|NN جی|PN کی|P طرح|NN پورا|ADJ قرآن|PN پڑھ|VB گئے|AA بغیر|NN سمجھے|VB ۔|SM
+پھر|ADV اسکول|NN میں|P اسلامیات|NN کی|P کتاب|NN پر|P رٹا|NN مارتے|VB رہے|AA ،|PM آیات|NN اور|CC احادیث|NN یاد|NN کرتے|VB رہے|AA ،|PM تاریخی|ADJ واقعات|NN رٹتے|VB رہے|AA ۔|SM
+یوں|AP ہم|PP پکے|VB مسلمان|NN ہو|VB گئے|AA بلکہ|SC کچھ کچھ|UNK حافظ|NN جی|PN بھی|I ،|PM کہ|SC کچھ|Q آیات|NN زبانی|ADJ یاد|NN تھیں|TA اور|CC کئی|Q کے|P ترجمے|NN بھی|I ۔|SM
+بلکہ|SC ایک|CA بار|NN تو|SC ریش|NN مبارک|NN بھی|I رکھ|VB لی|AA تھی|TA ۔|SM
+پھر|ADV دادا|NN جی|PN نے|P جھاڑا|VB کہ|SC "|PM اتنی|Q مسلمانی|ADJ بھی|I اچھی|ADJ نہیں"|UNK ابھی|AP میں|P ہوں|TA ناں|NN باریش|ADJ گھر|NN میں|P ۔|SM
+بس|NN ایک|CA میان|NN میں|P دو|CA تلواریں|NN نہیں|NEG ہو|VB سکتیں|AA ۔|SM
+اور|CC ہم|PP نے|P دھاڑی|NN منڈوا|VB دی|AA ۔|SM
+ویسے|ADJ بھی|I کالج|NN میں|P قاری|NN صاحب|NN کہلوانا|VB اچھا|ADJ نہ|NEG لگتا|VB تھا|TA ۔|SM
+پاکستان|PN میں|P ہمارا|G کل|Q اسلام|NN نماز|PN جمعہ|PN اور|CC مولبی|PN کی|P تقریر|NN کے|P علاوہ|NN کچھ|Q نہ|NEG تھا|TA ۔|SM
+مطلب|NN مسجد|NN سے|SE باہر|NN اسلام|NN کا|P کوئی|Q کام|NN نہیں|NEG ۔|SM
+قرآن|PN صرف|ADV صبح|NN پڑھ|VB لینا|VB کافی|ADJ ہے|TA ۔|SM
+مطلب|NN کلام|NN پاک|ADJ کی|P تلاوت|NN اور|CC بس|NN ۔|SM
+اسکے|G معانی|NN پر|P اور|CC مفہوم|NN پر|P کبھی|AKP غور|NN کیا|P بھی|I نہیں|NEG ۔|SM
+ویسے|ADJ بھی|I بزرگوں|NN سے|SE یہی|PD سنا|VB کہ|SC دین|NN کے|P معاملات|NN میں|P زیادہ|ADV غور|NN نہیں|NEG کرنا|VB چاہئے|AA ۔|SM
+البتہ|SC قرآن|PN کے|P سارے|ADJ معجزے|NN ہمیں|PP زبانی|ADJ یاد|NN ہیں|TA ۔|SM
+چاہے|VB وہ|PP یوسف ؑ|UNK کو|P کنویں|NN میں|P ڈالنا|VB یا|CC نکالنا|VB ہوا|VB ،|PM یا|CC ابراھیمؑ|NN کی|P آگ|NN کا|P واقعہ|NN ،|PM یا|CC پھر|ADV موسیؑ|NN کا|P اور|CC فرعون|NN کا|P قصہ|NN ۔|SM
+اسکے|G علاوہ|NN ہمیں|PP قرآن|PN میں|P سے|SE سارے|ADJ ورد|NN وظیفے|NN بھی|I یاد|NN ہیں|VB جو|REP مختلف|ADJ مواقعوں|NN پڑھنے|VB ضروروی|ADJ ہیں|TA اور|CC کما|VB حقہ|NN ان|PP سے|SE مستفید|ADJ ہوا|VB جا|AA سکتا|AA ہے|TA ۔|SM
+اور|CC ہمارا|G ایمان|NN ہے|TA کہ|SC چاہے|VB کوئی|Q بھی|I مسئلہ|NN ہو|VB اسکا|G حل|NN ادھر|AP موجود|ADJ ہے|TA ۔|SM
+اب|AP ہمیں|PP نہ|NEG ملے|VB تو|SC ہماری|G کم|ADJ علمی|ADJ اور|CC کم|ADJ عقلی|ADJ ۔|SM
+ویسے|ADJ یہ|PP الگ|ADJ بات|NN ہے|TA کہ|SC ہماری|G پوری|ADJ قوم|NN کو|P اب|AP تک|P مسائل|NN کا|P حل|NN نہیں|NEG مل|VB سکا|AA ۔|SM
+اسکا|G ثبوت|NN مسائل|NN کی|P موجودگی|NN ہے|TA ۔|SM
+کل|Q شام|NN کو|P ایک|CA کتابوں|NN کی|P دکان|NN میں|P بہت|ADV عرصے|NN بعد|NN گھس|VB گیا|AA ۔|SM
+پرانا|ADJ شوق|NN پورا|ADJ کیا|VB ،|PM کتابی|NN دیکھیں|VB ،|PM کچھ|Q نئی|ADJ ،|PM کچھ|Q وہی|I پرانی|ADJ ۔|SM
+سدا|PN بہار|NN ،|PM رومانس|NN ،|PM تاریخ|NN ،|PM سیاست|NN ،|PM بچوں|NN کے|P کارٹون|NN ،|PM سیاحت|NN ،|PM نفسیات|NN ،|PM جادو|NN ٹونے|VB ،|PM معالجات وصحت|UNK اور|CC مذہب وایمان|UNK ۔|SM
+اس|PD ضمن|NN میں|P جو|REP بات|NN میرے|G دل|NN میں|P گھس|VB گئی|AA کہ|SC قرآن|PN مجید|NN کو|P سب|Q سے|SE اوپر|NN والی|WALA شیلف|NN میں|P رکھا|VB گیا|AA تھا|TA ۔|SM
+جبکہ|SC دکان|NN اٹالین|ADJ ہے|TA اور|CC اس|PD حصہ|NN میں|P بائبل|NN سے|SE لیکر|VB عیسائیت|NN پر|P بیسیوں|NN کتب|NN پڑی|AA تھیں|TA ۔|SM
+مگر|SC حیرت|NN کی|P بات|NN کہ|SC قرآن|PN شریف|ADJ کو|P سب|Q سے|SE اوپر|NN رکھا|VB گیا|AA ،|PM گویا|SC سب|Q سےمقدس|PN صحیفہ|NN یہی|PD ہے|TA ۔|SM
+اور|CC سب|Q سے|SE اہم|ADJ بھی|I ۔|SM
+مجھے|PP تو|SC یہ|PP بھی|I قرآن|PN کا|P ایک|CA معجزہ|NN لگا|AA اور|CC ایمان|NN تازہ|ADJ ہوگیا|VB ۔|SM

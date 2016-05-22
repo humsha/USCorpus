@@ -1,0 +1,40 @@
+﻿اندازہ|UNK ھے|AA کہ|SC جاپان|PN میں|P اگلے|ADJ دس|CA سالوں|NN میں|P بجلی|NN سے|SE چلنے|VB والی|WALA گاڑیوں|NN کی|P تعداد|NN میں|P کافی|Q اضافہ|NN ہو|VB گا|TA ۔|SM
+جیسا|A کہ|SC دوسرے|ADJ ممالک|NN میں|P بھی|I ہے|TA کہ|SC ٹرین|PN چلانے|VB کیلئے|AA تقریبا|ADV بجلی|NN ہی|I استعمال|NN کی|VB جا|AA رہی|AA ھے|AA ۔|SM
+شاید|ADV ہمارے|G پاکستان|PN میں|P ابھی|AP بھی|I کوئلہ|NN اور|CC گوبر|NN ہی|I استعمال|NN ہو|VB رہا|AA ہو|VB ۔|SM
+ایک|CA اور|CC خبر|NN یہاں|AP جاپان|PN کی|P پٹرولیم|NN کی|P صنعت|NN کی|P نظروں|NN سے|SE گذری|VB کہ|SC اگلے|ADJ تین|CA سالوں|NN میں|P پٹرولیم|NN کی|P صنعت|NN میں|P ۲۵|UNK فیصد|NN کمی|NN کر|VB دی|VB جائے|AA گی|TA ۔|SM
+خام|ADJ تیل|NN کو|P امپورٹ|NN کر|VB کے|P قابل|ADJ استعمال|NN بنانے|VB کیلئے|AA جو|REP مقدار|NN ابھی|AP تک|P استعمال|NN ہوتی|VB تھی|TA اس|PP کی|P ضرورت|NN اب|AP اتنی|Q نہیں|NEG رہی|VB اور|CC مستقبل|NN میں|P مزید|ADJ کم|ADJ ہو|VB جائے|AA گی|TA ۔|SM
+جاپان|PN کی|P جے|PN ایکس|PN ہولڈ|PN ینگس|UNK کمپنی|NN جس|REP میں|P جاپان|PN کی|P چیدہ چیدہ|UNK پٹرولیم|NN کی|P صنعت|NN کی|P کمپنیز|PN شامل|ADJ ہیں|TA ۔|SM
+ان|PP کا|P پلان|PN ھے|AA کہ|SC دو|CA ہزار|CA تیرہ|CA تک|P روزانہ|ADJ تیل|NN کی|P تیرہ|CA لاکھ|NN بیرل|NN تک|P کی|P پیداوار|NN کم|ADJ کر|VB دی|VB جائے|AA ۔|SM
+جاپان|PN کی|P اس|PD وقت|NN کی|P قابل|ADJ استعمال|NN تیل|NN کی|P روزانہ|ADJ پیداواراڑتالیس|UNK لاکھ|NN بیرل|NN ھے|AA ۔|SM
+ظاہر|ADJ ہے|TA پیداوار|NN کم|ADJ کرنے|VB کا|P کام|NN یہ|PP کمپنیز|PN اپنی|GR مرضی|NN سے|SE نہیں|NEG کر|VB سکتیں|AA ۔|SM
+اس|PD لئے|NN ان|PP پر|P قانون|NN نے|P لازم|NN کردیا|VB ھے|AA کہ|SC یہ|PP اگر|SC پیداوار|NN کم|ADJ کرنا|VB چاہیں|AA توپہلے|NN جاپان|PN کی|P وزارت|NN صنعت|NN کو|P رپورٹ|NN دیں|AA ۔|SM
+تو|SC ان|PP کمپنیز|PN نےجاپان|UNK کی|P وزارت|NN صنعت|NN کو|P اپنے|GR مستقبل|NN کے|P پلان|PN کی|P رپورٹ|NN کر|VB دی|AA ھے|AA ۔|SM
+شمسی|ADJ توانائی|NN کیلئے|AA گھریلو|ADJ پلانٹ|NN وغیرہ|NN بھی|I دن|NN بدن|NN سستے|ADJ ہوتے|VB جا|AA رہے|AA ہیں|TA ۔|SM
+اور|CC شمسی|ADJ توانائی|NN کا|P پلانٹ|NN لگا|VB نے|P والے|WALA گھر|NN کو|P حکومت|NN جاپان|PN وعدےوعید|UNK کرنے|VB کے|P بجائے|ADV کچھ|Q مالی|ADJ مدد|NN دیتی|AA ہے|TA ۔|SM
+اس|PD مدد|NN کیلئے|AA زلزلہ|NN یا|CC سیلاب|NN کا|P متاثر|ADJ ہونا|VB ضروری|ADJ نہیں|NEG ھے|AA اور|CC نہ|NEG ہی|I لائن|NN میں|P لگ|VB کر|VB ڈانڈے|NN کھانے|NN کی|P ضرورت|ADV ھے|AA ۔|SM
+لیکن|SC ہماری|G تحقیق|NN کے|P مطابق|NN ابھی|AP یہ|PP پلانٹ|NN جاپان|PN میں|P مہنگا|ADJ پڑتا|AA ھے|AA ۔|SM
+اگر|SC چین|PN وغیرہ|NN سے|SE لیا|AA جائے|AA تو|SC نہایت|ADV کم|Q قیمت|NN میں|P خریدا|VB جا|AA سکتا|AA ھے|AA ۔|SM
+اور|CC پاکستان|PN میں|P اتنی|Q تکلیف|NN کرنے|VB کی|P ضرورت|NN نہیں|NEG ھے|AA ۔|SM
+کنڈا|NN ڈال|VB کر|KER کام|NN چلایا|VB جا|AA سکتا|AA ھے|AA ۔|SM
+تیل|NN جو|REP ابھی|AP تک|P نہایت|ADV اہم|ADJ توانائی|NN تھی|TA ۔|SM
+مستقبل|NN میں|P بھی|I اس|PP کی|P ضرورت|NN تو|SC رہے|AA ہی|I گی|TA جیسے|A پلاسٹک|NN وغیرہ|NN بنانا|VB ہو|VB گیا|AA ۔|SM
+اس|PP کے|P علاوہ|NN شاید|ADV آزار|ADJ بند|ADJ کیلئے|NN استعمال|NN ہونے|VB والا|WALA الاسٹک|NN بھی|I تیل|NN ہی|I سے|SE بنتا|VB ھے|AA ۔|SM
+لیکن|SC توانائی|NN کے|P متبادل|ADJ ذرائع|NN ملنے|VB اور|CC انتھک|ADJ محنت|NN سے|SE تلاش|NN کرنے|VB کی|P وجہ|NN سے|SE دن|NN بدن|NN تیل|NN کی|P ضرورت|NN کم|ADJ ہوتی|VB جا|AA رہی|AA ھے|AA ۔|SM
+بجلی|NN سے|SE چلنے|VB والی|WALA گاڑی|NN اس|PD وقت|NN جاپان|PN میں|P خریدی|VB جا|AA سکتی|AA ھے|AA ۔|SM
+تھوڑی|Q مہنگی|ADJ ھے|AA ۔|SM
+اس|PD بجلی|NN کی|P گاڑی|NN کو|P چارج|NN کرنے|VB کا|P طریقہ|NN یہ|PD ھے|AA کہ|SC جیسے|A آپ|PP اپنے|GR کمپیوٹر|NN کی|P بیٹری|NN چارج|NN کرتے|VB ہیں|TA ۔|SM
+اسی|PD طرح|NN گاڑی|NN بھی|I چارج|NN کر|VB لیں|AA ۔|SM
+لیکن|SC اس|PD بجلی|NN کی|P گاڑی|NN کی|P بیٹری|NN ایک|CA دفعہ|NN چارج|NN کرنے|VB کے|P بعد|NN ایک|CA سو|VB تیس|CA کلو|U میٹر|NN سے|SE ڈیڑھ|PN سو|VB کلو|U میٹر|PN تک|P چلتی|VB ہے|TA ۔|SM
+اور|CC ابھی|AP پیٹرل|PN پمپ|NN کی|P طرز|NN کے|P بجلی|NN پمپ|NN ہر|Q گلی|NN کوچے|NN میں|P تعمیر|NN نہیں|NEG کئے|Q جا|AA سکے|AA ۔|SM
+اس|PD لئے|NN ابھی|AP اس|PD گاڑی|NN کو|P بیچنے|VB پر|P اتنا|Q زور|NN نہیں|NEG دیا|AA گیا|AA ۔|SM
+لیکن|SC بہت|ADV جلد|ADV نسان|PN اور|CC میٹسوبشی|UNK وغیرہ|NN کی|P گاڑیاں|NN جو|REP کہ|SC بیٹری|NN چارج|NN کرنے|VB کے|P بعد|NN کافی|ADV لمبی|ADJ ڈرائیو|NN کے|P قابل|ADJ ہوں|VB گی|TA مارکیٹ|NN میں|P آجائیں|VB گی|TA ۔|SM
+پھر|ADV ہم|PP انہیں|PP پرانی|ADJ گاڑیوں|NN کے|P طور|NN پر|P دوسرے|ADJ ممالک|NN برآمد|ADJ کریں|VB گئے|AA ۔|SM
+اس|PP کے|P بعد|NN ہمیں|PP نظر|NN آرہا|VB ھےکہ|SC جب|AP ہم|PP لانگ|PN ڈرائیو|NN پر|P صحرا|NN میں|P نکلے|VB ہوں|VB گے|TA تو|SC عرب|PN کے|P شیخ|NN صاحبان|NN بوتلوں|NN میں|P تیل|NN لئے|NN روڈ|PN کے|P کنارے|NN کھڑے|ADJ ہوں|VB گے|TA ۔|SM
+اور|CC ایک|CA دوسرے|PP پر|P بازی|NN لے|VB جانے|VB کیلئے|AA گلے|NN پھاڑ|VB کر|KER چلا|VB رہے|AA ہوں|VB گے|TA ۔|SM
+تیل|NN لے|VB لو|AA ،|PM تیل|NN لے|VB لو|AA میرا|G تیل|NN خالص|ADJ ھے|AA تیل|NN لے|VB لو|AA تیل|NN لے|VB لو|AA ۔|SM
+یہ|PD آواز|NN لگانے|VB کی|P ٹیکنالوجی|NN ہمارے|G پاکستانی|ADJ سیاستدا|NN نوں|NN کی|P ایکسپورٹ|NN کردہ|ADJ ہو|VB گی|TA ۔|SM
+اگر|SC آپ|PP کو|P جاپان|PN کی|P بجلی|NN کی|P گاڑی|NN میں|P دلچسپی|NN ھے|AA تو|SC وکیپیڈیا|PN کے|P یہاں|AP اور|CC یہا|CA ں|VB پر|P فوٹو|PN شوٹو|PN بھی|I دیکھیں|VB اور|CC اگر|SC آپ|PP کی|P جیب|NN میں|P پیسہ|NN وافر|ADJ مقدار|NN میں|P ھے|AA تو|SC ہم|PP سے|SE رابطہ|NN کرکے|NN اپنی|GR لئے|NN بجلی|NN کی|P گڈی|NN منگوائیں|VB ۔|SM
+شمسی|ADJ توانائی|NN کیلئے|AA یہاں|AP پر|P ایک|CA کمپنی|NN کی|P قیمتیں|NN درج|ADJ ہیں|TA ۔|SM
+معذرت|NN کہ|SC یہ|PD سائیٹ|NN صرف|ADV جاپانی|NN میں|P ھے|AA ۔|SM
+لیکن|SC آپ|PP ہندسوں|NN میں|P قیمت|NN دیکھ|VB سکتے|AA ہیں|TA ۔|SM
+اور|CC اس|PD قیمت|NN کو|P پاکستانی|ADJ روپیہ|NN تصور|NN کر|VB سکتے|AA ہیں|TA ۔|SM

@@ -1,0 +1,43 @@
+﻿بت|UNK پرستی|NN تو|I خیر|NN ہمیشہ|ADV سے|SE ہی|I حضرت|NN انسان|NN کے|P ساتھ|NN رہی|AA ہے|TA ،|PM بلکہ|SC اس|PP پر|P حاوی|ADJ رہی|VB ۔|SM
+حتی|SC کہ|SC قدیم|ADJ تہذیبوں|NN میں|P سے|SE بھی|I جوکچھ|NN ہمارے|G ہاتھ|NN آرہا|VB ،|PM وہ|PP صرف|ADV بت|NN ہیں|TA ۔|SM
+یونانی|PN تہذیب|NN جب|AP عروج|NN پر|P تھی|TA تو|SC انہوں|PP نے|P اپنے|GR ہر|Q کام|NN کےلئے|NN "|PM دیوتا|VB اور|CC دیویاں|NN "|PM مقرر|ADJ کی|VB ہوئی|AA تھیں|TA ۔|SM
+بارش|NN کی|P دیوی|NN ،|PM جنگ|NN کی|P دیوی|NN ،|PM فتح|NN کی|P دیوی|NN ،|PM حتی|SC کہ|SC دریا|NN پارکرانے|UNK کےلئے|NN ایک|CA الگ|ADJ سے|SE دیوی|NN رکھ|VB چھوڑی|VB تھی|TA ۔|SM
+اسی|PD طرح|NN مصری|PN ،|PM رومن|PN اور|CC بابل|NN کی|P تہذیبوں|NN میں|P بھی|I کچھ|Q ایسے|PP ہی|I رہا|AA ۔|SM
+کہ|SC کسی|KD جگہ|NN دیوی|NN جی|PN کا|P چلن|NN رہا|VB تو|I کسی|KD جگہ|NN بادشاہ|NN کا|P بت|NN بنا|VB کر|KER سامنے|NN کھڑا|ADJ کرلیتے|VB اور|CC حاضری|NN کرواتےتھے|UNK ۔|SM
+بت|NN بنانے|VB کو|P ہر|Q میٹیریل|NN حسب|NN توفیق|NN استعمال|NN کیا|VB ،|PM پختہ|ADJ مٹی|NN سے|SE لیکر|VB ،|PM اینٹ|NN ،|PM روڑا|NN ،|PM پتھر|NN ،|PM لکڑی|NN ،|PM سونا|NN چاندی|NN ،|PM لوہا|NN اورہیرے|NN تک|P سے|SE پتھر|NN تراشے|VB گئے|AA ۔|SM
+بلکہ|SC بامیان|NN میں|P تو|SC پورے|ADJ کے|P پورے|ADJ پہاڑ|NN کو|P کھود|VB کر|VB بت|NN بنا|VB دیا|AA گیا|AA ۔|SM
+پھر|ADV طالبان|NN نے|P اسکا|G "|PM رام|PN نام|NN ستے|VB "|PM کی|VB اور|CC دنیانے|VB خوب|ADJ چیخیں|NN ماریں|VB ۔|SM
+ہمارے|G اردگرد|NN تو|I خیر|NN سے|SE "ات|UNK "ہی|UNK مچی|VB ہوئی|VB تھی|TA ۔|SM
+گندھارا|PN کی|P تہذیب|NN سے|SE لیکر|VB ہندومت|NN اور|CC جین|PN مت|ADV تک|P کے|P مذاہب|NN میں|P آج|NN بھی|I دیوی|NN دیوتاؤں|NN کے|P نام|NN کے|P بت|NN بنا|VB ئے|AA جاتے|AA ہیں|TA ۔|SM
+یہودی|NN مذہب|NN میں|P بھی|I کچھ|Q ایسا|PP ہی|I چلن|NN رہا|AA ہےکہ|SC ادھر|AP بت|NN تو|I کم|ADJ بنائےگئے|VB مگر|SC انہوں|PP نے|P فوٹو|PN بنا|VB کر|KER انکی|ADJ پرستش|NN البتہ|SC خو|NN ب|PN کی|VB ۔|SM
+اور|CC لمبی|ADJ لمبی|ADJ برکتیں|NN حاصل|ADJ کیں|VB یا|CC کوشش|NN حصول|NN کرتے|VB رہے|AA ۔|SM
+ہندو|PN مذہب|NN میں|P تو|I خیر|NN سے|SE اب|AP بھی|I باندر|ADV سے|SE لیکر|VB ہاتھی|NN تک|P کے|P بت|NN موجود|ADJ ہیں|TA اور|CC انکی|ADJ پرستش|NN دھڑا|ADJ دھڑ|NN جاری|ADJ ہے|TA ۔|SM
+سنا|VB ہے|TA کہ|SC "عضو|UNK تناسل|NN "|PM کا|P بھی|I کہیں|AKP بت|NN بنا|VB کر|KER رکھ|VB چھوڑا|VB ،|PM اور|CC بیبیاں|NN ادھر|AP بھی|I اولاد|NN کے|P حصول|NN کےلئے|NN چڑھاوا|NN چڑھا|VB کر|VB منت|NN مانگتی|VB پھرتی|VB ہیں|TA ۔|SM
+عیسائی|ADJ مذہب|NN میں|P بھی|I الٹے|NN سیدھے|ADJ تو|I نہیں|NEG مگر|SC انسانی|ADJ شکل|NN کے|P بت|NN کثیر|Q تعداد|NN میں|P نظر|NN آتے|VB ہیں|TA ۔|SM
+نومولود|ADJ حضرت|NN عیسی|ADJ ؑ|PN اور|CC نیم|ADJ عریاں|NN مریم|NN ؑ|PN کے|P مجسموں|NN سے|SE تو|SC برکت|NN کا|P حصول|NN ہو|VB ہی|I رہا|AA ہے|TA ۔|SM
+مگر|SC کہیں|AKP انکو|PN صلیب|NN پر|P ٹنگا|VB ہوا|VB دکھایا|VB گیا|AA جو|REP آپ|PP کو|P ہر|Q چرچ|NN میں|P بتعداد|UNK کثیر|Q ملیں|VB گے|TA ۔|SM
+ان|PP کے|P علاوہ|NN بھی|I ہر|Q محلے|NN میں|P سینٹ|NN کا|P بت|NN نصب|NN ہے|TA ۔|SM
+اسلام|PN ایک|CA واحد|ADJ مذہب|NN ہے|TA اور|CC اسلامی|PN معاشرہ|NN زمین|NN پر|P واحد|ADJ معاشرہ|NN ہے|VB جس|REP میں|P بت|NN پرستی|NN کو|P سختی|NN سے|SE ممنوع|ADJ قرار|NN دیا|AA گیا|AA ۔|SM
+خیر|NN سارے|ADJ ہی|I انبیاء|PN کرام|PN نے|P بت|NN شکنی|NN کی|VB ۔|SM
+کچھ|Q بتوں|NN کا|P تو|I باقاعدہ|ADJ ذکر|NN ہوا|VB قرآن|PN شریف|ADJ میں|P ۔|SM
+جن|REP میں|P حضرت|NN ابراہیم|PN علیہ|NN سلام|NN کے|P بت|NN توڑ|VB کر|VB کلہاڑا|NN بڑے|ADJ بت|NN کے|P کندھے|NN پر|P رکھ|VB دینے|VB کا|P ذکر|NN ہوا|VB ۔|SM
+پھر|ADV بچھڑے|NN کے|P سونے|VB کے|P بت|NN کا|P ذکر|NN ہوا|VB جو|REP حضرت|NN موسی|PN ؑ|PN کی|P قوم|NN نے|P انکے|NN کوہ|NN طور|NN پر|P جانے|AA کے|P بعد|NN بنا|VB لیا|AA ۔|SM
+پھر|ADV خانہ|NN کعبہ|NN میں|P موجود|ADJ بتوں|NN کا|P بھی|I ذکر|NN ہوا|VB ،|PM جو|REP فتح|NN مکہ|PN پر|P ہٹائے|VB گئے|AA ۔|SM
+اسلامی|PN تعلیمات|NN بت|NN پرستی|NN کو|P اور|CC تصویر|NN پرستی|NN کو|P یک|CA سر|NN مسترد|ADJ کرتی|VB ہے|TA ۔|SM
+اللہ|PN کی|P ایک|CA ایسی|AD وضاحت|NN کردی|VB گئی|AA کہ|SC بس|ADV پھر|ADV کسی|KD بت|NN ،|PM تصویر|NN ،|PM یا|CC کسی|KD بھی|I درمیانی|ADJ ذریعہ|NN کی|P حاجت|NN ہی|I ختم|ADJ ہوگئی|AA ۔|SM
+کہہ|VB دیا|AA اس|PP نے|P خود|RP ہی|I کہ|SC میں|P تمھاری|G شہہ|NN رگ|NN سے|SE بھی|I زیادہ|Q قریب|NN ہوں|TA ۔|SM
+پھر|ADV کہہ|VB دیا|VB کہ|SC تمھارے|G دل|NN میں|P بستا|VB ہے|TA ۔|SM
+اب|AP اپنے|GR دل|NN تک|P آواز|NN پہنچانے|VB کےلئے|NN مجھے|PP کس|KP ذریعہ|NN یا|CC سفارش|NN کی|P ضرورت|NN ہے|VB آپ|PP بتاؤ|VB ۔|SM
+مگر|SC ہم|PP مسلمان|NN اور|CC خاص|ADJ طور|NN پر|P پاکستانی|ADJ بہت|ADV بڑی|ADJ "چول"|UNK قوم|NN ہیں|TA ،|PM یا|CC شاید|ADV عادت|NN سے|SE مجبور|ADJ ہیں|TA ۔|SM
+ہم|PP بت|NN پرستی|NN سے|SE باز|NN نہ|NEG آئے|VB اور|CC ہم|PP نے|P اینٹ|NN پتھر|NN ،|PM لکڑی|NN ،|PM سونے|VB چاندی|NN کی|P جگہ|NN گوشت|NN پوس|PN کے|P بت|NN کھڑے|ADJ کرلئے|VB ۔|SM
+کبھی|AKP اسکو|NN پیر|PN صاحب|NN کا|P نام|NN دیا|AA گیا|AA تو|SC کبھی|AKP ،|PM قبر|NN کی|P شکل|NN دی|VB گئی|AA ۔|SM
+کبھی|AKP سیاسی|ADJ بت|NN اور|CC کبھی|AKP معاشرتی|ADJ بت|NN ۔|SM
+جیسے|A خدا|NN کا|P حکم|NN مان|VB لینا|VB فرض|NN ہے|VB ورنہ|SC کفر|NN لاگو|ADJ ہوا|VB ۔|SM
+سمجھو|VB ،|PM ایسے|PP ہی|I انکا|PN بھی|I ہر|Q حکم|NN ماننا|VB فرض|NN ہے|VB ورنہ|SC ہم|PP کو|P خدا|NN نے|P کہہ|VB دیا|VB کہ|SC سؤر|NN نہ|NEG کھانا|NN مگر|SC یہ|PP نہ|NEG بتایا|VB کہ|SC کیوں|QW ہم|PP نے|P کھانا|NN ترک|NN کردیا|VB ،|PM اور|CC سؤر|NN میں|P ایک|CA سو|VB پینتیس|CA خامیاں|NN نکال|VB لیں|AA ۔|SM
+مانتے|VB ہیں|TA کہ|SC ہر|Q اچھائی|NN خدا|NN کی|P طرف|NN سے|SE ہے|TA اور|CC معصیت|NN بھی|I ۔|SM
+اکثر|ADV میت|NN پر|P سنا|VB گیا|AA کہ|SC "|PM بس|NN جی|PN جس|REP کی|P چیز|NN تھی|TA اس|PP نے|P واپس|ADJ لے|VB لی|AA ،|PM وہ|PP مالک|NN جو|REP ہے|VB چاہے|VB ہری|PN کاٹے|VB یا|CC سوکھی"|UNK ۔|SM
+مطلب|NN ہم|PP اعتراض|NN کرنے|VB والے|WALA کون|P جی|PN ۔|SM
+اور|CC بابا|PN جی|PN بھی|I ہاں|INT میں|P ہاں|INT ملا|VB رہے|AA ہوتے|VB ہیں|TA ۔|SM
+مگر|SC گوشت|NN پوست|NN کا|P ایک|CA بڑا|ADJ سا|A بت|NN بنالیتے|VB ہیں|TA اور|CC اسکو|NN پوجنا|VB شروع|NN کردیتے|VB ہیں|TA ۔|SM
+پھر|ADV ہم|PP اس|PD بات|NN سے|SE بھی|I لاپرواہ|ADJ ہوجاتےہیں|AA کہ|SC وہ|PP کچھ|Q غلط|ADJ کہہ|VB رہا|AA ہے|TA کہ|SC درست|ADJ ۔|SM
+مگر|SC ہم|PP اس|PP میں|P سے|SE خود|RP ہی|I "لاجک"|UNK تلاش|NN کرلیتےہیں|NN اور|CC اپنے|GR آپ|PP کو|P حقدار|NN ثواب|NN قرار|NN دے|VB لیتےہیں|AA ۔|SM

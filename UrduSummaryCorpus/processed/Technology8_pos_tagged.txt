@@ -1,0 +1,12 @@
+﻿سان|UNK فرانسسکو|PN ۔|SM
+نائی|NN ٹینڈو|PN نے|P بدھ|PN کو|P اپنے|GR وی|PN یو|PN ویڈیو|ADJ گیم|NN کنسول|PN کی|P قیمت|NN میں|P کمی|NN کی|VB ۔|SM
+اور|CC ایک|CA کم|ADJ درجے|NN کا|P ڈی|PN ایس|PN دستی|ADJ گیمنگ|PN آلہ|NN متعارف|ADJ کروایا|VB ۔|SM
+ایسے|ADJ اقدامات|NN جو|REP فروخت|NN بڑھانے|VB کی|P کوششوں|NN کا|P حصہ|NN ہیں|TA ۔|SM
+نائی|NN ٹینڈو|PN نے|P نئی|ADJ گیموں|NN کے|P ایک|CA سلسلے|NN کا|P بھی|I اعلان|NN کیا|VB ۔|SM
+جیسا|A کہ|SC وہ|PP حریف|NN سونی|PN اور|CC مائیکروسافٹ|NN کی|P پیشکشیں|NN مارکیٹ|NN میں|P داخل|NN ہونے|VB سے|SE قبل|NN اپنے|GR تازہ|ADJ ترین|ADJ ہارڈ|NN وئیر|PN کی|P جاں|NN بلب|NN فروخت|NN میں|P زندگی|NN پیدا|NN کرنے|VB کی|P کوشش|NN کر|VB رہا|AA ہے|TA ۔|SM
+نائی|NN ٹینڈو|PN نے|P کہا|VB کہ|SC اس|PP کے|P اعلی|ADJ ترین|ADJ وی|PN یو|PN ڈیلکس|PN سیٹ|NN کی|P قیمت|NN 20|CA ستمبر|PN سے|SE 50|CA ڈالر|NN کی|P کمی|NN نافذ|ADJ العمل|NN ہونے|VB کے|P بعد|NN سے|SE 300|CA ڈالر|NN پر|P آ|VB جائے|AA گی|TA ۔|SM
+نائی|NN ٹینڈو|PN 2|CA ڈی|PN ایس|PN نا|ADV می|PN نیا|ADJ گیمنگ|PN آلہ|NN نائی|NN ٹینڈو|PN 3|CA ڈی|PN ایس|PN کی|P گیموں|NN کو|P چلائے|VB گا|TA تو|SC سہی|VB ۔|SM
+لیکن|SC یہ|PP انہیں|PP اپنے|GR زیادہ|ADV نفیس|PN پیش|NN رو|PN کی|P سہ|VB جہتی|ADJ تصویری|NN عمل|NN کاری|NN کی|P بجائے|ADV دو|CA جہتی|ADJ گرافکس|NN کی|P شکل|NN میں|P پیش|NN کرے|VB گا|TA ۔|SM
+‘‘|UNK ہم|PP ان|PP منفرد|ADJ نائی|NN ٹینڈو|PN تجربات|NN کو|P مزید|ADJ قابل|ADJ رسائی|NN اور|CC قابل|ADJ خریداری|NN بنا|VB رہے|AA ہیں|TA ۔|SM
+’’|UNK جاپان|PN کا|P نائی|NN ٹینڈو|PN جون|PN تک|P کی|P سہ|VB ماہی|NN کے|P دوران|NN 88|CA ملین|CA ڈالر|NN کے|P منافع|NN کی|P جانب|NN واپس|ADJ لوٹا|VB تھا|TA ۔|SM
+جیسا|A کہ|SC کمزور|ADJ ہوتے|VB ین|NN نے|P اس|PP کے|P غیر|ADJ ملکی|ADJ (|PN فروخت|NN کے|P )|EXP نتائج|NN کو|P پھلانے|VB میں|P مدد|NN دی|AA ۔|SM

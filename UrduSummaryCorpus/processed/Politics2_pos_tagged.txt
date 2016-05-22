@@ -1,0 +1,18 @@
+﻿آج|UNK ملک|NN میں|P بے|PN شمار|NN پارٹیاں|NN مسلم|PN لیگ|PN کے|P نام|NN پر|P وجود|NN میں|P آ|VB چکی|AA ہیں|TA ۔|SM
+ہر|Q پارٹی|NN کایہی|ADJ کہنا|VB ہے|TA کہ|SC وہ|PP ملک|NN کی|P خدمت|NN کرنا|VB چاہتی|AA ہے|TA ۔|SM
+خدمت|NN ہم|PP سب|Q کے|P سامنے|NN ہے|VB کتنی|Q ہو|VB رہی|AA ہے|TA ۔|SM
+اور|CC مسلم|PN لیگ|PN کے|P نام|NN پر|P کیا|QW خوب|ADJ ہو|VB رہی|AA ہے|TA ۔|SM
+مسلم|PN لیگ|PN 30|CA دسمبر|PN 1906|CA میں|P ڈھاکہ|NN میں|P نواب|NN سیلم|PN خان|NN کی|P ایک|CA پارٹی|NN کی|P صورت|NN میں|P وجود|NN میں|P آئی|VB ۔|SM
+قائداعظم|PN محمد|PN علی|PN جناح|PN ہندو|PN مسلم|PN اتحاد|NN کے|P حامی|NN تھے|TA اور|CC آل|PN انڈیا|PN نیشنل|PN کانگریس|PN کے|P رکن|NN بھی|I رہے|AA تھے|TA ۔|SM
+لیکن|SC کانگریس|PN کی|P مسلم|PN کش|NN پالیسیوں|NN سے|SE بددل|NN ہوکر|TA وہ|PP مسلم|PN لیگ|PN میں|P شامل|ADJ ہوگئے|AA ۔|SM
+مسلم|PN لیگ|PN کا|P دستور|NN باقاعدہ|ADJ طور|NN پر|P امرتسر|NN میں|P 1908|CA میں|P منظور|ADJ ہوا|VB ۔|SM
+مسلم|PN لیگ|PN کا|P قیام|NN کا|P اصل|ADJ مقصد|NN الگ|ADJ ملک|NN تھا|TA ۔|SM
+جہاں|AP مسلمان|NN اپنی|GR مرضی|NN سے|SE زندگی|NN گرز|NN سکیں|AA ۔|SM
+کیا|QW ہمارے|G ملک|NN میں|P جتنی|Q مسلم|PN لیگ|PN نامی|PN پارٹیاں|NN بنتی|VB تو|SC جارہی|AA ہیں|TA لیکن|SC ان|PP کا|P مقصد|NN بھی|I وہی|PP تھا|VB جو|REP ہمارے|G قاہد|PN کا|P تھا|VB یا|CC پھر|ADV پاکستان|PN کو|P مختلف|ADJ ناموں|NN کے|P ذریعے|NN الگ|ADJ کرنا|VB ہے|TA ۔|SM
+آج|NN مسلم|PN لیگ|PN ن|PN مسلم|PN لیگ|PN ق|PN مسلم|PN لیگ|PN ال|PN پاکستان|PN ۔|SM
+مسلم|PN لیگ|PN کے|P نام|NN پر|P کھلے|ADJ عام|ADJ دھوکہ|NN ۔|SM
+کل|Q مشرف|NN کے|P حامی|NN آج|NN پی|VB پی|VB پی|PN کے|P دوست|NN کل|Q مسلم|PN لیگ|PN ن|PN کے|P دوست|NN آج|NN پی|VB پی|VB پی|PN کے|P دشمن|NN الطاف|PN بھائی|NN کے|P دشمن|NN پھر|ADV دوست|NN اور|CC بھائی|ADJ بھائی|NN کیا|QW خوب|ADJ تماشا|NN ہو|VB رہا|AA ہے|TA ۔|SM
+اور|CC ہم|PP روز|NN ٹی|PN وی|PN کے|P سامنے|NN بیٹھے|VB غصے|NN کی|P گولی|NN کھا|VB کر|KER اپنے|GR آپ|PP کو|P نارمل|ADJ کرنے|VB اور|CC تسلی|NN میں|P لگے|VB ہوئے|VB ہیں|TA ۔|SM
+لیکن|SC ان|PD سب|Q میں|P غریب|ADJ کہاں|AKP ہے|TA گیٹ|PN کے|P اندر|NN یا|CC گیٹ|PN کے|P باہر|NN ۔|SM
+وہ|PP تو|SC قاہد|PN اعظم|NN کو|P بھی|I نہیں|NEG جانتا|VB ہو|VB گا|TA اور|CC نا|ADV ہی|I پاکستان|PN کا|P مطلب|NN کیا|VB کے|P بارے|NN میں|P کوئی|Q علم|NN رکھتا|VB ہو|VB گا|TA ۔|SM
+کیا|QW ہمارے|G لیے|ADV اس|PP سے|SE بڑھ|VB کر|VB دوب|VB مرنے|VB کا|P کوئی|Q مقام|NN ہے|TA ۔|SM
