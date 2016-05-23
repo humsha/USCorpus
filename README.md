@@ -80,6 +80,10 @@ Lahore, Pakistan
 
 http://www.ucp.edu.pk/
 
+##Publication:
+Muhammad Humayoun, Rao Muhammad Adeel Nawab, Muhammad Uzair, Saba Aslam, Omer Farzand (2016)
+Urdu Summary Corpus. Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016). European Language Resources Association (ELRA), ISBN: 978-2-9517408-9-1. http://www.lrec-conf.org/proceedings/lrec2016/index.html
+
 
 ## References:
 
