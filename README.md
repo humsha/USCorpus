@@ -47,6 +47,17 @@ $ java -cp bin USCTools stemming input.txt output.txt
 $ java -cp bin USCTools tagging input.txt output.txt 	 
 
 
+## Contributers:
+Muhammad Humayoun, humayoun@gmail.com
+
+Rao Muhammad Adeel Nawab, adeelnawab@ciitlahore.edu.pk
+
+Muhammad Uzair, uzairnaroo@gmail.com
+
+Saba Aslam, saba 12@hotmail.fr
+
+Omer Farzand, umerfarzand@gmail.com
+
 
 ## Maintainer
 Muhammad Humayoun (PhD)
