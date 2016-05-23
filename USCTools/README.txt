@@ -3,9 +3,18 @@ Urdu Summary Corpus Tools
 Muhammad Humayoun (PhD)
 humayoun@gmail.com
 
+Post-doc Researher
+Institut de Recherche en Informatique de Toulouse (IRIT)
+Universite Paul Sabatier, Toulouse, France
+http://www.irit.fr
+
 Assistant Professor
-University of Central Punjab, 
+University of Central Punjab,
 Lahore, Pakistan
+http://www.ucp.edu.pk/
+
+
+Muhammad Uzair, uzairnaroo@gmail.com
 ---------------------------------------------------
 
 + Normalization is taken from [1], Diacritic marks are also removed in this step. 
