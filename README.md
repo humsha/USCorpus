@@ -52,7 +52,7 @@ Muhammad Humayoun, humayoun@gmail.com
 
 Muhammad Uzair, uzairnaroo@gmail.com
 
-Saba Aslam, saba 12@hotmail.fr
+Saba Aslam, saba12@hotmail.fr
 
 Omer Farzand, umerfarzand@gmail.com
 
@@ -63,26 +63,20 @@ Muhammad Humayoun (PhD)
 
 humayoun@gmail.com
 
-Post-doc Researher 
-
-Institut de Recherche en Informatique de Toulouse (IRIT)
-
-Universite Paul Sabatier, Toulouse, France
-
-http://www.irit.fr
-
-
 Assistant Professor
 
-University of Central Punjab, 
+Computer Information Sciences Division
 
-Lahore, Pakistan
+Abu Dhabi Men’s Campus, Higher Colleges of Technology
 
-http://www.ucp.edu.pk/
+Abu Dhabi, United Arab Emirates
 
-##Publication:
+
+## Related Publications:
 Muhammad Humayoun, Rao Muhammad Adeel Nawab, Muhammad Uzair, Saba Aslam, Omer Farzand (2016)
 Urdu Summary Corpus. Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016). European Language Resources Association (ELRA), ISBN: 978-2-9517408-9-1. http://www.lrec-conf.org/proceedings/lrec2016/index.html
+
+Muhammad Humayoun and Hwanjo Yu (2016), Analyzing Pre-processing Settings for Urdu Single-document Extractive Summarization. In Nicoletta Calzolari, et al., editors, Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016). European Language Resources Association (ELRA). ISBN: 978-2-9517408-9-1. 
 
 
 ## References:
